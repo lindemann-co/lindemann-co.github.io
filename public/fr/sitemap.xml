@@ -28,6 +28,12 @@
                 href="http://lindemann.co/fr/accueil/"
                 />
   </url><url>
+    <loc>http://lindemann.co/fr/vision/</loc>
+    <lastmod>2023-08-06T21:59:54+02:00</lastmod>
+  </url><url>
+    <loc>http://lindemann.co/fr/tags/basse-vision/</loc>
+    <lastmod>2023-08-06T21:59:54+02:00</lastmod>
+  </url><url>
     <loc>http://lindemann.co/fr/cal/</loc>
     <lastmod>2023-08-06T21:59:54+02:00</lastmod>
     <xhtml:link
@@ -41,6 +47,44 @@
                 href="http://lindemann.co/fr/cal/"
                 />
   </url><url>
+    <loc>http://lindemann.co/fr/tags/citations/</loc>
+    <lastmod>2023-08-06T21:59:54+02:00</lastmod>
+  </url><url>
+    <loc>http://lindemann.co/fr/citations/</loc>
+    <lastmod>2023-08-06T21:59:54+02:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://lindemann.co/en/quotes/home/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="http://lindemann.co/fr/citations/"
+                />
+  </url><url>
+    <loc>http://lindemann.co/fr/vision/couvre-chef/</loc>
+    <lastmod>2023-08-06T21:59:54+02:00</lastmod>
+  </url><url>
+    <loc>http://lindemann.co/fr/vision/deficiences-visuelles/</loc>
+    <lastmod>2023-08-06T21:59:54+02:00</lastmod>
+  </url><url>
+    <loc>http://lindemann.co/fr/citations/balasko-1/</loc>
+    <lastmod>2023-08-06T21:59:54+02:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://lindemann.co/en/quotes/balasko-1/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="http://lindemann.co/fr/citations/balasko-1/"
+                />
+  </url><url>
+    <loc>http://lindemann.co/fr/vision/google-doc/</loc>
+    <lastmod>2023-08-06T21:59:54+02:00</lastmod>
+  </url><url>
     <loc>http://lindemann.co/fr/tags/home/</loc>
     <lastmod>2023-08-06T21:59:54+02:00</lastmod>
     <xhtml:link
@@ -53,6 +97,9 @@
                 hreflang="fr"
                 href="http://lindemann.co/fr/tags/home/"
                 />
+  </url><url>
+    <loc>http://lindemann.co/fr/citations/torvalds-1/</loc>
+    <lastmod>2023-08-06T21:59:54+02:00</lastmod>
   </url><url>
     <loc>http://lindemann.co/fr/</loc>
     <lastmod>2023-08-06T21:59:54+02:00</lastmod>
@@ -80,6 +127,33 @@
                 href="http://lindemann.co/fr/cv/"
                 />
   </url><url>
+    <loc>http://lindemann.co/fr/vision/linux/</loc>
+    <lastmod>2023-08-06T21:59:54+02:00</lastmod>
+  </url><url>
+    <loc>http://lindemann.co/fr/low-vision/</loc>
+    <lastmod>2023-08-06T21:59:54+02:00</lastmod>
+  </url><url>
+    <loc>http://lindemann.co/fr/vision/lunettes-de-soleil/</loc>
+    <lastmod>2023-08-06T21:59:54+02:00</lastmod>
+  </url><url>
+    <loc>http://lindemann.co/fr/vision/lunettes-de-vue/</loc>
+    <lastmod>2023-08-06T21:59:54+02:00</lastmod>
+  </url><url>
+    <loc>http://lindemann.co/fr/vision/materiel-informatique/</loc>
+    <lastmod>2023-08-06T21:59:54+02:00</lastmod>
+  </url><url>
+    <loc>http://lindemann.co/fr/citations/jancovici-1/</loc>
+    <lastmod>2023-08-06T21:59:54+02:00</lastmod>
+  </url><url>
+    <loc>http://lindemann.co/fr/vision/montre/</loc>
+    <lastmod>2023-08-06T21:59:54+02:00</lastmod>
+  </url><url>
+    <loc>http://lindemann.co/fr/vision/navigateur/</loc>
+    <lastmod>2023-08-06T21:59:54+02:00</lastmod>
+  </url><url>
+    <loc>http://lindemann.co/fr/vision/prise-de-notes/</loc>
+    <lastmod>2023-08-06T21:59:54+02:00</lastmod>
+  </url><url>
     <loc>http://lindemann.co/fr/tags/pro/</loc>
     <lastmod>2023-08-06T21:59:54+02:00</lastmod>
     <xhtml:link
@@ -91,6 +165,19 @@
                 rel="alternate"
                 hreflang="fr"
                 href="http://lindemann.co/fr/tags/pro/"
+                />
+  </url><url>
+    <loc>http://lindemann.co/fr/quotes/</loc>
+    <lastmod>2023-08-06T21:59:54+02:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://lindemann.co/en/quotes/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="http://lindemann.co/fr/quotes/"
                 />
   </url><url>
     <loc>http://lindemann.co/fr/tags/</loc>
@@ -105,6 +192,12 @@
                 hreflang="fr"
                 href="http://lindemann.co/fr/tags/"
                 />
+  </url><url>
+    <loc>http://lindemann.co/fr/vision/telephone/</loc>
+    <lastmod>2023-08-06T21:59:54+02:00</lastmod>
+  </url><url>
+    <loc>http://lindemann.co/fr/tags/vision/</loc>
+    <lastmod>2023-08-06T21:59:54+02:00</lastmod>
   </url><url>
     <loc>http://lindemann.co/fr/blog/</loc>
     <xhtml:link
