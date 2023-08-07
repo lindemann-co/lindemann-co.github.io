@@ -3,7 +3,7 @@ title: "Déficiences visuelles"
 slug: "../vision/deficiences-visuelles"
 date: 2023-08-06T21:59:54+02:00
 draft: false
-toc: false
+toc: true
 images:
 tags:
   - basse vision
@@ -11,13 +11,7 @@ tags:
 
 Ce document est un extrait, traduit en français, [d'un texte rédigé en anglais](https://w3c.github.io/low-vision-a11y-tf/requirements.html#visual-impairments) par le [W3C](https://fr.wikipedia.org/wiki/World_Wide_Web_Consortium).
 
-La section qui suit introduit brièvement cinq types de déficiences visuelles:
-
-1. Acuité visuelle (clarté)
-1. Sensibilité à la lumière et à l'éblouissement
-1. Sensibilité au contraste
-1. Champ visuel
-1. Perception des couleurs
+La section qui suit introduit brièvement cinq types de déficiences visuelles.
 
 ## Acuité visuelle (Clarté)
 
