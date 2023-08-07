@@ -1,3 +1,13 @@
+---
+title: "Linux for low vision"
+slug: "../vision/linux"
+date: 2023-08-06T21:59:54+02:00
+draft: true
+toc: true
+images:
+tags:
+  - basse vision
+---
 Cette page présente les personnalisations que j'ai apportées à mon environnement de bureau pour m'aider à mieux supporter l'exposition aux écrans d'ordinateur malgré mon hypersensibilité à la lumière.
 
 # Système d'exploitation
