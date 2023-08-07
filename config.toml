@@ -1,0 +1,103 @@
+baseURL = 'http://lindemann.co/'
+defaultContentLanguage = 'fr'
+defaultContentLanguageInSubdir = true
+title = "Lindemann"
+theme = "hello-friend-ng"
+paginate = 100
+
+[author]
+  name = "Mathieu Lindemann"
+
+[params]
+  dateform        = "Jan 2, 2006"
+  dateformShort   = "Jan 2"
+  dateformNum     = "2006-01-02"
+  dateformNumTime = "2006-01-02 15:04"
+
+  # Subtitle for home
+  homeSubtitle = "Bienvenue | Welcome"
+
+  # Set disableReadOtherPosts to true in order to hide the links to other posts.
+  disableReadOtherPosts = false
+
+  enableThemeToggle = true
+
+  # Enable sharing buttons, if you like
+  enableSharingButtons = true
+  
+  # Show a global language switcher in the navigation bar
+  enableGlobalLanguageMenu = false
+
+  # Custom footer 
+  # If you want, you can easily override the default footer with your own content. 
+  #
+  [params.footer]
+    trademark = true
+    rss = true
+    copyright = false
+    author = true
+
+    topText = []
+    bottomText = [
+      "Powered by <a href=\"http://gohugo.io\">Hugo</a>",
+      "Made with &#10084; by <a href=\"https://github.com/rhazdon\">Djordje Atlialp</a>"
+    ]
+
+  [params.logo]
+    logoMark     = "$"
+    logoText     = "~/"
+    logoHomeLink = "/"
+    # Set true to remove the logo cursor entirely.
+    logoCursorDisabled = false
+    # Set to a valid CSS color to change the cursor in the logo.
+    logoCursorColor    = "#555"
+    # Set to a valid CSS time value to change the animation duration, "0s" to disable.
+    logoCursorAnimate  = "3s"
+    # Append the current url pathname to logoText 
+    logoCursorPathname = true
+
+[taxonomies]
+    category = "blog"
+    tag      = "tags"
+    series   = "series"
+
+[languages]
+  [languages.fr]
+    title = "Bienvenue"
+    subtitle = "Bienvenue sur mon site"
+    keywords = ""
+    copyright = '<a href="https://creativecommons.org/licenses/by-nc/4.0/" target="_blank" rel="noopener">CC BY-NC 4.0</a>'
+    readOtherPosts = "Voir les autres pages."
+
+    [[Languages.fr.menu.main]]
+      url = "/accueil"
+      name = "Accueil"
+      weight = 10
+    [[Languages.fr.menu.main]]
+      url = "/a-propos/"
+      name = "À propos"
+      weight = 20
+    [[Languages.fr.menu.main]]
+      url = "/vision/"
+      name = "Basse vision"
+      weight = 30
+
+  [languages.en]
+    title = "Welcome"
+    subtitle = "Welcome to my personal site."
+    keywords = ""
+    copyright = '<a href="https://creativecommons.org/licenses/by-nc/4.0/" target="_blank" rel="noopener">CC BY-NC 4.0</a>'
+    readOtherPosts = "Read other posts"
+
+    [[Languages.en.menu.main]]
+      url = "/home"
+      name = "Home"
+      weight = 10
+    [[Languages.en.menu.main]]
+      url = "/about/"
+      name = "About"
+      weight = 20
+#    [[Languages.en.menu.main]]
+#      url = "/vision/"
+#      name = "Low vision"
+#      weight = 30
