@@ -2,6 +2,110 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>http://lindemann.co/en/about/</loc>
+    <lastmod>2023-08-06T21:59:54+02:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="http://lindemann.co/fr/a-propos/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://lindemann.co/en/about/"
+                />
+  </url><url>
+    <loc>http://lindemann.co/en/cal/</loc>
+    <lastmod>2023-08-06T21:59:54+02:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="http://lindemann.co/fr/cal/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://lindemann.co/en/cal/"
+                />
+  </url><url>
+    <loc>http://lindemann.co/en/tags/home/</loc>
+    <lastmod>2023-08-06T21:59:54+02:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="http://lindemann.co/fr/tags/home/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://lindemann.co/en/tags/home/"
+                />
+  </url><url>
+    <loc>http://lindemann.co/en/home/</loc>
+    <lastmod>2023-08-06T21:59:54+02:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="http://lindemann.co/fr/accueil/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://lindemann.co/en/home/"
+                />
+  </url><url>
+    <loc>http://lindemann.co/en/</loc>
+    <lastmod>2023-08-06T21:59:54+02:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="http://lindemann.co/fr/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://lindemann.co/en/"
+                />
+  </url><url>
+    <loc>http://lindemann.co/en/cv/</loc>
+    <lastmod>2023-08-06T21:59:54+02:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="http://lindemann.co/fr/cv/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://lindemann.co/en/cv/"
+                />
+  </url><url>
+    <loc>http://lindemann.co/en/tags/pro/</loc>
+    <lastmod>2023-08-06T21:59:54+02:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="http://lindemann.co/fr/tags/pro/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://lindemann.co/en/tags/pro/"
+                />
+  </url><url>
+    <loc>http://lindemann.co/en/tags/</loc>
+    <lastmod>2023-08-06T21:59:54+02:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="http://lindemann.co/fr/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://lindemann.co/en/tags/"
+                />
+  </url><url>
     <loc>http://lindemann.co/en/low-vision/linux/</loc>
   </url><url>
     <loc>http://lindemann.co/en/quotes/robert-jordan-1/</loc>
@@ -18,18 +122,6 @@
                 href="http://lindemann.co/en/blog/"
                 />
   </url><url>
-    <loc>http://lindemann.co/en/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr"
-                href="http://lindemann.co/fr/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="http://lindemann.co/en/"
-                />
-  </url><url>
     <loc>http://lindemann.co/en/low-vision/</loc>
   </url><url>
     <loc>http://lindemann.co/en/quotes/</loc>
@@ -44,18 +136,6 @@
                 rel="alternate"
                 hreflang="en"
                 href="http://lindemann.co/en/series/"
-                />
-  </url><url>
-    <loc>http://lindemann.co/en/tags/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr"
-                href="http://lindemann.co/fr/tags/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="http://lindemann.co/en/tags/"
                 />
   </url>
 </urlset>

@@ -4,6 +4,53 @@
     <title>Lindemann</title>
     <link>http://lindemann.co/fr/</link>
     <description>Recent content on Lindemann</description>
-    <generator>Hugo -- gohugo.io</generator><atom:link href="http://lindemann.co/fr/index.xml" rel="self" type="application/rss+xml" />
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Sun, 06 Aug 2023 21:59:54 +0200</lastBuildDate><atom:link href="http://lindemann.co/fr/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>À propos</title>
+      <link>http://lindemann.co/fr/a-propos/</link>
+      <pubDate>Sun, 06 Aug 2023 21:59:54 +0200</pubDate>
+      
+      <guid>http://lindemann.co/fr/a-propos/</guid>
+      <description>Qui Je suis un mari et père de deux enfants.
+Je suis un ingénieur et un entrepreneur.
+Je suis né en France au début des années 1980. Il y a prescription.
+Où Je vis à Lausanne, en Suisse.
+J&amp;rsquo;ai également vécu et travaillé en France, au Vietnam, en Malaisie et aux États-Unis.
+Je travaille à distance ou avec des équipes réparties sur plusieurs créneaux horaires depuis plus de 15 ans.</description>
+    </item>
+    
+    <item>
+      <title>Accueil</title>
+      <link>http://lindemann.co/fr/accueil/</link>
+      <pubDate>Sun, 06 Aug 2023 21:59:54 +0200</pubDate>
+      
+      <guid>http://lindemann.co/fr/accueil/</guid>
+      <description>Si vous êtes sur cette page, c&amp;rsquo;est que nous nous connaissons probablement.
+Faites-moi part de votre découverte lors de notre prochaine rencontre et je vous offrirai un verre ou du chocolat, selon vos goûts.
+D&amp;rsquo;ici là, prenez soin de vous et de vos proches.
+À bientôt,
+ML</description>
+    </item>
+    
+    <item>
+      <title>Calendrier</title>
+      <link>http://lindemann.co/fr/cal/</link>
+      <pubDate>Sun, 06 Aug 2023 21:59:54 +0200</pubDate>
+      
+      <guid>http://lindemann.co/fr/cal/</guid>
+      <description>J&amp;rsquo;utilise un service nommé Calendly pour partager l&amp;rsquo;accès sécurisé à mon calendrier.
+Pour y accéder, cliquez ici.</description>
+    </item>
+    
+    <item>
+      <title>LinkedIn</title>
+      <link>http://lindemann.co/fr/cv/</link>
+      <pubDate>Sun, 06 Aug 2023 21:59:54 +0200</pubDate>
+      
+      <guid>http://lindemann.co/fr/cv/</guid>
+      <description>Pour accéder à mon profil LinkedIn, cliquez ici.</description>
+    </item>
+    
   </channel>
 </rss>

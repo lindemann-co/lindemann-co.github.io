@@ -4,7 +4,55 @@
     <title>Lindemann</title>
     <link>http://lindemann.co/en/</link>
     <description>Recent content on Lindemann</description>
-    <generator>Hugo -- gohugo.io</generator><atom:link href="http://lindemann.co/en/index.xml" rel="self" type="application/rss+xml" />
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Sun, 06 Aug 2023 21:59:54 +0200</lastBuildDate><atom:link href="http://lindemann.co/en/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>About</title>
+      <link>http://lindemann.co/en/about/</link>
+      <pubDate>Sun, 06 Aug 2023 21:59:54 +0200</pubDate>
+      
+      <guid>http://lindemann.co/en/about/</guid>
+      <description>Who I am a husband and father of two.
+I am an engineer, entrepreneur and computer scientist.
+I was born in France in the early 1980’s. Too long ago already.
+Where I live in Lausanne, Switzerland.
+I also lived and worked in France, in Vietnam, in Malaysia and in the U.S.
+I have been working remotely or with distributed teams for 15+ years.
+What When I wasn’t busy teaching my kids how to use a glue gun, I have been managing tech organizations, mostly building or turning them around.</description>
+    </item>
+    
+    <item>
+      <title>Calendar</title>
+      <link>http://lindemann.co/en/cal/</link>
+      <pubDate>Sun, 06 Aug 2023 21:59:54 +0200</pubDate>
+      
+      <guid>http://lindemann.co/en/cal/</guid>
+      <description>I use a service called Calendly to give secure access to my calendar.
+Click here to open it and book a call.</description>
+    </item>
+    
+    <item>
+      <title>Home</title>
+      <link>http://lindemann.co/en/home/</link>
+      <pubDate>Sun, 06 Aug 2023 21:59:54 +0200</pubDate>
+      
+      <guid>http://lindemann.co/en/home/</guid>
+      <description>If you landed on this page, then we probably are connected in some way.
+Mention your discovery next time we meet in person and I’ll buy you a drink. Or some chocolate. If we meet in France or Switzerland, definitely go for the chocolate.
+Until then, take care of yourself and the ones you love.
+Best,
+ML</description>
+    </item>
+    
+    <item>
+      <title>LinkedIn</title>
+      <link>http://lindemann.co/en/cv/</link>
+      <pubDate>Sun, 06 Aug 2023 21:59:54 +0200</pubDate>
+      
+      <guid>http://lindemann.co/en/cv/</guid>
+      <description>Click here to go to my LinkedIn profile page.</description>
+    </item>
+    
     <item>
       <title></title>
       <link>http://lindemann.co/en/low-vision/linux/</link>
