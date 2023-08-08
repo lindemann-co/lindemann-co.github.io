@@ -7,7 +7,7 @@ draft: false
 toc: false
 images:
 tags:
-  - home
+  - accueil
 ---
 
 ![Portrait](/me.jpg)

@@ -41,6 +41,7 @@ languages:
     title: Bienvenue
     subtitle: Bienvenue sur mon site
     homeSubtitle: Pour naviguer, utilisez le menu en haut de la page.
+    notFound: "La page que vous cherchez n'existe pas."
     keywords: ''
     copyright: >-
       <a href="https://creativecommons.org/licenses/by-nc/4.0/" target="_blank"
@@ -52,7 +53,7 @@ languages:
       copyright: false
       author: true
       bottomText:
-        - 'Thème réalisé par <a href="https://github.com/rhazdon">D. Atlialp</a>'
+        - 'Thème réalisé par <a href="https://github.com/rhazdon">DA</a>'
     menu:
       main:
         - url: /accueil
@@ -82,7 +83,7 @@ languages:
       copyright: false
       author: true
       bottomText:
-        - 'Theme by <a href="https://github.com/rhazdon">D. Atlialp</a>'
+        - 'Theme by <a href="https://github.com/rhazdon">DA</a>'
     menu:
       main:
         - url: /home
@@ -91,6 +92,9 @@ languages:
         - url: /about/
           name: About
           weight: 20
+        - url: /vision/
+          name: Low vision
+          weight: 30
         - url: ../fr
           name: FR
           weight: 1000

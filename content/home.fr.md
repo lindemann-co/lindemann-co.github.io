@@ -6,12 +6,12 @@ draft: false
 toc: false
 images:
 tags:
-  - home
+  - accueil
 ---
 
-Si vous êtes sur cette page, c'est que nous nous connaissons probablement.
+Si vous lisez sur cette page, c'est que nous nous connaissons probablement.
 
-Faites-moi part de votre découverte lors de notre prochaine rencontre et je vous offrirai un verre ou du chocolat, selon vos goûts.
+Faites-moi part de votre découverte lors de notre prochaine rencontre et je vous témoignerai mon estime éternelle.
 
 D'ici là, prenez soin de vous et de vos proches.
 
