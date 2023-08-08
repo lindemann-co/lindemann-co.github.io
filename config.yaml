@@ -1,0 +1,96 @@
+baseURL: 'http://lindemann.co/'
+defaultContentLanguage: fr
+defaultContentLanguageInSubdir: true
+title: Lindemann
+theme: hello-friend-ng
+paginate: 100
+
+author:
+  name: Mathieu Lindemann
+
+params:
+  dateform: 'Jan 2, 2006'
+  dateformShort: Jan 2
+  dateformNum: '2006-01-02'
+  dateformNumTime: '2006-01-02 15:04'
+  enableThemeToggle: true
+  enableSharingButtons: true
+  footer:
+    trademark: true
+    rss: true
+    copyright: false
+    author: true
+    bottomText:
+      - 'Theme by <a href="https://github.com/rhazdon">D. Atlialp</a>'
+  logo:
+    logoMark: $
+    logoText: '~'
+    logoHomeLink: /
+    logoCursorDisabled: false
+    logoCursorColor: '#555'
+    logoCursorAnimate: 3s
+    logoCursorPathname: false
+
+taxonomies:
+  category: blog
+  tag: tags
+  series: series
+
+languages:
+  fr:
+    title: Bienvenue
+    subtitle: Bienvenue sur mon site
+    homeSubtitle: Pour naviguer, utilisez le menu en haut de la page.
+    keywords: ''
+    copyright: >-
+      <a href="https://creativecommons.org/licenses/by-nc/4.0/" target="_blank"
+      rel="noopener">CC BY-NC 4.0</a>
+    readOtherPosts: Voir les autres pages.
+    footer:
+      trademark: true
+      rss: true
+      copyright: false
+      author: true
+      bottomText:
+        - 'Thème réalisé par <a href="https://github.com/rhazdon">D. Atlialp</a>'
+    menu:
+      main:
+        - url: /accueil
+          name: Accueil
+          weight: 10
+        - url: /a-propos/
+          name: À propos
+          weight: 20
+        - url: /vision/
+          name: Basse vision
+          weight: 30
+        - url: ../en
+          name: EN
+          weight: 1000
+  en:
+    title: Welcome
+    subtitle: Welcome to my personal site.
+    homeSubtitle: Use the top menu to explore the content.
+    keywords: ''
+    copyright: >-
+      <a href="https://creativecommons.org/licenses/by-nc/4.0/" target="_blank"
+      rel="noopener">CC BY-NC 4.0</a>
+    readOtherPosts: Read other posts
+    footer:
+      trademark: true
+      rss: true
+      copyright: false
+      author: true
+      bottomText:
+        - 'Theme by <a href="https://github.com/rhazdon">D. Atlialp</a>'
+    menu:
+      main:
+        - url: /home
+          name: Home
+          weight: 10
+        - url: /about/
+          name: About
+          weight: 20
+        - url: ../fr
+          name: FR
+          weight: 1000

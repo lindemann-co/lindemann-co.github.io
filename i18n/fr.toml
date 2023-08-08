@@ -1,0 +1,42 @@
+# Translations for French
+# https://gohugo.io/content-management/multilingual/#translation-of-strings
+
+# Generic
+#
+[translations]
+other = "Traductions"
+
+[postAvailable]
+other = "This page is also available in English."
+
+[backToIndex]
+other = "Cliquez ici pour retourner à l’index."
+
+
+# 404.html
+#
+[archives]
+other = "Archives"
+
+[home]
+other = "Accueil"
+
+[notFound]
+other = "Oups, page non trouvée …"
+
+
+# posts/single.html
+#
+[readingTime]
+one   = "Une minute"
+other = "{{ .Count }} minutes"
+
+[tableOfContents]
+other = "Table des matières"
+
+[wordCount]
+one   = "Un Mot"
+other = "{{ .Count }} Mots"
+
+[lastModified]
+other = "Mise à jour"
