@@ -54,7 +54,7 @@ Finally, unless otherwise stated, I myself use the references mentioned.
 ## Glasses and accessories
 * [Sunglasses](sunglasses)
 * [Eyeglasses](eyeglasses)
-* [Headgear](headgear)
+* [Hat](headgear)
 * [Watch](watch)
 
 ## Taking Notes
