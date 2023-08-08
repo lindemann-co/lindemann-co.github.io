@@ -6,7 +6,7 @@ draft: false
 toc: false
 images:
 tags:
-  - vision
+  - basse vision
 ---
 
 Cette page présente la montre que j'ai choisie suite à ma soudaine hypersensibilité à la lumière.
