@@ -1,11 +1,12 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>home on Lindemann</title>
-    <link>http://lindemann.co/fr/tags/home/</link>
-    <description>Recent content in home on Lindemann</description>
+    <title>accueil on Bienvenue</title>
+    <link>http://lindemann.co/fr/tags/accueil/</link>
+    <description>Recent content in accueil on Bienvenue</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Sun, 06 Aug 2023 21:59:54 +0200</lastBuildDate><atom:link href="http://lindemann.co/fr/tags/home/index.xml" rel="self" type="application/rss+xml" />
+    <copyright>&lt;a href=&#34;https://creativecommons.org/licenses/by-nc/4.0/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CC BY-NC 4.0&lt;/a&gt;</copyright>
+    <lastBuildDate>Sun, 06 Aug 2023 21:59:54 +0200</lastBuildDate><atom:link href="http://lindemann.co/fr/tags/accueil/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>À propos</title>
       <link>http://lindemann.co/fr/a-propos/</link>
@@ -26,8 +27,8 @@ Je travaille à distance ou avec des équipes réparties sur plusieurs créneaux
       <pubDate>Sun, 06 Aug 2023 21:59:54 +0200</pubDate>
       
       <guid>http://lindemann.co/fr/accueil/</guid>
-      <description>Si vous êtes sur cette page, c&amp;rsquo;est que nous nous connaissons probablement.
-Faites-moi part de votre découverte lors de notre prochaine rencontre et je vous offrirai un verre ou du chocolat, selon vos goûts.
+      <description>Si vous lisez sur cette page, c&amp;rsquo;est que nous nous connaissons probablement.
+Faites-moi part de votre découverte lors de notre prochaine rencontre et je vous témoignerai mon estime éternelle.
 D&amp;rsquo;ici là, prenez soin de vous et de vos proches.
 À bientôt,
 ML</description>

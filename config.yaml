@@ -5,6 +5,8 @@ title: Lindemann
 theme: hello-friend-ng
 paginate: 100
 
+enableRobotsTXT: true
+
 author:
   name: Mathieu Lindemann
 
