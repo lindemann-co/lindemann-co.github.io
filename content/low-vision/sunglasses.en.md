@@ -81,5 +81,5 @@ Less curved and with narrower temples, these blue-tinted glasses are a little le
 
 ![Tribord 500 sunglasses](/vision/Tribord-500.png)
 
-## Feedback
-[Click here to return to the low vision home page](..).
+## Back
+[Click here to go back to the low vision home page](..).

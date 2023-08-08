@@ -41,7 +41,6 @@ languages:
     title: Bienvenue
     subtitle: Bienvenue sur mon site
     homeSubtitle: Pour naviguer, utilisez le menu en haut de la page.
-    notFound: "La page que vous cherchez n'existe pas."
     keywords: ''
     copyright: >-
       <a href="https://creativecommons.org/licenses/by-nc/4.0/" target="_blank"

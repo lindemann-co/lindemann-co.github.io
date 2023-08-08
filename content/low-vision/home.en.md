@@ -58,10 +58,10 @@ Finally, unless otherwise stated, I myself use the references mentioned.
 * [Watch](watch)
 
 ## Taking Notes
-* [Notebooks, slates, tablets] (note-taking)
+* [Notebooks, slates, tablets](note-taking)
 
 ## Computer
-* [Hardware] (hardware-computer)
+* [Hardware](hardware-computer)
 * [Operating System](linux)
 * [Internet browser](browser)
 * [Google Docs](google-doc)
