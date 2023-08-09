@@ -1,0 +1,9 @@
+---
+title: "LinkedIn"
+url: "/cv"
+date: 2023-08-06T21:59:54+02:00
+draft: false
+toc: false
+---
+
+[Click here](https://www.linkedin.com/in/mlindemann/) to go to my LinkedIn profile page.
