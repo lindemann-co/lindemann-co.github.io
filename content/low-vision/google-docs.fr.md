@@ -35,8 +35,8 @@ L'immense avantage de cette extension est qu'elle ne modifie pas réellement les
 L'inconvénient est que si vous imprimez ce document, en PDF par exemple, l'impression se fera avec les couleurs claires d'origine. Pour palier à cela, j'ai conçu un modèle de document réellement sombre.
 
 ## Modèle de document
-Peu de thèmes avec un fond sombre et des couleurs de texte douces existent. J'ai créé le modèle de document ci-dessous pour limiter la luminosité du fond mais aussi celle du texte. Vous pouvez le copier librement depuis [cette page](https://docs.google.com/document/d/1p7zmmEuRnwjPx2q9UjMgHolxJdEXOa-jvPR0P1smqZA/edit?usp=sharing) pour l'essayer et l'adapter à votre vision si vous le souhaitez.
-L'avantage d'utiliser ce modèle est que les couleurs seront appliquées en cas d'impression en PDF ou de partage avec d'autres personnes hypersensibles à la lumière, par exemple.
+Peu de thèmes avec un fond sombre et des couleurs de texte douces existent. J'ai créé le modèle de document ci-dessous pour limiter la luminosité du fond mais aussi celle du texte. Vous pouvez le copier librement depuis [cette page](https://docs.google.com/document/d/1p7zmmEuRnwjPx2q9UjMgHolxJdEXOa-jvPR0P1smqZA/edit?usp=sharing) pour l'essayer et l'adapter à votre vision.
+L'avantage d'utiliser ce modèle est que les couleurs seront appliquées en cas d'impression en PDF ou de partage avec d'autres personnes hypersensibles à la lumière.
 
 ### Modèle
 ![Discours de Victor Hugo en mode sombre](/vision/gdoc-victor-hugo-sombre.png)
