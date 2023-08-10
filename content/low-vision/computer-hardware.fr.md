@@ -17,7 +17,7 @@ Pour remplacer deux écrans "droits" de 14" vieillissants, au contraste et à la
 * environ 34"
 
 Après lecture de quelques comparatifs en ligne, j'hésitais entre:
-* le [Huawei Mateview GT 34"]([https://consumer.huawei.com/fr/monitors/mateview-gt](https://consumer.huawei.com/fr/monitors/mateview-gt/specs/))
+* le [Huawei Mateview GT 34"](https://consumer.huawei.com/fr/monitors/mateview-gt/specs/)
   * luminosité: 350 cd/m²
   * contraste statique: 4000:1
   * résolution: 3440 x 1440
