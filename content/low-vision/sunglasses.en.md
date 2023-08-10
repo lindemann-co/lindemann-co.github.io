@@ -50,10 +50,10 @@ On the contrary, blue, brown or any other color glasses will modify the percepti
 ## Lens polarization
 Polarizing lenses help improve contrast. The Wikipedia page on [Polarization_(optics)](https://en.wikipedia.org/wiki/Polarization_(physics)#Applications_and_examples) explains this phenomenon.
 
-## Mount
+## Frame
 In order to limit glare from light sources located at the periphery of the visual field, it is recommended to choose arched frames with thick temples, or even side panels to limit glare from the side.
 
-## Concretely
+## Personal selection
 Given my current sensitivity to light, I most often wear category 4 polarizing lenses outdoors and category 3 non-polarizing lenses indoors. When I can fully control the brightness of my environment, such as the room that I use as my telecommuting office, I can even put on my old non-tinted and non-polarizing glasses.
 
 ## References
@@ -66,17 +66,23 @@ You will see that I took all my glasses from Decathlon. This is due to the follo
 
 As I hope my vision will continue to improve, point 1 above will allow me to swap out my glasses, if needed, as I progress.
 
-##### Category 4 polarizing or not: [Decathlon Quechua MH590](https://www.decathlon.ch/fr/p/lunettes-de-soleil-randonnee-mh590-adulte-polarisantes-categorie-4/_/R-p-181313?mc=8548667)
+##### Category 4 polarizing or not
+[Decathlon Quechua MH590](https://www.decathlon.ch/fr/p/lunettes-de-soleil-randonnee-mh590-adulte-polarisantes-categorie-4/_/R-p-181313?mc=8548667)
+
 These arched glasses have gray lenses and very wide temples that do not allow any side light to pass through. They also exist in a non-polarizing version.
 
 ![Quechua MH-590 Decathlon sunglasses](/vision/MH-590.png)
 
-#### Category 3 non-polarizing: [Decathlon Van Rysel Roadr 500](https://www.decathlon.ch/fr/p/lunettes-de-velo-adulte-roadr-500-categorie-3-noires/_/R-p-181317?mc=8405401)
+#### Category 3 non-polarizing
+[Decathlon Van Rysel Roadr 500](https://www.decathlon.ch/fr/p/lunettes-de-velo-adulte-roadr-500-categorie-3-noires/_/R-p-181317?mc=8405401)
+
 I already had these glasses before my vision loss. Blue in color, the lenses alter the colors. Although I now use them in a completely different context, they are arched enough to filter light from all directions. Unfortunately, these glasses do not exist in a polarizing version.
 
 ![Van Rysel Roadr500 Decathlon sunglasses](/vision/Roadr-500.png)
 
-#### Category 3 polarizing: [Decathlon Tribord 500](https://www.decathlon.ch/fr/p/lunettes-de-soleil-polarisees-flottantes-voile-adulte-500-taille-m-petrole/_/R-p-325360)
+#### Category 3 polarizing
+[Decathlon Tribord 500](https://www.decathlon.ch/fr/p/lunettes-de-soleil-polarisees-flottantes-voile-adulte-500-taille-m-petrole/_/R-p-325360)
+
 Less curved and with narrower temples, these blue-tinted glasses are a little less protective than previous models. However, they remain a perfectly suitable choice for my use.
 
 ![Tribord 500 sunglasses](/vision/Tribord-500.png)
