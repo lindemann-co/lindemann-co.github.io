@@ -1,5 +1,6 @@
 ---
 title: "About"
+slug: "about"
 date: 2023-08-06T21:59:54+02:00
 draft: false
 toc: false
@@ -28,7 +29,7 @@ I have been working remotely or with distributed teams for 15+ years.
 
 ## What
 
-When I wasn’t busy teaching my kids how to use a glue gun, I have been managing tech organizations, mostly building or turning them around.
+When I am not busy teaching my kids how to use a glue gun, I manage tech organizations, mostly building or turning them around.
 
 If you want to know more about my experience, take a look at my [LinkedIn profile](../cv) or [book a call](../cal).
 
