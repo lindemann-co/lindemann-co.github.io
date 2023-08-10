@@ -30,7 +30,7 @@ When reading a text printed in black on a white background:
 * on the left: page perceived with "normal" vision
 * on the right: the same page perceived with hypersensitivity to light and in the absence of glasses
 
-![Book "normal" vs "hypersensitive"](/vision/livre.png)
+![Book "normal" vs "hypersensitive"](/vision/book-sample.png)
 
 In a normally lit environment:
 * top: scene perceived with "normal" vision
