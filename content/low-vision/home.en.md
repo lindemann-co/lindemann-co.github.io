@@ -61,7 +61,7 @@ Finally, unless otherwise stated, I myself use the references mentioned.
 * [Notebooks, slates, tablets](note-taking)
 
 ## Computer
-* [Hardware](hardware-computer)
+* [Hardware](computer-hardware)
 * [Operating System](linux)
 * [Internet browser](browser)
 * [Google Docs](google-doc)
