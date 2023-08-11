@@ -18,7 +18,7 @@ Hypersensitivity to light makes white texts on a black backgrounds extremely app
 
 
 ## Slate and chalk pencils
-An alternative notebooks is using a [slate](https://www.jumbo.ch/fr/sejour-eclairage/accessoires-d-interieur/panneaux-d-affichage-tapis/ardoise-murale-woody/p/5996775) with [chalk pencils](https://www.jumbo.ch/fr/sejour-eclairage/papeterie/fournituresappareils-de-bureau/divers/3-craies-pour-jeux-de-carte/p/4210167). The pencils can be found in the games and toys section of many stores, as these pencils are used by card players to keep score.
+An alternative to notebooks is using a [slate](https://www.jumbo.ch/fr/sejour-eclairage/accessoires-d-interieur/panneaux-d-affichage-tapis/ardoise-murale-woody/p/5996775) with [chalk pencils](https://www.jumbo.ch/fr/sejour-eclairage/papeterie/fournituresappareils-de-bureau/divers/3-craies-pour-jeux-de-carte/p/4210167). The pencils can be found in the games and toys section of many stores, as these pencils are used by card players to keep score.
 
 ![Slate and chalk pens](/vision/chalkboard-pens.png)
 
