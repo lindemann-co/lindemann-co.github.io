@@ -26,7 +26,7 @@ Si vous utilisez Chrome sur Windows, Mac ou un Chromebook et souhaitez mettre Ch
 
 Si, comme moi, vous utilisez Linux/Ubuntu, un hack est expliqué sur [AskUbuntu.com](https://askubuntu.com/a/1290268)
 
-## Mode sombre forcé, expérimental
+### Mode sombre forcé, expérimental
 Le mode sombre par défaut "propose" aux sites sites web d'afficher automatiquement leur thème sombre s'ils en ont un. Malheureusement, l'écrasante majorité des sites web n'en ont pas. C'est pourquoi Chrome peut forcer la main des sites en leur imposant l'affichage d'un thème sombre, quitte à utiliser un thème généré par Chrome lui-même quand le site n'en propose pas. Pour cela, entrez `chrome://flags/#enable-force-dark` dans la barre d'URL et sélectionnez `Enabled`:
 
 ![Forcer le mode sombre dans Chrome (expérimental)](/vision/chrome-flag-force-dark-mode.png)
