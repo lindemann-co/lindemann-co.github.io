@@ -101,13 +101,15 @@ J'utilise donc DarkReader uniquement pour les pages...
 ### Midnight Lizard
 Avant d'utiliser Dark Reader, j'avais longuement testé [Midnight Lizard](https://midnight-lizard.org/home).
 
-Avantanges:
-* Davantage de thèmes proposés par défaut
-* Davantage de personnalisation des couleurs
+Avantanges de Midnight Lizard:
+* Davantage de thèmes proposés par défaut.
+* Davantage de personnalisation des couleurs.
+
+Ce dernier point peut justifier de préférer Midnight Lizard à Dark Reader si votre vision requiert un réglage des couleurs et de la luminosité très fins.
 
 Inconvénients:
-* Je trouve l'interface beaucoup moins lisible
-* Mon ressenti est que Midnight Lizard fait planter Firefox beaucoup plus souvent que Dark Reader. C'est d'ailleurs par lassitude des plantages à cause de Midnight Lizard que j'ai décidé d'essayer Dark Reader, que je n'ai découvert qu'après Midnight Lizard.
+* Je trouve l'interface beaucoup moins lisible que celle de Dark Reader.
+* Mon ressenti est que Midnight Lizard fait planter Firefox beaucoup plus souvent que Dark Reader (qui n'est pas exempt de ce défaut bon plus). C'est d'ailleurs par lassitude des plantages à cause de Midnight Lizard que j'ai décidé d'essayer Dark Reader, que je n'ai découvert qu'après Midnight Lizard.
 
 ## Retour
 [Cliquez ici pour retourner à l’index.](..)
