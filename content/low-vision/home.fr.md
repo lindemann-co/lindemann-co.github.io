@@ -61,7 +61,7 @@ Cette section présente le matériel que j'utilise au quotidien pour prendre mes
 
 ## Informatique
 ### Matériel
-Cette section présente le matériel informatique que j'utilise au quotidien malgré ma sensibilité à la lumière.
+Cette section présente le matériel informatique que j'utilise depuis l'apparition de ma sensibilité à la lumière.
 * [Matériel](materiel-informatique)
 ### Système d'exploitation
 Cette section explique comment adapter le système d'exploitation à la sensibilité à la lumière. N'utilisant pas Windows ni Mac OS, les pages dédiées à ces systèmes sont très rustiques. En revanche, la page consacrée à Linux est détaillée.
