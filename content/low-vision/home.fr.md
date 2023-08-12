@@ -61,12 +61,12 @@ Enfin, sauf mention contraire, j'utilise moi-même les références mentionnées
 ### Matériel
 * [Matériel](materiel-informatique)
 ### Système d'exploitation
-* Système d'exploitation: [Windows](windows)
-* Système d'exploitation: [Mac OS](mac-os)
-* Système d'exploitation: [Linux](linux)
+* [Windows](windows)
+* [Mac OS](mac-os)
+* [Linux](linux)
 ### Navigateur internet
-* Navigateur internet: [Firefox](firefox)
-* Navigateur internet: [Chrome](chrome)
+* [Firefox](firefox)
+* [Chrome](chrome)
 ### Sites problématiques courants
 * [Google Docs](google-docs)
 
