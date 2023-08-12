@@ -10,7 +10,7 @@ tags:
 ---
 
 ## Thème de l'interface
-Il existe des dizaines de thèmes sombres pour personnaliser l'apparence de Chrome: la barre de titre, de menu, etc. J'utilise [Just Dark Grey](https://chrome.google.com/webstore/detail/just-dark-gray/ngmdjjgkeplbpoldeffobojeahdppkfb) qui s'approche de l'apparence que j'ai donnée à mon Firefox. Vous trouverez certainement chaussure à votre pied et thème à votre vue.
+Il existe des dizaines de thèmes sombres pour personnaliser l'apparence de Chrome: la barre de titre, de menu, etc. J'utilise [Just Dark Grey](https://chrome.google.com/webstore/detail/just-dark-gray/ngmdjjgkeplbpoldeffobojeahdppkfb) qui s'approche de l'apparence que j'ai donnée à Firefox. Vous trouverez certainement chaussure à votre pied et thème à votre vue.
 
 Chrome vous permet également:
 * d'utiliser la barre de titre et les bordures de fenêtre du système.
