@@ -62,7 +62,7 @@ La section `Couleurs` des paramètres de Firefox permet d'imposer un jeu de coul
 
 Vous pouvez soit appliquer les couleurs du système définies dans les paramètres globaux (Windows, Mac OS, Linux, etc), soit appliquer des couleurs définies spécialement pour Firefox.
 
-Voici la page des prix de Github avec des couleurs personnalisées:
+Voici la page des prix de Github avec des couleurs personnalisées douces:
 
 ![Github tarifs avec couleurs personnalisées](/vision/firefox-github-pricing-custom-colors.png)
 
@@ -72,8 +72,8 @@ Les couleurs choisies sont les suivantes:
 * Liens non visités: `#4084bf`
 * Liens visités: `#78428c`
 
-Malheureusement, Firefox ne propose que deux modes d'application de ce jeu de couleurs prédéfinies:
-1. Application à tous les sites, sans exception. C'est assez brutal et impose ce jeu de couleurs très simple même à des sites qui font l'effort de proposer un thème sombre bien conçu.
+Malheureusement, Firefox ne propose que deux modes d'application de ces couleurs:
+1. Application à tous les sites, sans exception. C'est assez brutal et impose ces couleurs très simples même à des sites qui font l'effort de proposer un thème sombre riche et bien conçu.
 2. Application uniquement aux sites offrant des contrastes élevés. Ce critère est flou et laisse de nombreuses pages inchangées (la page des prix de Github, par exemple).
 
 Heureusement, il existe des extensions qui permettent de définir des jeux de couleurs plus subtils et de décider de les appliquer site par site.
@@ -90,7 +90,7 @@ Voici ce qu'elle fait de la désormais célèbre page des tarifs de Github:
 
 En plus d'être disponible en français et en mode sombre (évidemment), la [documentation](https://darkreader.org/help/fr/#top-section) est très bien faite. Je ne vais pas la paraphraser ici. Je vous conseille vivement d'essayer cette extension par vous-même.
 
-Le principal inconvénient de Dark Reader est le ralentissement de l'affichage des pages web, en particulier les pages complexes avec beaucoup d'éléments dynamiques. C'est le cas d'Outlook, Gmail, Amazon, etc. J'estime que Gmail est passé de ~5s à ~20s pour un affichage final (couleurs et contenu définitifs).
+Le principal inconvénient de Dark Reader est le ralentissement de l'affichage des pages web, en particulier les pages complexes avec beaucoup d'éléments dynamiques. C'est le cas d'Outlook, Gmail, Amazon, etc. J'estime que Gmail est passé d'environ 5s à environ 20s pour un affichage complet (couleurs et contenu définitifs).
 
 J'utilise donc DarkReader uniquement pour les pages...
 1. Qui n'activent pas de mode sombre par défaut malgré le paramétrage de Firefox.
@@ -99,7 +99,7 @@ J'utilise donc DarkReader uniquement pour les pages...
    * Si je ne passe que quelques secondes sur une page, alors le mode clair est moins pénible que l'attente de l'affichage de la page retouchée par Dark Reader.
 
 ### Midnight Lizard
-Avant d'utiliser Dark Reader, j'avais longuement tester [Midnight Lizard](https://midnight-lizard.org/home).
+Avant d'utiliser Dark Reader, j'avais longuement testé [Midnight Lizard](https://midnight-lizard.org/home).
 
 Avantanges:
 * Davantage de thèmes proposés par défaut
