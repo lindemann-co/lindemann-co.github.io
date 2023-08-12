@@ -1,5 +1,5 @@
 ---
-title: "Accueil basse vision"
+title: "Accueil hyper sensibilité à la lumière"
 slug: "../vision"
 date: 2023-08-06T21:59:54+02:00
 draft: false
@@ -49,12 +49,14 @@ Lorsque cela est possible, j'inclus un lien vers les produits ou logiciels que j
 Enfin, sauf mention contraire, j'utilise moi-même les références mentionnées.
 
 ## Lunettes et accessoires
+Cette section présente les lunettes et accessoires qui me permettent de très bien vivre au quotidien malgré ma sensibilité à la lumière.
 * [Lunettes de soleil](lunettes-de-soleil)
 * [Lunettes de vue](lunettes-de-vue)
 * [Couvre-chef](couvre-chef)
 * [Montre](montre)
 
 ## Prise de notes
+Cette section présente le matériel que j'utilise au quotidien pour prendre mes notes malgré ma sensibilité à la lumière qui rend difficile l'utilisation de papier blanc.
 * [Cahiers, ardoises, tablettes](prise-de-notes)
 
 ## Informatique
