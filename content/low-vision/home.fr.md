@@ -58,12 +58,16 @@ Enfin, sauf mention contraire, j'utilise moi-même les références mentionnées
 * [Cahiers, ardoises, tablettes](prise-de-notes)
 
 ## Informatique
+### Matériel
 * [Matériel](materiel-informatique)
+### Système d'exploitation
 * Système d'exploitation: [Windows](windows)
 * Système d'exploitation: [Mac OS](mac-os)
 * Système d'exploitation: [Linux](linux)
+### Navigateur internet
 * Navigateur internet: [Firefox](firefox)
 * Navigateur internet: [Chrome](chrome)
+### Sites problématiques courants
 * [Google Docs](google-docs)
 
 ## Téléphone
