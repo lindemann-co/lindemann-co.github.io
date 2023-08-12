@@ -76,7 +76,7 @@ Cette section explique comment adapter Chrome ou Firefox à la sensibilité à l
 Cette section explique comment configurer des sites populaires mais qui n'affichent pas automatiquement le mode sombre configuré dans le navigateur.
 * [Google Docs](google-docs)
 
-## Téléphone
+## Téléphone (en cours)
 * [Modèle](natel)
 * Réglages
 * Applications
