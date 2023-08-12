@@ -16,16 +16,29 @@ J'utilise simplement le thème par défaut, appelé `système`, dans sa version 
 
 ![Thème Firefox par défaut](/vision/firefox-theme.png)
 
-La version `auto` signifie simplement que Firefox applique automatiquement le mode (clair ou sombre) configuré au niveau plus global du système d'exploitation (Windows, Mac OS, Linux, etc).
+La version `auto` signifie simplement que Firefox applique automatiquement le mode (clair ou sombre) configuré au niveau plus global du système d'exploitation (Windows, Mac OS, Linux, etc)[^1].
 
-Si le thème par défaut ne vous plaît pas, il existe [des dizaines de thèmes sombres](https://addons.mozilla.org/fr/firefox/search/?q=mode%20sombre&type=statictheme) pour personnaliser l'apparence de Firefox: la barre d'onglets, de menu, etc. Vous trouverez certainement votre bonheur.
+Si le thème par défaut ne vous plaît pas, il existe [des dizaines de thèmes sombres](https://addons.mozilla.org/fr/firefox/search/?q=mode%20sombre&type=statictheme) y compris certains [recommandés par Firefox](https://addons.mozilla.org/fr/firefox/search/?promoted=recommended&q=dark%20mode&type=statictheme), pour personnaliser l'apparence de Firefox: la barre d'onglets, de menu, etc. Vous trouverez certainement votre bonheur.
 
-## Utiliser la barre de titre du système
-Par défaut, Firefox n'affiche pas de barre de titre de la fenêtre, ni son cadre. Regardez comme la barre en haut de l'image ci-dessous diffère de toutes les autres captures d'écran présentes sur cette page:
+### Utiliser le thème du système
+Par défaut, Firefox affiche une fenêtre sans cadre ni barre de titre. Regardez comme la barre en haut de l'image ci-dessous diffère des captures d'écran suivantes. Toutes ces autres captures d'écran représentent d'autres applications installées sur l'ordinateur et qui respectent le thème à contraste élevé choisi globalement. J'ai choisi ce thème en partie parce que les boutons `-`, `+` et `x` pour minimiser, agrandir et fermer la fenêtre sont entourés de blanc pour un meilleur contraste. Par défaut, Firefox ne respecte pas ce thème.
 
+**Firefox (par défaut)**
 ![Firefox sans barre de titre par défaut](/vision/firefox-no-title-bar.png)
 
-Pour afficher la même barre de titre et les mêmes bords de fenêtre que les autres applications, allez dans `Menu > Outils supplémentaires > Personnaliser la barre d'outils` puis cochez la case `Barre de titre` bien cachée tout en bas à gauche:
+**Gestionnaire de fichiers**
+![Gestionnaire de fichiers](/vision/thunar.png)
+
+**Musique**
+![Music player](/vision/audacious.png)
+
+**Contrôle du volume**
+![Contrôle du volume](/vision/volume.png)
+
+Pour imposer à Firefox le thème choisi globalement pour l'ensemble des applications, allez dans `Menu > Outils supplémentaires > Personnaliser la barre d'outils`, où `Menu` est l'icône "hamburger" avec les trois traits horizontaux:
+![Icône Menu de Firefox](/vision/firefox-menu-icon.png)
+
+Cochez alors la case `Barre de titre` bien cachée tout en bas à gauche:
 
 ![Firefox sans barre de titre par défaut](/vision/firefox-add-title-bar.png)
 
@@ -36,7 +49,7 @@ Firefox peut demander aux sites web d'appliquer leur thème sombre s'ils en ont 
 
 ### Apparence des sites web
 Tout est dit dans le texte explicatif:
-> Certains sites web adaptent leur jeu de couleurs en fonction de vos préférences. Choisissez le jeu de couleurs que vous souhaitez utiliser pour ces sites.
+> Certains sites web adaptent leur jeu de couleurs en fonction de vos préférences. Choisissez le jeu de couleurs que vous souhaitez utiliser pour ces sites (entre: Automatique, Clair et Sombre).
 
 Les options sont expliquées ci-dessous:
 * Automatique: demande aux sites d'appliquer le mode (sombre ou clair) défini globalement par le système (Windows, Mac OS, Linux, etc.)
@@ -113,3 +126,5 @@ Inconvénients:
 
 ## Retour
 [Cliquez ici pour retourner à l’index.](..)
+
+[^1]: Pour activer le mode sombre de votre système d'exploitation, référez-vous aux pages dédiées: [Windows](../windows), [Mac OS](../mac-os), [Linux](../linux).
