@@ -77,6 +77,6 @@ Cette section explique comment configurer des sites populaires mais qui n'affich
 * [Google Docs](google-docs)
 
 ## Téléphone (en cours)
-* [Modèle](natel)
+* Modèle
 * Réglages
 * Applications
