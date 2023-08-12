@@ -59,6 +59,8 @@ Enfin, sauf mention contraire, j'utilise moi-même les références mentionnées
 
 ## Informatique
 * [Matériel](materiel-informatique)
+* Système d'exploitation: [Windows](windows)
+* Système d'exploitation: [Mac OS](mac-os)
 * Système d'exploitation: [Linux](linux)
 * Navigateur internet: [Firefox](firefox)
 * Navigateur internet: [Chrome](chrome)
