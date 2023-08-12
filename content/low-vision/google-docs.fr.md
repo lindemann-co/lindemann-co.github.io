@@ -11,9 +11,9 @@ tags:
 ## Les deux problèmes de Google Docs
 Google Docs pose problème aux personnes hypersensibles à la lumière à deux titres.
 
-Premièrement, l'interface de l'application est uniquement disponible en mode clair. Google ne propose pas de mode sombre capable de suivre le réglage du navigateur. Heureusement, si vous utilisez Firefox ou Chrome, il existe des extensions qui corrigent ce problème.
+Premièrement, l'interface de l'application est uniquement disponible en mode clair, c'est-à-dire que même si vous réglez votre navigateur en mode sombre, Google Docs gardera son interface par défaut avec une barre de menu blanche, de même pour le "fond" du site autour des pages du document. Google ne propose pas de mode sombre capable de suivre le réglage du navigateur. Heureusement, si vous utilisez Firefox ou Chrome, il existe des extensions qui corrigent ce problème.
 
-Deuxièmement, l'immense majorité des modèles de documents disponibles sont en mode clair.
+Deuxièmement, l'immense majorité des modèles de documents disponibles sont en mode clair, avec des textes sombres sur fond clairs.
 
 Ces deux effets combinés donnent quelque chose comme l'image ci-dessous:
 

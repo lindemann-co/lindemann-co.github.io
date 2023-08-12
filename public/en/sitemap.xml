@@ -31,6 +31,22 @@
                 href="http://lindemann.co/en/cal/"
                 />
   </url><url>
+    <loc>http://lindemann.co/cal/</loc>
+    <lastmod>2023-08-06T21:59:54+02:00</lastmod>
+  </url><url>
+    <loc>http://lindemann.co/en/vision/computer-hardware/</loc>
+    <lastmod>2023-08-06T21:59:54+02:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="http://lindemann.co/fr/vision/materiel-informatique/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://lindemann.co/en/vision/computer-hardware/"
+                />
+  </url><url>
     <loc>http://lindemann.co/en/vision/eyeglasses/</loc>
     <lastmod>2023-08-06T21:59:54+02:00</lastmod>
     <xhtml:link
@@ -86,6 +102,19 @@
                 href="http://lindemann.co/en/vision/"
                 />
   </url><url>
+    <loc>http://lindemann.co/en/</loc>
+    <lastmod>2023-08-06T21:59:54+02:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="http://lindemann.co/fr/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://lindemann.co/en/"
+                />
+  </url><url>
     <loc>http://lindemann.co/en/cv/</loc>
     <lastmod>2023-08-06T21:59:54+02:00</lastmod>
     <xhtml:link
@@ -98,6 +127,9 @@
                 hreflang="en"
                 href="http://lindemann.co/en/cv/"
                 />
+  </url><url>
+    <loc>http://lindemann.co/cv/</loc>
+    <lastmod>2023-08-06T21:59:54+02:00</lastmod>
   </url><url>
     <loc>http://lindemann.co/en/tags/low-vision/</loc>
     <lastmod>2023-08-06T21:59:54+02:00</lastmod>
@@ -113,6 +145,19 @@
                 rel="alternate"
                 hreflang="en"
                 href="http://lindemann.co/en/low-vision/"
+                />
+  </url><url>
+    <loc>http://lindemann.co/en/vision/note-taking/</loc>
+    <lastmod>2023-08-06T21:59:54+02:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="http://lindemann.co/fr/vision/prise-de-notes/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://lindemann.co/en/vision/note-taking/"
                 />
   </url><url>
     <loc>http://lindemann.co/en/tags/pro/</loc>
@@ -207,19 +252,6 @@
                 rel="alternate"
                 hreflang="en"
                 href="http://lindemann.co/en/vision/watch/"
-                />
-  </url><url>
-    <loc>http://lindemann.co/en/</loc>
-    <lastmod>2023-08-06T21:59:54+02:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr"
-                href="http://lindemann.co/fr/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="http://lindemann.co/en/"
                 />
   </url><url>
     <loc>http://lindemann.co/en/blog/</loc>

@@ -59,8 +59,9 @@ Enfin, sauf mention contraire, j'utilise moi-même les références mentionnées
 
 ## Informatique
 * [Matériel](materiel-informatique)
-* [Système d'exploitation](linux)
-* [Navigateur internet](navigateur)
+* Système d'exploitation: [Linux](linux)
+* Navigateur internet: [Firefox](firefox)
+* Navigateur internet: [Chrome](chrome)
 * [Google Docs](google-docs)
 
 ## Téléphone

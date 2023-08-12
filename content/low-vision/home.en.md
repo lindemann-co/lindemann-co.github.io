@@ -62,8 +62,9 @@ Finally, unless otherwise stated, I myself use the references mentioned.
 
 ## Computer
 * [Hardware](computer-hardware)
-* [Operating System](linux)
-* [Internet browser](browser)
+* Operating System: [Linux](linux)
+* Internet browser: [Firefox](firefox)
+* Internet browser: [Chrome](chrome)
 * [Google Docs](google-doc)
 
 ## Phone

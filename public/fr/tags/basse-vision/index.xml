@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>basse vision on Bienvenue</title>
+    <title>basse vision on Lindemann</title>
     <link>http://lindemann.co/fr/tags/basse-vision/</link>
-    <description>Recent content in basse vision on Bienvenue</description>
+    <description>Recent content in basse vision on Lindemann</description>
     <generator>Hugo -- gohugo.io</generator>
     <copyright>&lt;a href=&#34;https://creativecommons.org/licenses/by-nc/4.0/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CC BY-NC 4.0&lt;/a&gt;</copyright>
     <lastBuildDate>Sun, 06 Aug 2023 21:59:54 +0200</lastBuildDate><atom:link href="http://lindemann.co/fr/tags/basse-vision/index.xml" rel="self" type="application/rss+xml" />
@@ -15,6 +15,17 @@
       <guid>http://lindemann.co/fr/vision/</guid>
       <description>J&amp;rsquo;ai récemment développé une hypersensibilité à la lumière. Je partage ici quelques mesures et équipements qui m&amp;rsquo;aident à vivre cette situation aussi normalement que possible. Si vous ou l&amp;rsquo;un de vos proches vivez la même situation, j&amp;rsquo;espère que ces quelques lignes vous seront utiles.
 Contexte En mai 2023, j&amp;rsquo;ai fait une réaction auto-immune qui m&amp;rsquo;a temporairement rendu totalement aveugle. J&amp;rsquo;ai heureusement été remarquablement pris en charge par les équipes du CHUV à Lausanne et moins de deux mois après la fin du traitement, j&amp;rsquo;avais récupéré la majorité des capacités sensorielles qui constituent la vision:</description>
+    </item>
+    
+    <item>
+      <title>Chrome</title>
+      <link>http://lindemann.co/fr/vision/chrome/</link>
+      <pubDate>Sun, 06 Aug 2023 21:59:54 +0200</pubDate>
+      
+      <guid>http://lindemann.co/fr/vision/chrome/</guid>
+      <description>Thème de l&amp;rsquo;interface Il existe des dizaines de thèmes sombres pour personnaliser l&amp;rsquo;apparence de Chrome: la barre de titre, de menu, etc. J&amp;rsquo;utilise Just Dark Grey qui s&amp;rsquo;approche de l&amp;rsquo;apparence que j&amp;rsquo;ai donnée à mon Firefox. Vous trouverez certainement chaussure à votre pied et thème à votre vue.
+Chrome vous permet également:
+d&amp;rsquo;utiliser la barre de titre et les bordures de fenêtre du système. de personnaliser la police Toutes ces personnalisations (thème, police, barre de titre) sont accessibles en entrant chrome://settings/appearance dans la barre d&amp;rsquo;URL de Chrome ou en allant dans Paramètres &amp;gt; Apparence:</description>
     </item>
     
     <item>
@@ -39,13 +50,25 @@ Acuité visuelle (Clarté) L&amp;rsquo;acuité visuelle est la clarté ou la net
     </item>
     
     <item>
-      <title>Google Doc</title>
-      <link>http://lindemann.co/fr/vision/google-doc/</link>
+      <title>Firefox</title>
+      <link>http://lindemann.co/fr/vision/firefox/</link>
       <pubDate>Sun, 06 Aug 2023 21:59:54 +0200</pubDate>
       
-      <guid>http://lindemann.co/fr/vision/google-doc/</guid>
-      <description>Modèle de document en mode sombre Beaucoup de thèmes avec un fond sombre privilégient des couleurs saturées (donc éblouissantes) pour le texte. J&amp;rsquo;ai créé le modèle de document ci-dessous pour limiter la luminosité du fond mais aussi celle du texte. Vous pouvez le copier librement depuis cette page pour l&amp;rsquo;essayer et l&amp;rsquo;adapter à votre vision si vous le souhaitez.
-Modèle Exemple Références des couleurs Les couleurs utilisées sont les suivantes:</description>
+      <guid>http://lindemann.co/fr/vision/firefox/</guid>
+      <description>Après des années à utiliser Chrome, j&amp;rsquo;ai de nouveau fait de Firefox mon navigateur par défaut.
+Thème de l&amp;rsquo;interface J&amp;rsquo;utilise simplement le thème par défaut, appelé système, dans sa version auto:
+La version auto signifie simplement que Firefox applique automatiquement le mode (clair ou sombre) configuré au niveau plus global du système d&amp;rsquo;exploitation (Windows, Mac OS, Linux, etc).
+Si le thème par défaut ne vous plaît pas, il existe des dizaines de thèmes sombres pour personnaliser l&amp;rsquo;apparence de Firefox: la barre d&amp;rsquo;onglets, de menu, etc.</description>
+    </item>
+    
+    <item>
+      <title>Google Docs</title>
+      <link>http://lindemann.co/fr/vision/google-docs/</link>
+      <pubDate>Sun, 06 Aug 2023 21:59:54 +0200</pubDate>
+      
+      <guid>http://lindemann.co/fr/vision/google-docs/</guid>
+      <description>Les deux problèmes de Google Docs Google Docs pose problème aux personnes hypersensibles à la lumière à deux titres.
+Premièrement, l&amp;rsquo;interface de l&amp;rsquo;application est uniquement disponible en mode clair, c&amp;rsquo;est-à-dire que même si vous réglez votre navigateur en mode sombre, Google Docs gardera son interface par défaut avec une barre de menu blanche, de même pour le &amp;ldquo;fond&amp;rdquo; du site autour des pages du document. Google ne propose pas de mode sombre capable de suivre le réglage du navigateur.</description>
     </item>
     
     <item>
@@ -98,16 +121,6 @@ le Huawei Mateview GT 34&amp;quot; luminosité: 350 cd/m² contraste statique: 4
       <guid>http://lindemann.co/fr/vision/montre/</guid>
       <description>Cette page présente la montre que j&amp;rsquo;ai choisie suite à ma soudaine hypersensibilité à la lumière.
 Étant souvent ébloui en extérieur et ayant également des difficultés à distinguer les faibles contrastes, j&amp;rsquo;ai dû mettre de côté la montre qui m&amp;rsquo;accompagnait depuis de nombreuses années. Je l´ai remplacée par une montre connectée disposant d&amp;rsquo;un écran AMOLED dont le principal atout est d&amp;rsquo;afficher à la fois des noirs profonds et des couleurs intenses.</description>
-    </item>
-    
-    <item>
-      <title>Navigateur web en basse vision</title>
-      <link>http://lindemann.co/fr/vision/navigateur/</link>
-      <pubDate>Sun, 06 Aug 2023 21:59:54 +0200</pubDate>
-      
-      <guid>http://lindemann.co/fr/vision/navigateur/</guid>
-      <description>Cette page est en cours d&amp;rsquo;édition.
-Retour Cliquez ici pour retourner à l’index.</description>
     </item>
     
     <item>
