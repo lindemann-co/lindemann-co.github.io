@@ -40,7 +40,7 @@ Si ce mode me vous satisfait pas, il existe les mêmes extensions que pour Firef
 * [Dark Reader](https://darkreader.org/)
 * [Midnight Lizard](https://midnight-lizard.org/home)
 
-Les informations au sujet de ces extensions sont disponibles dans [la section consacrée à Firefox](../firefox#extensions).
+Les informations au sujet de ces extensions sont disponibles dans [la page consacrée à Firefox](../firefox#extensions).
 
 ## Retour
 [Cliquez ici pour retourner à l’index.](..)
