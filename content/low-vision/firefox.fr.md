@@ -16,12 +16,12 @@ J'utilise simplement le thème par défaut, appelé `système`, dans sa version 
 
 ![Thème Firefox par défaut](/vision/firefox-theme.png)
 
-La version `auto` signifie simplement que Firefox applique automatiquement le mode (clair ou sombre) configuré au niveau plus global du système d'exploitation (Windows, Mac OS, Linux, etc)[^1].
+La version `auto` signifie que Firefox applique automatiquement le mode (clair ou sombre) configuré au niveau plus global du système d'exploitation (Windows, Mac OS, Linux, etc)[^1].
 
-Si le thème par défaut ne vous plaît pas, il existe [des dizaines de thèmes sombres](https://addons.mozilla.org/fr/firefox/search/?q=mode%20sombre&type=statictheme) y compris certains [recommandés par Firefox](https://addons.mozilla.org/fr/firefox/search/?promoted=recommended&q=dark%20mode&type=statictheme), pour personnaliser l'apparence de Firefox: la barre d'onglets, de menu, etc. Vous trouverez certainement votre bonheur.
+Si le thème par défaut ne vous plaît pas, il existe [des dizaines de thèmes sombres](https://addons.mozilla.org/fr/firefox/search/?q=dark%20mode&type=statictheme) y compris certains [recommandés par Firefox](https://addons.mozilla.org/fr/firefox/search/?promoted=recommended&q=dark%20mode&type=statictheme), pour personnaliser l'apparence de Firefox: la barre d'onglets, de menu, etc. Vous trouverez certainement votre bonheur.
 
 ### Utiliser le thème du système
-Par défaut, Firefox affiche une fenêtre sans cadre ni barre de titre. Regardez comme la barre en haut de l'image ci-dessous diffère des captures d'écran suivantes. Toutes ces autres captures d'écran représentent d'autres applications installées sur l'ordinateur et qui respectent le thème à contraste élevé choisi globalement. J'ai choisi ce thème en partie parce que les boutons `-`, `+` et `x` pour minimiser, agrandir et fermer la fenêtre sont entourés de blanc pour un meilleur contraste. Par défaut, Firefox ne respecte pas ce thème.
+Par défaut, Firefox affiche une fenêtre qui ne respecte pas le thème du système. Regardez comme la barre en haut de l'image ci-dessous diffère des captures d'écran suivantes. Toutes ces autres captures d'écran représentent d'autres applications installées sur l'ordinateur et qui respectent le thème à contraste élevé choisi globalement. J'ai choisi ce thème en partie parce que les boutons `-`, `+` et `x` pour minimiser, agrandir et fermer la fenêtre sont entourés de blanc pour un meilleur contraste. Par défaut, Firefox ne respecte pas ce thème.
 
 **Firefox (par défaut)**
 ![Firefox sans barre de titre par défaut](/vision/firefox-no-title-bar.png)
@@ -36,6 +36,7 @@ Par défaut, Firefox affiche une fenêtre sans cadre ni barre de titre. Regardez
 ![Contrôle du volume](/vision/volume.png)
 
 Pour imposer à Firefox le thème choisi globalement pour l'ensemble des applications, allez dans `Menu > Outils supplémentaires > Personnaliser la barre d'outils`, où `Menu` est l'icône "hamburger" avec les trois traits horizontaux:
+
 ![Icône Menu de Firefox](/vision/firefox-menu-icon.png)
 
 Cochez alors la case `Barre de titre` bien cachée tout en bas à gauche:
@@ -57,7 +58,9 @@ Les options sont expliquées ci-dessous:
 * Sombre: demande aux sites d'appliquer un thème sombre (rarement disponible)
 
 La disponibilité des thèmes sombres, déjà assez rare, varie même d'une page à l'autre au sein d'un mème site. Par exemple, sur [github.com](https://github.com/), la page de connexion existe en clair et en sombre et suivra donc la demande de Firefox:
+
 ![Github login page en clair](/vision/firefox-github-login-light.png)
+
 ![Github login page en sombre](/vision/firefox-github-login-dark.png)
 
 En revanche, la page des prix n'existe qu'en clair et s'affiche donc ainsi quel que soit votre sélection dans les paramètres de Firefox:
@@ -89,7 +92,7 @@ Malheureusement, Firefox ne propose que deux modes d'application de ces couleurs
 1. Application à tous les sites, sans exception. C'est assez brutal et impose ces couleurs très simples même à des sites qui font l'effort de proposer un thème sombre riche et bien conçu.
 2. Application uniquement aux sites offrant des contrastes élevés. Ce critère est flou et laisse de nombreuses pages inchangées (la page des prix de Github, par exemple).
 
-Heureusement, il existe des extensions qui permettent de définir des jeux de couleurs plus subtils et de décider de les appliquer site par site.
+Heureusement, il existe des extensions qui permettent de définir des jeux de couleurs plus subtils et de les appliquer au cas par cas, c'est-à-dire site par site et même page par page si nécessaire.
 
 ## Extensions
 ### Dark Reader
@@ -103,7 +106,7 @@ Voici ce qu'elle fait de la désormais célèbre page des tarifs de Github:
 
 En plus d'être disponible en français et en mode sombre (évidemment), la [documentation](https://darkreader.org/help/fr/#top-section) est très bien faite. Je ne vais pas la paraphraser ici. Je vous conseille vivement d'essayer cette extension par vous-même.
 
-Le principal inconvénient de Dark Reader est le ralentissement de l'affichage des pages web, en particulier les pages complexes avec beaucoup d'éléments dynamiques. C'est le cas d'Outlook, Gmail, Amazon, etc. J'estime que Gmail est passé d'environ 5s à environ 20s pour un affichage complet (couleurs et contenu définitifs).
+Le principal inconvénient de Dark Reader est le ralentissement de l'affichage des pages web, en particulier les pages complexes avec beaucoup d'éléments dynamiques. C'est le cas d'Outlook, Gmail, Amazon, etc. J'estime que le chargement de Gmail est passé d'environ 5s à environ 20s pour un affichage complet (couleurs et contenu définitifs).
 
 J'utilise donc DarkReader uniquement pour les pages...
 1. Qui n'activent pas de mode sombre par défaut malgré le paramétrage de Firefox.
@@ -122,7 +125,7 @@ Ce dernier point peut justifier de préférer Midnight Lizard à Dark Reader si 
 
 Inconvénients:
 * Je trouve l'interface beaucoup moins lisible que celle de Dark Reader.
-* Mon ressenti est que Midnight Lizard fait planter Firefox beaucoup plus souvent que Dark Reader (qui n'est pas exempt de ce défaut bon plus). C'est d'ailleurs par lassitude des plantages à cause de Midnight Lizard que j'ai décidé d'essayer Dark Reader, que je n'ai découvert qu'après Midnight Lizard.
+* Mon ressenti est que Midnight Lizard fait planter Firefox beaucoup plus souvent que Dark Reader (qui n'est pas exempt de ce défaut non plus). C'est d'ailleurs par lassitude des plantages à cause de Midnight Lizard que j'ai décidé d'essayer Dark Reader, que je n'ai découvert qu'après Midnight Lizard.
 
 ## Retour
 [Cliquez ici pour retourner à l’index.](..)
