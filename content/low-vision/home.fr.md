@@ -75,8 +75,9 @@ Cette section explique comment adapter Chrome ou Firefox à la sensibilité à l
 ### Sites problématiques courants
 Cette section explique comment configurer des sites populaires mais qui n'affichent pas automatiquement le mode sombre configuré dans le navigateur.
 * [Google Docs](google-docs)
-
-## Téléphone (en cours de rédaction)
+* Google Search (à venir)
+* Gmail (à venir)
+## Téléphone (à venir)
 * Modèle
 * Réglages
 * Applications
