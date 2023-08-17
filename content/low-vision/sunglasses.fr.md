@@ -67,7 +67,7 @@ Vous verrez que j'ai pris toutes mes lunettes chez Décathlon. Cela s'explique p
 Dans la mesure où j'espère bien que ma vision continuera de s'améliorer, le point 1 ci-dessus me permettra d'échanger mes lunettes, si besoin, au fur et à mesure des progrès.
 
 ### Catégorie 4 polarisante ou non: [Décathlon Quechua MH590](https://www.decathlon.ch/fr/p/lunettes-de-soleil-randonnee-mh590-adulte-polarisantes-categorie-4/_/R-p-181313?mc=8548667)
-Ces lunettes arquées ont des verres gris et des branches très larges qui ne laissent passer aucune source de lumière latérale. Elles existent aussi en version non-polarisante. Le cadre des lunettes étant très près du visage, il passe largement sous la visière de ma casquette, ce qui n'est pas le cas de tous les modèles de lunettes catégorie 4.
+Ces lunettes arquées ont des verres gris et des branches très larges qui ne laissent passer aucune source de lumière latérale. Elles existent aussi en version non-polarisante. Le cadre des lunettes étant très près du visage, il passe largement sous la visière de ma casquette, ce qui n'est pas le cas de tous les modèles de lunettes catégorie 3 ou 4.
 
 ![Lunettes Décathlon Quechua MH-590](/vision/MH-590.png)
 
