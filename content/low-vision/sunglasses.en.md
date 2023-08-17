@@ -69,14 +69,14 @@ As I hope my vision will continue to improve, point 1 above will allow me to swa
 ### Category 4 polarizing or not
 [Decathlon Quechua MH590](https://www.decathlon.ch/fr/p/lunettes-de-soleil-randonnee-mh590-adulte-polarisantes-categorie-4/_/R-p-181313?mc=8548667)
 
-These arched glasses have gray lenses and very wide temples that do not allow any side light to pass through. They also exist in a non-polarizing version.
+These arched glasses have gray lenses and very wide temples that do not allow any side light to pass through. They also exist in a non-polarizing version. Since the frame of the glasses is very close to the face, it passes well under the visor of my cap, which is not the case with all category 3 or 4 glasses.
 
 ![Quechua MH-590 Decathlon sunglasses](/vision/MH-590.png)
 
 ### Category 3 non-polarizing
 [Decathlon Van Rysel Roadr 500](https://www.decathlon.ch/fr/p/lunettes-de-velo-adulte-roadr-500-categorie-3-noires/_/R-p-181317?mc=8405401)
 
-I already had these glasses before my vision loss. Blue in color, the lenses alter the colors. Although I now use them in a completely different context, they are arched enough to filter light from all directions. Unfortunately, these glasses do not exist in a polarizing version.
+I already had these glasses before my vision loss. Blue in color, the lenses alter the colors. Although I now use them in a completely different context, they are arched enough to filter light from all directions. Unfortunately, these glasses do not exist in a polarizing version. Moreover, Van Rysel glasses are designed with a frame not quite as close to the forehead as the Quechua. This is not a problem with a helmet for cycling, which is the intended use for this model. It is more problematic with a cap, since the glasses prevent the visor from "falling" properly into place.
 
 ![Van Rysel Roadr500 Decathlon sunglasses](/vision/Roadr-500.png)
 
