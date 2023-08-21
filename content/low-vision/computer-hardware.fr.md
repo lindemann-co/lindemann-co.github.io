@@ -11,8 +11,8 @@ tags:
 
 ## Écran
 Pour remplacer deux écrans "droits" de 14" vieillissants, au contraste et à la profondeur de noir médiocres, je cherchais un écran unique avec les caractéristiques suivantes:
-* dalle VA [[guide](https://www.materiel.net/guide-achat/g10-les-ecrans-pc/5297/)]
-* contraste statique de 2500:1 ou plus [[guide](https://leclaireur.fnac.com/article/2146-technologie-hdr-on-vous-explique-tout/)]
+* dalle VA [[explications](https://www.materiel.net/guide-achat/g10-les-ecrans-pc/5297/)]
+* contraste statique de 2500:1 ou plus [[explications](https://leclaireur.fnac.com/article/2146-technologie-hdr-on-vous-explique-tout/)]
 * incurvé
 * environ 34"
 
