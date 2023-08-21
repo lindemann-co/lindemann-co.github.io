@@ -22,7 +22,7 @@ Cette page présente les personnalisations que j'ai apportées à mon environnem
 * passer votre Mac en mode sombre, [cliquez ici](../mac-os)
 
 ## Programme
-Voici les éléments que j'ai passés en mode sombre:
+Voici les éléments que ce guide permet de passer en mode sombre:
 * Style général
 * Fenêtres
 * Barre de menu
