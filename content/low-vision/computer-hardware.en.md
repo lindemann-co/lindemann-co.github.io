@@ -11,7 +11,7 @@ tags:
 
 ## Screen
 To replace two aging 14" "flat" screens with poor contrast and black depth, I was looking for a single screen with the following specs:
-* VA panel [[guide](https://www.rtings.com/monitor/learn/ips-vs-va-vs-tn)]
+* VA panel[^1] [[guide](https://www.rtings.com/monitor/learn/ips-vs-va-vs-tn)]
 * static contrast of 2500:1 or more [[guide](https://www.makeuseof.com/hdr-screen-specs-to-look-for/)]
 * curved
 * about 34"
@@ -47,3 +47,5 @@ Note: there are also keyboards with keys specially designed to provide high cont
 
 ## Back
 [Click here to go back to the low vision home page](..).
+
+[^1]: Although OLED Monitors offer the best contrast and depth of black, by far, they were still way above my budget at the time of the decision.
