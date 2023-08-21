@@ -11,7 +11,7 @@ tags:
 
 ## Écran
 Pour remplacer deux écrans "droits" de 14" vieillissants, au contraste et à la profondeur de noir médiocres, je cherchais un écran unique avec les caractéristiques suivantes:
-* dalle VA [[explications](https://www.materiel.net/guide-achat/g10-les-ecrans-pc/5297/)]
+* dalle VA[^1] [[explications](https://www.materiel.net/guide-achat/g10-les-ecrans-pc/5297/)]
 * contraste statique de 2500:1 ou plus [[explications](https://leclaireur.fnac.com/article/2146-technologie-hdr-on-vous-explique-tout/)]
 * incurvé
 * environ 34"
@@ -47,3 +47,5 @@ Note: il existe également des claviers avec des touches spécialement conçues 
 
 ## Retour
 [Cliquez ici pour retourner à l’index.](..)
+
+[^1]: Les écran d'ordinateurs avec dalle OLED offrent certes les meilleurs contrastes et profondeurs de noir, mais leur prix les plaçaient hors budget au moment du choix.
