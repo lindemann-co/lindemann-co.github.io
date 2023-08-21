@@ -8,10 +8,10 @@ images:
 tags:
   - basse vision
 ---
-J'ai récemment développé une [hypersensibilité à la lumière](deficiences-visuelles#sensibilit%C3%A9-%C3%A0-la-lumi%C3%A8re-et-%C3%A0-l%C3%A9blouissement). Je partage ici quelques mesures et équipements qui m'aident à vivre cette situation aussi normalement que possible. Si vous ou l'un de vos proches vivez la même situation, j'espère que ces quelques lignes vous seront utiles.
+Je suis [hypersensible à la lumière](deficiences-visuelles#sensibilit%C3%A9-%C3%A0-la-lumi%C3%A8re-et-%C3%A0-l%C3%A9blouissement). Je partage ici quelques mesures et équipements qui m'aident à vivre cette situation aussi normalement que possible. Si vous ou l'un de vos proches vivez la même situation, j'espère que ces quelques lignes vous seront utiles.
 
 ## Contexte
-En mai 2023, j'ai fait une [réaction auto-immune](https://fr.wikipedia.org/wiki/Enc%C3%A9phalomy%C3%A9lite_aigu%C3%AB_diss%C3%A9min%C3%A9e) qui m'a temporairement rendu totalement aveugle. J'ai heureusement été remarquablement pris en charge par les équipes du [CHUV](https://fr.wikipedia.org/wiki/Centre_hospitalier_universitaire_vaudois) à Lausanne et moins de deux mois après la fin du traitement, j'avais récupéré la majorité des [capacités sensorielles](../deficiences-visuelles) qui constituent la vision:
+En mai 2023, j'ai fait une [réaction auto-immune](https://fr.wikipedia.org/wiki/Enc%C3%A9phalomy%C3%A9lite_aigu%C3%AB_diss%C3%A9min%C3%A9e) qui m'a rendu totalement aveugle pendant quelques jours. J'ai heureusement été remarquablement pris en charge par les équipes du [CHUV](https://fr.wikipedia.org/wiki/Centre_hospitalier_universitaire_vaudois) à Lausanne et moins de deux mois après la fin du traitement, j'avais récupéré la majorité des [capacités sensorielles](../deficiences-visuelles) qui constituent la vision:
 * l'**acuité visuelle** (le célèbre "10/10 à chaque oeil"),
 * le **champ visuel**,
 * la **perception des couleurs**, en commençant par le jaune et le bleu et laissant donc le rouge revenir en dernier, ce qui n'est pas sans ironie pour un résident suisse.

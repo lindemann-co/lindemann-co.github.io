@@ -8,11 +8,8 @@ images:
 tags:
   - low vision
 ---
-## Warning
-This section of the site is under construction.
-
 ## Motivation
-I recently developed [hypersensitivity to light](https://w3c.github.io/low-vision-a11y-tf/requirements.html#light-and-glare-sensitivity). Here I share some measures and equipment that help me to live as normal a daily life as possible. If you or someone close to you is going through the same situation, I hope these few lines will be useful to you.
+I am [hypersensitive to light](https://w3c.github.io/low-vision-a11y-tf/requirements.html#light-and-glare-sensitivity). Here I share some measures and equipment that help me to live as normal a daily life as possible. If you or someone close to you is going through the same situation, I hope these few lines will be useful to you.
 
 ## Context
 In May 2023, I had an [autoimmune reaction](https://en.wikipedia.org/wiki/Acute_disseminated_encephalomyelitis) which temporarily rendered me completely blind. Fortunately, I was remarkably taken care of by the teams in [CHUV](https://en.wikipedia.org/wiki/Lausanne_University_Hospital) and the [Hôpital Ophthalmique Jules Gonin](https://www.ophtalmique.ch/) in Lausanne. Less than two months after the end of the treatment, I had recovered most of the [sensory abilities](https://w3c.github.io/low-vision-a11y-tf/requirements.html#visual-impairments) that constitute vision:
