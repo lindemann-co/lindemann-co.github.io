@@ -24,7 +24,7 @@ Si vous vous sentez d'attaque et que vous souhaitez essayer Linux et Xubuntu en 
 2. Installez ce fichier `.iso` sur une clef USB en suivant [les instructions](https://doc.ubuntu-fr.org/live_usb) mentionnées plus haut.
 3. Redémarrez votre ordinateur pour le booter sur la clef USB. Vous serez alors guidé(e).
 
-Si les explications de la création de la clef USB (étape 2) et du redémarrage depuis cette clef (étape 3) vous laissent perplexe, [ce guide](https://www.numerama.com/tech/723035-comment-essayer-linux-sans-toucher-a-son-installation-windows.html) les esplique autrement, mais toujours pas à pas. Il vous suffit d'en commencer la lecture à partir de la section "Créez une clé USB de test".
+Si les explications de la création de la clef USB (étape 2) et du redémarrage depuis cette clef (étape 3) vous laissent perplexe, [ce guide](https://www.numerama.com/tech/723035-comment-essayer-linux-sans-toucher-a-son-installation-windows.html) les explique autrement, mais toujours pas à pas. Il vous suffit d'en commencer la lecture à partir de la section "Créez une clé USB de test".
 
 ## Essayer Linux Mint
 Le guide [Numerama](https://www.numerama.com/tech/723035-comment-essayer-linux-sans-toucher-a-son-installation-windows.html) mentionné ci-dessus explique comment essayer Linux Mint. Il est en français, assez détaillé et disponible en mode sombre.
