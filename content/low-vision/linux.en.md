@@ -1,5 +1,5 @@
 ---
-title: "Linux for low vision"
+title: "Linux in dark mode"
 slug: "../vision/linux"
 date: 2023-08-06T21:59:54+02:00
 draft: true
@@ -8,123 +8,115 @@ images:
 tags:
   - basse vision
 ---
-Cette page présente les personnalisations que j'ai apportées à mon environnement de bureau pour m'aider à mieux supporter l'exposition aux écrans d'ordinateur malgré mon hypersensibilité à la lumière.
+I moved from Windows to Linux more than ten years ago. I am now using [Xubuntu](https://xubuntu.fr/), which I am extremely satisfied with. With some computer knowledge, Linux makes it possible to customize just about any detail of the user experience, especially the look and feel. This is particularly useful when living with a visual impairment, since it is easy to go from this...
 
-# Système d'exploitation
-J'ai quitté le monde Windows en 2009 pour [Linux](https://www.leparisien.fr/guide-shopping/pratique/quelle-difference-entre-linux-windows-et-mac-19-11-2019-8196654.php), et plus précisément [Xubuntu](https://xubuntu.fr/), dont je suis extrêmement satisfait. Avec quelques connaissances informatiques, Linux permet de personnaliser à peu près n'importe quel détail de l'expérience utilisateur, en particulier l'apparence. C'est particulièrement pratique lorsque l'on vit avec une déficience visuelle.
+![Thunar in light mode](/vision/thunar-light-en.png)
 
-Cette page suppose soit que vous avez Linux installé sur votre ordinateur, soit que vous souhaitez essayer, seul ou accompagné par quelqu'un ayant des compétences en informatique.
+... to this ...
 
-## Si votre ordinateur fonctionne avec Windows ou Mac
-Si vous avez des connaissances en informatique ou si vous pouvez vous faire aider par quelqu'un, il est possible d'essayer Linux sur un ordinateur Windows ou Mac, sans risque de "casser" quoi que ce soit sur votre ordinateur. Pour en savoir plus, jetez un oeil à [ces instructions](https://doc.ubuntu-fr.org/live_usb). Si vous n'en comprenez pas le contenu, mieux vaut ne pas essayer Linux.
+![Thunar in dark mode](/vision/thunar-dark-en.png)
 
-Si vous vous sentez d'attaque et que vous souhaitez essayer Linux et Xubuntu en particulier, vous pouvez le faire en suivant simplement ces 3 étapes:
-1. Téléchargez un fichier `.iso`, appelé "image", qui contient tout le nécessaire pour faire fonctionner l'ordinateur sous Linux
-   * Téléchargez [le fichier le plus récent parmi ceux marqués "LTS"](https://xubuntu.fr/) (pour long-term support). Ce sont les versions auxquelles aucune mise à jour lourde ne sera imposée pendant 3 ans, tout en profitant des mises à jours légères et/ou de sécurité importantes pour garder votre ordinateur sûr et à jour.
-2. Installez ce fichier `.iso` sur une clef USB en suivant [les instructions](https://doc.ubuntu-fr.org/live_usb) mentionnées plus haut.
-3. Redémarrez votre ordinateur pour le booter sur la clef USB. Vous serez alors guidé(e).
+This page outlines the customizations I have made to my desktop environment to help me better withstand exposure to computer screens despite my hypersensitivity to light. It assumes that you are also using Linux. If not, but you want to...
+* try Linux risk-free, [click here](../try-linux).
+* switch your Windows computer to dark mode, [click here](../windows)
+* switch your Mac to dark mode, [click here](../mac-os)
 
-Ne lisez les sections suivantes que si votre ordinateur fonctionne sous Linux:
-* Jeu d'icônes
-* Choix du style
-* Gestionnaire de fenêtres
-* Barre de menu
+## Content
+This guide will show you how to switch the following items to dark mode:
+* General look and feel
+* Window look and feel
+* Toolbar
+* Icons
 
-La section Navigateur est en revanche susceptible de vous intéresser même si vous utilisez Windows ou Mac.
+The instructions are written for the [XFCE](https://www.xfce.org/?lang=en) environment. However, if you use another desktop manager but are comfortable with Linux, I'm sure you'll be able to adjust the instructions to your situation.
 
-## Si vous utilisez déjà Linux
-Ne lisez les sections suivantes que si votre environnement de bureau est [XFCE](https://www.xfce.org/?lang=fr) ou si vous savez comment installer les thèmes mentionés:
-* Choix du style
-* Gestionnaire de fenêtres
-* Barre de menu
+## Icon Set (optional)
+I have been using the Faenza icon set for a long time. It offers several different games compatible with dark ("dark"), very dark ("darker") and very very dark ("darkest") styles.
 
-Les sections Jeu d'icônes et Navigateur sont en revanche susceptibles de vous intéresser même si vous utilisez un autre environnement de bureau.
+![Faenza Icons](/vision/faenza-samples-en.png)
 
-## Jeu d'icônes
-J'utilise depuis longtemps le jeu d'icônes Faenza. Il propose plusieurs jeux différents compatibles avec des styles sombres ("dark"), très sombres ("darker") et très très sombres ("darkest").
-
-![Icones Faenza](/vision/faenza-samples.png)
-
-Pour l'installer, lancer un terminal et saisir:
+To install it, launch a terminal by simultaneously pressing `ALT` and `F2` and then entering the exclamation mark `!`. Then enter the following commands:
 ```
 sudo add-apt-repository ppa:tiheum/equinox
 
 sudo apt-get update && sudo apt-get install faenza-icon-theme
 ```
-Lisez la section suivante [Choix du style](#choix-du-style) pour utiliser ces icônes.
+Read the next section [Appearance](#appearance) to use these icons.
 
-## Choix du style
-Cette section suppose que vous utilisez Linux avec l'environnement de bureau [XFCE](https://www.xfce.org/?lang=fr). C'est le cas si vous utilisez Xubuntu (dont le nom signifie "[Ubuntu](https://www.ubuntu-fr.org/) avec XFCE").
+## Appearance
+The style defines the appearance of what is displayed **inside** application windows, the background, the font, etc. It also defines the Appearance of certain visual elements that are not windows, such as the menu bar at the very top or at the very bottom of the screen, for example.
 
-Le style définit l'apparence de ce qui est affiché à l'intérieur des fenêtres des applications, le fond, la police de caractère, etc. Il définit aussi l'apparence de certains éléments visuels qui ne sont pas des fenètres. C'est le cas de la barre de menu tout en haut ou tout en bas de l'écran, par exemple.
+Most desktop managers offer several dark styles, i.e. where texts are displayed in white on a dark background.
 
-Par défaut, XFCE propose plusieurs styles sombres, c'est-à-dire où les textes sont affichés en blanc sur fond sombre.
+In XFCE, to choose a style, open the `Appearance` menu. For this there are two options:
+1. Go to: `Start > Settings > Appearance > Style`.
+2. Press the `ALT` and `F2` keys simultaneously and type `xfce4-appearance-settings` (actually typing `appear` should be enough, autocomplete will do the rest).
 
-Pour choisir un style, ouvrez le menu `Apparence`. Pour cela, il existe deux options:
-1. Allez dans: `Démarrer > Paramètres > Apparence > Style`.
-2. Appuyez simultanément sur les touches `ALT` et `F2` et tapez `xfce4-appearance-settings` (en fait, saisir `appear` devrait suffire, l'autocomplétion fera le reste).
+![List of applications](/vision/alt-f2-en.png)
 
-![Liste des applications](/vision/alt-f2.png)
+I recommend the `Adwaita-dark` style. In my experience, it provides slightly more visual comfort than `Greybird-dark`.
 
-Je vous conseille de choisir le style `Adwaita-sombre`. D'après mon expérience, il offre un confort visuel légèrement supérieur à celui du style `Greybird-dark`.
+![XFCE style customization](/vision/xfce-style-en.png)
 
-![Personnalisation du style dans XFCE](/vision/xfce-style.png)
+In the same `Appearance` menu, open the `Icons` tab and select an icon set to your liking. If you installed the `Faenza` icon sets in the previous section, I recommend `Faenza Darkest`, which looks good with the `Adwaita-dark` style.
 
-Dans la même fenêtre "Apparence", ouvrez ensuite l'onglet "Icônes" et sélectionnez un jeu d'icônes à votre goût. Je vous conseille Faenza Darkest, qui ressort bien avec le style `Adwaita-sombre`.
+![Customizing icons in XFCE](/vision/xfce-icons.png)
 
-![Personnalisation des icones dans XFCE](/vision/xfce-icones.png)
+## Window Manager
+### Title Bar
+We are now going to choose how the bar at the top of the windows looks. This is done in the `Window Manager` menu. Again, there are two options:
+1. Go to: `Start > Settings > Window Manager > Style`.
+2. Simultaneously press the `ALT` and `F2` keys and type `xfwm4-settings`.
 
-## Gestionnaire de fenêtres
-### Style de la barre de titre
-Nous allons maintenant choisir l'apparence de la barre en haut des fenêtres. Ceci se fait dans le menu `Gestionnaire de fenêtres`. Là encore, il existe deux options:
-1. Allez dans: `Démarrer > Paramètres > Gestionnaire de fenêtres > Style`.
-2. Appuyez simultanément sur les touches `ALT` et `F2` et tapez `xfwm4-settings`.
+![ALT+F2 Window Manager](/vision/alt-f2-xfwm-settings-en.png)
 
-![ALT+F2 Gestionnaire des fenêtres](/vision/alt-f2-xfwm-settings.png)
+Try different styles to decide which one suits you best. Personally, I chose `Greybird-dark-accessibility`.
 
-Essayez différents styles pour décider celui qui vous convient le mieux. Personnellement, j'ai choisi `Greybird-dark-accessibility`.
+![Window Manager > Style](/vision/xfwm-style-en.png)
 
-![Gestionnaire de fenêtres > Style](/vision/xfwm-style.png)
+### Title Font
+Also take the opportunity to choose a size and title font to your liking. For example, I replaced `Noto Sans Bold` with `Noto Sans Regular`, which is thinner and therefore produces a smaller surface of "dazzling white letters".
 
-### Police des titres
-Profitez-en également pour choisir une taille et une police de titre à votre goût. Par exemple, j'ai remplacé `Noto Sans Bold` par `Noto Sans Regular`, qui est plus fine et produit donc moins de "surface lettrée blanche" éblouissante.
+## Menu Bar (Panel)
+Here we are going to customize the appearance of the menu bar located at the top or bottom of your screen. This bar most often contains the `Start` menu, a clock, a notification area, etc. In XFCE, this menu bar is called "Panel". This is what my Panel looks like:
 
-## Barre de menu (Tableau de bord)
-Nous allons ici personnaliser l'apparence de la barre de menu située en haut ou en bas de votre écran. Cette barre contient le plus souvent le menu `Démarrer`, une horloge, une zone de notification, etc. Dans XFCE, cette barre de menu s'appelle "Tableau de bord". Voici à quoi ressemble mon tableau de bord:
+![Panel](/vision/tableau-de-bord.png)
 
-![Tableau de bord](/vision/tableau-de-bord.png)
+To reach the menu to customize the panel, there are two options:
+1. Go to: `Start > Settings > Panel`.
+2. Simultaneously press the `ALT` and `F2` keys and type `xfce4-panel --preferences`.
 
-Pour atteindre le menu permettant de personnaliser le tableau de bord, il existe deux options:
-1. Allez dans: `Démarrer > Paramètres > Tableau de bord`.
-2. Appuyez simultanément sur les touches `ALT` et `F2` et tapez `xfce4-panel --preferences`.
+![ALT+F2 Panel](/vision/alt-f2-panel-settings-en.png)
 
-![ALT+F2 Tableau de bord](/vision/alt-f2-panel-settings.png)
+### In the View tab
 
-### Dans l'onglet `Affichage`
+This tab defines the position, size and conditions under which the menu is displayed.
 
-![Tableau de bord > Apparence](/vision/tableau-de-bord-affichage.png)
+![Panel > Display](/vision/panel-display.png)
 
-1. Commencez par ajuster la taille du menu pour rendre son contenu plus visible et lisible. Je n'hésite pas à afficher une barre de 50px de haut et sur toute la largeur de l'écran.
-2. Comme la logique qui masque le tableau de bord peut être irritante au début, je vous conseille aussi de mettre `Masquer automatiquement le tableau de bord: JAMAIS`. Vous pourrez le changer plus tard.
-3. Par défaut, le tableau de bord est une barre horizontale. Si vous souhaitez changer l'orientation, faites-le dans le champ `Mode` en haut de l'onglet.
-4. Pour déplacer le menu, décochez la case `Verrouiller le tableau de bord`. Des poignées apparaissent alors aux extrêmités du tableau de bord. Cliquez sur une des poignées pour déplacer le tableau de bord.
-5. Si vous souhaitez déplacer le tableau de bord vers un autre écran, sélectionnez préalablement `Sortie: Automatique` en haut de l'onglet.
-6. Une fois que sa place vous convient, pensez à vérouiller le tableau de bord en cochant la case `Verrouiller le tableau de bord`.
+1. Start by adjusting the size of the menu to make its content more visible and readable. I don't hesitate to display a bar 50px high and across the width of the screen.
+2. Since the logic that hides the Panel can be irritating at first, I also advise you to set `Auto-hide Panel: NEVER`. You can change it later.
+3. By default, the Panel is a horizontal bar. If you wish to change the orientation, do so in the `Mode` field at the top of the tab.
+4. To move the menu, uncheck the `Lock Panel` box. Handles then appear at the ends of the Panel. Click on one of the handles to move the Panel.
+5. If you want to move the Panel to another screen, first select `Exit: Automatic` at the top of the tab.
+6. Once its place suits you, remember to lock the Panel by checking the box `Lock the Panel`.
 
-### Dans l'onglet `Apparence`
+### In the Appearance tab
 
-![Tableau de bord > Apparence](/vision/tableau-de-bord-apparence.png)
+This tab defines the colors of the menu.
 
-1. Cochez la case `Mode sombre`
-2. Choisissez un `Arrière-plan` d'un style `Couleur unie` et choisissez une couleur à votre goût. Pour aller avec les styles `Adwaita-sombre` et `Greybird-dark-accessibility`, j'ai choisi un gris sombre `#232323`.
-3. Vous pouvez modifier les autres champs de l'onglet pour observer leur effet.
+![Panel > Appearance](/vision/panel-appearance.png)
 
-Une fois satisfait du résultat, fermez la fenètre de configuration du tableau de bord.
+1. Check the `Dark Mode` box
+2. Choose a `Background` of a `Solid Color` style and choose a color you like. To go with the `Adwaita-dark-accessibility` and `Greybird-dark-accessibility` styles, I chose a dark gray `#232323`.
+3. You can modify the other fields on the tab to observe their effect.
 
-## Horloge
-Nous allons donner à l'horloge du tableau de bord l'apparence d'un grand écran LCD. Pour cela, faites un clic-droit sur l'horloge puis cliquez sur `Propriétés`. Voici mes réglages:
+Once satisfied with the result, close the Panel configuration window.
 
-![Horloge](/vision/horloge.png)
+## Clock
+To display the clock as an LCD display. right-click on it, then select `Properties` and use the following settings:
 
-# Retour
-[Cliquez ici pour retourner à l’index.](..)
+![Horloge](/vision/clock.png)
+
+## Back
+[Click here to go back to the low vision home page](..).
