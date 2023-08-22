@@ -23,6 +23,17 @@ Une faible acuité visuelle peut être corrigée avec des lunettes, des lentille
 
 De nombreuses personnes malvoyantes ont une sensibilité extrême à la lumière (appelée photophobie). La lumière vive rend difficile ou impossible la vision, et provoque des douleurs oculaires et des maux de tête. Pour certaines personnes, la luminosité normale d'un écran d'ordinateur avec un fond lumineux n'est pas lisible et douloureuse. Ces personnes doivent alors changer le fond en une couleur plus foncée. La sensibilité à l'éblouissement accompagne fréquemment les modifications de la vision liées à l'âge et aux cataractes.
 
+### Exemples simulés de sensibilité à la lumière
+Les images ci-dessous ne sont pas issues du site du W3C. Je les ai (maladroitement) réalisées moi-même pour illustrer l'éblouissement ressenti dans certaines situations.
+
+|![Livre "normal"](/vision/livre-normal.png)|![Livre "hyper-sensible"](/vision/livre-ebloui.png)|
+|---|---|
+|Lecture sans hypersensibilité à la lumière|Lecture avec hypersensibilité à la lumière|
+
+|![Images du bureau vision "normale"](/vision/cat-on-desk-normal.png)|![Images du bureau vision "hyper-sensible"](/vision/cat-on-desk-blinded.png)|
+|---|---|
+|Vision sans hypersensibilité à la lumière|Vision avec hypersensibilité à la lumière|
+
 ## Sensibilité au contraste
 
 La sensibilité au contraste est la capacité de détecter les différences de luminosité, par exemple, à discerner le texte de son contexte. Une barrière d'accessibilité commune pour les personnes à faible sensibilité au contraste est le texte gris sur fond clair.
