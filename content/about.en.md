@@ -17,7 +17,7 @@ I am a husband and father of two.
 
 I am an engineer, entrepreneur and computer scientist.
 
-I was born in France in the early 1980’s. Too long ago already.
+I was born in France in the early 1980’s.
 
 ## Where
 
