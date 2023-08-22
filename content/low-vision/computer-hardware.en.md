@@ -41,7 +41,7 @@ Of the brands I've used over the years, Logitech and Steelseries had the best op
 
 ![Steelseries Apex 3 Keyboard](/vision/keyboard.png)
 
-Note: there are also keyboards with keys specially designed to provide high contrast:
+Note: there are also non-lighting keyboards with keys specially designed to provide high contrast:
 
 ![High Contrast Keyboard](/vision/keyboard-high-contrast.png)
 

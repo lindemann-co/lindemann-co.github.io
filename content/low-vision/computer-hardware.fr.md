@@ -41,7 +41,7 @@ Parmi les marques que j'ai utilisées au fil des années, Logitech et Steelserie
 
 ![Clavier Steelseries Apex 3](/vision/keyboard.png)
 
-Note: il existe également des claviers avec des touches spécialement conçues pour offrir un contraste élevé:
+Note: il existe également des claviers non-rétro-éclairés mais avec des touches spécialement conçues pour offrir un contraste élevé:
 
 ![Clavier à contraste élevé](/vision/keyboard-high-contrast.png)
 
