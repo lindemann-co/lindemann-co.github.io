@@ -39,16 +39,32 @@ Les types de perte de champ visuel peuvent être regroupés comme suit:
 * Perte centrale du champ : La vision est réduite ou absente au milieu de la vision des gens.
 * Autres pertes de champ: Les gens ont des taches éparpillées de vision obscure, ont un anneau de perte de champ, ont une perte de champ dans la partie gauche ou droite de leur vision, ou d'autres pertes de champ.
 
-### Exemples simulés de perte de champ visuel:
+### Exemples simulés de perte de champ visuel
 
-#### Perte du champ visuel central
-![Perte du champ visuel central](/vision/perte-champ-visuel-central.png)
+|![Perte du champ visuel central](/vision/perte-champ-visuel-central.png)|
+|---|
+|Exemple de perte du champ visuel central|
 
-#### Perte du champ visuel periphérique
-![Perte du champ visuel periphérique](/vision/perte-champ-visuel-peripherique.png)
+|![Perte du champ visuel periphérique](/vision/perte-champ-visuel-peripherique.png)|
+|---|
+|Exemple de perte du champ visuel périphérique|
 
-#### Autre type de perte du champ visuel
-![Autre type de perte du champ visuel](/vision/perte-champ-visuel-tachete.png)
+|![Autre type de perte du champ visuel](/vision/perte-champ-visuel-tachete.png)|
+|---|
+|Exemple d'autre type de perte du champ visuel|
+
+## Vision des couleurs
+
+Certaines personnes ne voient pas bien certaines couleurs, voire pas du tout. Les déficiences de la vision des couleurs sont communément appelées « daltonisme », même si la plupart des personnes daltoniennes peuvent voir de nombreuses couleurs. Il est rare qu’une personne ne puisse voir aucune couleur. Dans l’ensemble, environ 1 homme sur 12 (8 %) et 1 femme sur 200 souffrent de déficiences en matière de vision des couleurs. [Projet de note : référence à ajouter ; certains sont répertoriés dans les références.] Les déficiences de la vision des couleurs ne sont pas classées comme « basse vision » ou handicaps dans de nombreux contextes.
+
+### Exemples simulés de daltonisme
+|![Perception complète](/vision/full_color.png)|![Défaut de perception du rouge et du vert](/vision/protanopia.png)|
+|----|----|
+|Perception complète|Insensibilité au rouge et vert|
+
+|![Défaut de perception du bleu et du jaune](/vision/tritanopia.png)|![Défaut de perception de toutes les couleurs](/vision/achromatopsia.png)|
+|----|----|
+|Insensibilité au jaune et bleu|Insensibilité à toutes les couleurs|
 
 ## Retour
 [Cliquez ici pour retourner à l’index.](..)
