@@ -32,7 +32,7 @@ The final decision, in favor of the Huawei, was based on contrast, resolution an
 
 ## Keyboard
 Now working in a relatively dark environment, I made the choice to change the good old [rustic Dell keyboard](https://www.amazon.co.uk/dp/B01E7V73IE) to which I was used for a backlit keyboard . The criteria considered were:
-* US QWERTY layout with numeric keypad,
+* US QWERTY layout with numeric keypad, out of habit,
 * type [membrane](https://www.dareu.com/fresh/newlaunch/the-ultimate-guide-to-membrane-keyboard/) to limit noise,
 * lighting "through" the keys and not just "around" the keys,
 * sober look

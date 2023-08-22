@@ -32,7 +32,7 @@ La décision finale, en faveur du Huawei, s'est basée sur le contraste, la rés
 
 ## Clavier
 Travaillant désormais dans un environnement relativement sombre, j'ai fait le choix de changer le bon vieux [clavier Dell rustique](https://www.amazon.fr/dp/B01E7V73IE) auquel j'étais habitué pour un clavier retro-éclairé. Les critères considérés étaient les suivants:
-* disposition QWERTY US avec pavé numérique,
+* disposition QWERTY US avec pavé numérique, par habitude,
 * type [membrane](https://www.darty.com/darty-et-vous/high-tech/informatique/pc-mac/clavier-membrane-et-mecanique-quelles-differences) pour limiter le bruit,
 * éclairage "à travers" les touches et pas uniquement "autour" des touches,
 * allure sobre
