@@ -11,7 +11,7 @@ tags:
 Je suis hypersensible à la lumière[^1]. Je partage ici quelques mesures et équipements qui m'aident à vivre cette situation aussi normalement que possible. Si vous ou l'un de vos proches vivez la même situation, j'espère que ces quelques lignes vous seront utiles.
 
 ## Remarque sur les liens
-Lorsque cela est possible, j'inclus un lien vers les produits ou logiciels que je mentionne. Je n'en retire aucun bénéfice d'aucune sorte. Je le fais uniquement pour aider à identifier sans équivoque ce dont je parle.
+Lorsque cela est possible, j'inclus un lien vers les produits ou logiciels que je mentionne. Je n'en retire aucun bénéfice d'aucune sorte. Je le fais uniquement pour aider à identifier sans équivoque les produits ou logiciels en question.
 
 Enfin, sauf mention contraire, j'utilise moi-même les références mentionnées.
 
@@ -45,8 +45,8 @@ Cette section explique comment configurer des sites populaires mais qui n'affich
 * [Google Search](https://support.google.com/websearch/answer/10633314?hl=fr)
 * [Gmail](https://support.google.com/mail/answer/112508?hl=fr)
 ## Téléphone (à venir)
-* Modèle
+* [Modèle](telephone)
 * Réglages
 * Applications
 
-[^1]: [Cette page](../vision/contexte) explique le contexte.
+[^1]: [Cette page](contexte) explique le contexte.
