@@ -62,7 +62,7 @@ Parmi les fonctions d'accessibilité disponibles sur mon téléphone, j'appréci
 |Configuration de la touche d'accessibilité|Affichage des outils d'accessibilité|
 
 ### Applications
-Certaines applications incluent la transcription. C'est par exemple le cas de [Google Keep](https://keep.google.com/), un outil de notes et de listes.
+Certaines applications incluent la transcription, permettant de dicter plutôt que taper le texte. C'est par exemple le cas de nombreux outils de Google: Gmail, Google Docs, [Google Keep](https://keep.google.com/), etc. J'imagine que les outils Microsoft font de même.
 
 ## Retour
 [Cliquez ici](..) pour retourner à l’index.
