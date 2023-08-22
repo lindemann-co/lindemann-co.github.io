@@ -31,7 +31,7 @@ Cette section présente le matériel que j'utilise au quotidien pour prendre mes
 Cette section présente le matériel informatique que j'utilise depuis l'apparition de ma sensibilité à la lumière.
 * [Matériel](materiel-informatique)
 ### Système d'exploitation
-Cette section explique comment adapter le système d'exploitation à la sensibilité à la lumière. N'utilisant pas Windows ni Mac OS, les pages dédiées à ces systèmes sont très rustiques. En revanche, la page consacrée à Linux est détaillée.
+Cette section explique comment adapter le système d'exploitation à la sensibilité à la lumière. N'utilisant pas Windows ni Mac OS, les pages dédiées à ces systèmes sont très rustiques et pointent vers des sites externes. En revanche, la page consacrée à Linux, que j'utilise quotidiennement, est détaillée.
 * [Windows](windows)
 * [Mac OS](mac-os)
 * [Linux](linux)
@@ -49,4 +49,4 @@ Cette section explique comment configurer des sites populaires mais qui n'affich
 * Réglages
 * Applications
 
-[^1]: Voir [cette page](../vision/contexte) pour plus de contexte.
+[^1]: [Cette page](../vision/contexte) explique le contexte.
