@@ -63,9 +63,6 @@ languages:
         - url: /a-propos/
           name: À propos
           weight: 20
-        - url: /vision/
-          name: Basse vision
-          weight: 30
         - url: ../en
           name: EN
           weight: 1000
@@ -93,9 +90,6 @@ languages:
         - url: /about/
           name: About
           weight: 20
-        - url: /vision/
-          name: Low vision
-          weight: 30
         - url: ../fr
           name: FR
           weight: 1000
