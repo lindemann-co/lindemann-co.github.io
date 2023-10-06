@@ -27,6 +27,12 @@ En conséquence, les critères suivants n'ont pas été pris en compte :
 
 ## Citations
 
+> Les gens ont le droit d'aimer les hamburgers sans se faire emmerder pour ça.
+
+—  Moule à Gaufres, Le Bureau des Légendes, s02e03
+
+<br/>
+
 > Quand on écrit une nouvelle, le budget est illimité.
 
 — Josiane Balasko, [NIFFF](https://www.lqj.ch/articles/nifff-josiane-balasko-est-une-ecrivaine-fantastique-55200)
