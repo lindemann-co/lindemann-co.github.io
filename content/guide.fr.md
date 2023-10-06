@@ -1,9 +1,8 @@
 ---
 title: "Guide"
-languageCode: 'fr'
 slug: "guide"
 date: 2023-09-27T21:59:54+02:00
-draft: false
+draft: true
 toc: false
 images:
 tags:

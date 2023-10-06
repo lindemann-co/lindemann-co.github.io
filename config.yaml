@@ -1,5 +1,5 @@
 baseURL: 'http://lindemann.co/'
-defaultContentLanguage: fr
+defaultContentLanguage: en
 defaultContentLanguageInSubdir: true
 title: Lindemann
 theme: hello-friend-ng
@@ -40,62 +40,62 @@ taxonomies:
 
 languages:
   fr:
-    title: Lindemann
-    subtitle: Bienvenue
-    homeSubtitle: Bienvenue | Welcome
-    keywords: ''
-    copyright: >-
-      <a href="https://creativecommons.org/licenses/by-nc/4.0/" target="_blank"
-      rel="noopener">CC BY-NC 4.0</a>
-    readOtherPosts: Voir les autres pages.
-    footer:
-      trademark: true
-      rss: true
-      copyright: false
-      author: true
-      bottomText:
-        - 'Thème réalisé par <a href="https://github.com/rhazdon">DA</a>'
+    params:
+      subtitle: Bienvenue
+      homeSubtitle: Bienvenue | Welcome
+      keywords: ''
+      copyright: >-
+        <a href="https://creativecommons.org/licenses/by-nc/4.0/" target="_blank"
+        rel="noopener">CC BY-NC 4.0</a>
+      readOtherPosts: Voir les autres pages.
+      footer:
+        trademark: true
+        rss: true
+        copyright: false
+        author: true
+        bottomText:
+          - 'Thème réalisé par <a href="https://github.com/rhazdon">DA</a>'
     menu:
       main:
-        - url: /accueil
-          name: Accueil
+        - name: Accueil
+          url: /accueil
           weight: 10
-        - url: /a-propos
-          name: À propos
+        - name: À propos
+          url: /a-propos
           weight: 20
-        - url: /guide
-          name: Guide
-          weight: 30
-        - url: ../en
-          name: EN
+        # - name: Guide
+        #   url: /guide
+        #   weight: 30
+        - name: EN
+          url: ../en
           weight: 1000
   en:
-    title: Lindemann
-    subtitle: Welcome
-    homeSubtitle: Welcome | Bienvenue
-    keywords: ''
-    copyright: >-
-      <a href="https://creativecommons.org/licenses/by-nc/4.0/" target="_blank"
-      rel="noopener">CC BY-NC 4.0</a>
-    readOtherPosts: Read other posts
-    footer:
-      trademark: true
-      rss: true
-      copyright: false
-      author: true
-      bottomText:
-        - 'Theme by <a href="https://github.com/rhazdon">DA</a>'
+    params:
+      subtitle: Welcome
+      homeSubtitle: Welcome | Bienvenue
+      keywords: ''
+      copyright: >-
+        <a href="https://creativecommons.org/licenses/by-nc/4.0/" target="_blank"
+        rel="noopener">CC BY-NC 4.0</a>
+      readOtherPosts: Read other posts
+      footer:
+        trademark: true
+        rss: true
+        copyright: false
+        author: true
+        bottomText:
+          - 'Theme by <a href="https://github.com/rhazdon">DA</a>'
     menu:
       main:
-        - url: /home
-          name: Home
+        - name: Home
+          url: /home
           weight: 10
-        - url: /about
-          name: About
+        - name: About
+          url: /about
           weight: 20
-        - url: /guide
-          name: Guide
-          weight: 30
-        - url: ../fr
-          name: FR
+        # - name: Guide
+        #   url: /guide
+        #   weight: 30
+        - name: FR
+          url: ../fr
           weight: 1000
