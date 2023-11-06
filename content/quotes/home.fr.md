@@ -29,7 +29,7 @@ En conséquence, les critères suivants n'ont pas été pris en compte :
 
 > Les gens ont le droit d'aimer les hamburgers sans se faire emmerder pour ça.
 
-—  Moule à Gaufres, Le Bureau des Légendes, s02e03
+—  Moule à Gaufres, Directeur à la DGSE, Le Bureau des Légendes, s02e03
 
 <br/>
 
