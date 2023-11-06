@@ -716,6 +716,11 @@ among people ― that person is headed for higher earning power.
 
 <br/>
 
+> The people that really create the things that change this industry are both the thinker and doer in one person. [...] It’s very easy to say "I thought of this three years ago". But usually when you dig a little deeper, you find that the people that really did it were also the people that really worked through the hard intellectual problems as well.
+
+― Steve Jobs
+
+<br/>
 
 > On the Internet, nobody can hear you being subtle.
 
