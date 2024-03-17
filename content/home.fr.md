@@ -9,7 +9,7 @@ tags:
   - accueil
 ---
 
-Si vous lisez sur cette page, c'est que nous nous connaissons probablement.
+Si vous lisez sur cette page, c'est que nous nous connaissons d'une manière ou d'une autre.
 
 Faites-moi part de votre découverte lors de notre prochaine rencontre et je vous témoignerai mon estime éternelle.
 
