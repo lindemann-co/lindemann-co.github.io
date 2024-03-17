@@ -6,6 +6,4 @@ draft: false
 toc: false
 ---
 
-I use a service called Calendly to give secure access to my calendar.
-
-Click [here](https://calendly.com/mathieu_lindemann) to open it and book a call.
+Secure access to my calendar is available at https://calendly.com/mathieu_lindemann.
