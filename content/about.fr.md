@@ -9,7 +9,7 @@ tags:
   - accueil
 ---
 
-![Portrait](/me.jpg)
+![Portrait](/me-320px.jpg)
 
 ## Qui
 
