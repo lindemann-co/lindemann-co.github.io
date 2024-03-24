@@ -62,7 +62,7 @@ languages:
         #   url: /guide
         #   weight: 30
         - name: EN
-          url: ../en
+          url: ../en/about
           weight: 1000
   en:
     params:
@@ -88,5 +88,5 @@ languages:
         #   url: /guide
         #   weight: 30
         - name: FR
-          url: ../fr
+          url: ../fr/a-propos
           weight: 1000
