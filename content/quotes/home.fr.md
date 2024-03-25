@@ -1,5 +1,5 @@
 ---
-title: "Citations | Accueil"
+title: "Citations • Accueil"
 slug: "../citations/all"
 date: 2022-12-31
 draft: false
@@ -25,11 +25,11 @@ En conséquence, les critères suivants n'ont **pas** été pris en compte :
 [^4]: Vampires et super-héros font parfois d'assez bons philosophes.
 [^5]: Des phrases niaises, communes, provocatrices ou mal traduites ont été incluses. Mon goût en matière de réflexions évolue au fil du temps; comprendre ce qui m'intéressait hier dans une citation que j'estime médiocre aujourd'hui est un exercice que je trouve très instructif.
 
-## Index
+# Index
 
 Retrouvez certaines citations [avec mes commentaires](../../tags/citations/).
 
-## Citations
+# Citations
 
 > _Les gens ont le droit d'aimer les hamburgers sans se faire emmerder pour ça._
 >
