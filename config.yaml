@@ -58,9 +58,9 @@ languages:
         - name: À propos
           url: /a-propos
           weight: 20
-        # - name: Guide
-        #   url: /guide
-        #   weight: 30
+        - name: Citations
+          url: /citations
+          weight: 40
         - name: EN
           url: ../en/about
           weight: 1000
@@ -84,9 +84,9 @@ languages:
         - name: About
           url: /about
           weight: 20
-        # - name: Guide
-        #   url: /guide
-        #   weight: 30
+        - name: Quotes
+          url: /quotes
+          weight: 40
         - name: FR
           url: ../fr/a-propos
           weight: 1000
