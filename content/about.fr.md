@@ -13,7 +13,7 @@ tags:
 
 ## Qui
 
-Je suis un mari et père de deux enfants.
+Je suis marié et père de deux enfants.
 
 Je suis un ingénieur et un entrepreneur.
 
