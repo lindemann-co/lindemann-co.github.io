@@ -11,19 +11,19 @@ tags:
 
 La collecte de citations est l'un de mes plaisirs coupables.
 
-Le seul critère pour qu'une phrase trouve sa place dans la liste ci-dessous est de me faire réfléchir au moment où elle me tombe dessus. Autant dire que la barre à passer est rarement très élevée.
+Le seul critère pour qu'une phrase trouve sa place dans la liste ci-dessous est de me faire réfléchir au moment où elle me tombe dessus. Autant dire que la barre à passer est assez peu élevée.
 
-En conséquence, les critères suivants n'ont pas été pris en compte :
+En conséquence, les critères suivants n'ont **pas** été pris en compte :
 * Que je sois d'accord ou non avec la citation [^1]. 
 * Que la citation soit apocryphe ou non [^2] [^3].
 * Que l'auteur soit fictif ou non [^4].
 * La qualité de la déclaration [^5].
 
-[^1]: Il y a d'ailleurs plus d'une citation contre lesquelles je m'élève vigoureusement. Preuve qu'elles me font réfléchir.
+[^1]: Il y a d'ailleurs plus d'une citation contre lesquelles je m'élève vigoureusement.
 [^2]: J'ajoute la source lorsque je la connais.
 [^3]: Si vous connaissez la source d'une citation, ou avez la preuve qu'une citation est mal attribuée, contactez-moi.
-[^4]: Vampires et super-héros font parfois d'assez bons philosophes. J'avais prévenu: je ne place pas toujours la barre très haut.
-[^5]: Des phrases niaises, communes, provocatrices ou mal traduites ont été ajoutées. Mon goût en matière de réflexions évolue au fil du temps; comprendre ce qui m'intéressait hier dans une citation que j'estime médiocre aujourd'hui est un exercice que je trouve très instructif.
+[^4]: Vampires et super-héros font parfois d'assez bons philosophes.
+[^5]: Des phrases niaises, communes, provocatrices ou mal traduites ont été incluses. Mon goût en matière de réflexions évolue au fil du temps; comprendre ce qui m'intéressait hier dans une citation que j'estime médiocre aujourd'hui est un exercice que je trouve très instructif.
 
 ## Citations
 
