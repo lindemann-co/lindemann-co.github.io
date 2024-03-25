@@ -1,5 +1,5 @@
 ---
-title: "Quotes"
+title: "Quotes | Home"
 slug: "../quotes/all"
 date: 2022-12-31
 draft: false
