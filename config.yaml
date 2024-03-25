@@ -59,7 +59,7 @@ languages:
           url: /a-propos
           weight: 20
         - name: Citations
-          url: /citations
+          url: /citations/all
           weight: 40
         - name: EN
           url: ../en/about
@@ -85,7 +85,7 @@ languages:
           url: /about
           weight: 20
         - name: Quotes
-          url: /quotes
+          url: /quotes/all
           weight: 40
         - name: FR
           url: ../fr/a-propos

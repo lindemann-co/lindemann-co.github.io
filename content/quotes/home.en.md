@@ -1,7 +1,7 @@
 ---
 title: "Quotes"
-slug: "../quotes"
-date: 2023-08-06T21:59:54+02:00
+slug: "../quotes/all"
+date: 2022-12-31
 draft: false
 toc: false
 images:
@@ -24,6 +24,10 @@ Consequently, the following criteria were **not** taken into account:
 [^3]: If you know the source of a quote, or have evidence that a quote is misattributed, please contact me.
 [^4]: Vampires and superheroes sometimes make pretty good philosophers. You were warned: I usually have pretty low standards.
 [^5]: Silly, common, provocative or mistranslated statements have been added. My taste in reflections evolves over time; I enjoy trying to understand what used to interest me in a text that I now consider mediocre.
+
+## Index
+
+Some quotes with my comments can be found [here](../../tags/quotes/).
 
 ## Citations
 

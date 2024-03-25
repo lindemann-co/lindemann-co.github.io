@@ -1,7 +1,7 @@
 ---
-title: "Citations"
-slug: "../citations"
-date: 2023-08-06T21:59:54+02:00
+title: "Citations | Accueil"
+slug: "../citations/all"
+date: 2022-12-31
 draft: false
 toc: false
 images:
@@ -24,6 +24,10 @@ En conséquence, les critères suivants n'ont **pas** été pris en compte :
 [^3]: Si vous connaissez la source d'une citation, ou avez la preuve qu'une citation est mal attribuée, contactez-moi.
 [^4]: Vampires et super-héros font parfois d'assez bons philosophes.
 [^5]: Des phrases niaises, communes, provocatrices ou mal traduites ont été incluses. Mon goût en matière de réflexions évolue au fil du temps; comprendre ce qui m'intéressait hier dans une citation que j'estime médiocre aujourd'hui est un exercice que je trouve très instructif.
+
+## Index
+
+Retrouvez certaines citations [avec mes commentaires](../../tags/citations/).
 
 ## Citations
 
