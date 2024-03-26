@@ -25,39 +25,51 @@ En conséquence, les critères suivants n'ont **pas** été pris en compte :
 [^4]: Vampires et super-héros font parfois d'assez bons philosophes.
 [^5]: Des phrases niaises, communes, provocatrices ou mal traduites ont été incluses. Mon goût en matière de réflexions évolue au fil du temps; comprendre ce qui m'intéressait hier dans une citation que j'estime médiocre aujourd'hui est un exercice que je trouve très instructif.
 
-# Index
+# Commentaires
 
-Retrouvez certaines citations [avec mes commentaires](../../tags/citations/).
+Certaines citations sont disponibles avec mes commentaires [ici](../../tags/citations/).
 
 # Citations
-
-> _Les gens ont le droit d'aimer les hamburgers sans se faire emmerder pour ça._
->
-> —  Moule à Gaufres, Le Bureau des Légendes, s02e03
-
-> _Quand on écrit une nouvelle, le budget est illimité._
->
-> — Josiane Balasko, [NIFFF](https://www.lqj.ch/articles/nifff-josiane-balasko-est-une-ecrivaine-fantastique-55200)
-
-> _Don't be a victim of life._
->
-> — White Lotus, [s02e07](https://en.wikipedia.org/wiki/Arrivederci_(The_White_Lotus))
-
-> _A bird sitting on a tree is never afraid of the branch breaking, because its trust is not in the branch, but in its own wings._
->
-> — Charlie Wardle, [Understanding & Building Confidence](https://www.goodreads.com/work/quotes/42860141-understanding-building-confidence-climb-your-mountain)
 
 > _No man chooses evil because it is evil; he only mistakes it for happiness, the good he seeks._
 >
 > — Mary Wollstonecraft (Mary Shelley's mother) in [A Vindication of the Rights of Men](https://quoteinvestigator.com/2023/02/09/evil-mistake/)
 
+
+> _Le corps qui s'incline n'est pas une âme qui s'humilie. Au contraire, elle se grandit à s'accommoder aux autres._
+>
+>― Arte, [reportage sur le Ojigi](https://www.arte.tv/en/videos/093473-005-A/gacha-gacha-5-9/)
+
+
+> _Les gens ont le droit d'aimer les hamburgers sans se faire emmerder pour ça._
+>
+> —  Moule à Gaufres, Le Bureau des Légendes, s02e03
+
+
+> _Quand on écrit une nouvelle, le budget est illimité._
+>
+> — Josiane Balasko, [NIFFF](https://www.lqj.ch/articles/nifff-josiane-balasko-est-une-ecrivaine-fantastique-55200)
+
+
+> _Don't be a victim of life._
+>
+> — White Lotus, [s02e07](https://en.wikipedia.org/wiki/Arrivederci_(The_White_Lotus))
+
+
+> _A bird sitting on a tree is never afraid of the branch breaking, because its trust is not in the branch, but in its own wings._
+>
+> — Charlie Wardle, [Understanding & Building Confidence](https://www.goodreads.com/work/quotes/42860141-understanding-building-confidence-climb-your-mountain)
+
+
 > _Penelope (...), whose journey is endurance._
 >
 > — Joseph Campbell, [Pathways to Bliss: Mythology and Personal Transformation](https://www.goodreads.com/book/show/35511.Pathways_to_Bliss)
 
+
 > _Cesser d'attendre passivement que l'on me choisisse m'a fait passer de l'enfance à l'âge adulte._
 >
 > — Agnès Jaoui, [France Culture, À voix nue, épisode 3/5](https://www.radiofrance.fr/franceculture/podcasts/serie-agnes-jaoui-une-enfant-d-immigres)
+
 
 > _Don't judge each day by the harvest you reap but by the seeds that you plant._
 >
@@ -77,11 +89,6 @@ Retrouvez certaines citations [avec mes commentaires](../../tags/citations/).
 > _Pounding from an opponent is not to be dreaded as much as constantly living in fear of another._
 >
 >― Dwight Eisenhower, [At Ease](https://estore.archives.gov/eisenhower/product/at-ease)
-
-
-> _Le corps qui s'incline n'est pas une âme qui s'humilie. Au contraire, elle se grandit à s'accommoder aux autres._
->
->― Arte, [reportage sur le Ojigi](https://www.arte.tv/en/videos/093473-005-A/gacha-gacha-5-9/)
 
 
 > _L'orgueil de ceux qui ne peuvent édifier est de détruire._
