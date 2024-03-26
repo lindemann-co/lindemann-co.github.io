@@ -38,7 +38,7 @@ Certaines citations sont disponibles avec mes commentaires [ici](../../tags/cita
 
 > _Le corps qui s'incline n'est pas une âme qui s'humilie. Au contraire, elle se grandit à s'accommoder aux autres._
 >
->― Arte, [reportage sur le Ojigi](https://www.arte.tv/en/videos/093473-005-A/gacha-gacha-5-9/)
+>― Arte, [reportage sur le Ojigi, l'art de la déférence](https://www.arte.tv/en/videos/093473-005-A/gacha-gacha-5-9/)
 
 
 > _Les gens ont le droit d'aimer les hamburgers sans se faire emmerder pour ça._
