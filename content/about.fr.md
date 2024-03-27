@@ -35,5 +35,5 @@ Si vous souhaitez prendre contact, vous pouvez le faire via [LinkedIn](../cv) ou
 
 ## Pourquoi
 > Il serait malhonnête de notre part de dissimuler le fait que la principale motivation à l'origine du travail en était le simple plaisir.
-
-― Alan Turing
+>
+> Alan Turing

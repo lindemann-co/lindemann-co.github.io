@@ -38,5 +38,5 @@ I’ll also be happy to talk with you about your projects, especially if they in
 ## Why
 
 > It would be disingenuous of us to disguise the fact that the principal motive which prompted the work was the sheer fun of the thing.
-
-― Alan Turing
+>
+> Alan Turing
