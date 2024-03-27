@@ -31,6 +31,12 @@ Certaines citations sont disponibles avec mes commentaires [ici](../../tags/cita
 
 # Citations
 
+## Perspectives
+> II y a une très bonne manière d'accroître notre malheur, c'est de se tromper de problème à traiter.
+>
+> Jean-Marc Jancovici
+
+
 > No man chooses evil because it is evil; he only mistakes it for happiness, the good he seeks.
 >
 > Mary Wollstonecraft (Mary Shelley's mother) in [A Vindication of the Rights of Men](https://quoteinvestigator.com/2023/02/09/evil-mistake/)
@@ -41,14 +47,39 @@ Certaines citations sont disponibles avec mes commentaires [ici](../../tags/cita
 >Arte, [reportage sur le Ojigi, l'art de la déférence](https://www.arte.tv/en/videos/093473-005-A/gacha-gacha-5-9/)
 
 
-> Les gens ont le droit d'aimer les hamburgers sans se faire emmerder pour ça.
+> Penelope (...), whose journey is endurance.
 >
->  Moule à Gaufres, Le Bureau des Légendes, s02e03
+> Joseph Campbell, [Pathways to Bliss: Mythology and Personal Transformation](https://www.goodreads.com/book/show/35511.Pathways_to_Bliss)
 
 
-> Quand on écrit une nouvelle, le budget est illimité.
+> Commitment is doing the thing you said you were going to do long after the mood you said it in has left you.
 >
-> Josiane Balasko, [NIFFF](https://www.lqj.ch/articles/nifff-josiane-balasko-est-une-ecrivaine-fantastique-55200)
+>Darren Hardy 
+
+
+> Don't judge each day by the harvest you reap but by the seeds that you plant.
+>
+>Robert Louis Stevenson
+
+
+> Twenty years from now you will be more disappointed by the things you didn't do than by the ones you did do. So throw off the bowlines. Sail away from the safe harbor. Catch the trade winds in your sails. Explore. Dream. Discover.
+>
+>Mark Twain
+
+
+> What drives my big decisions is regret minimization. When I’m 80 and reflecting back, I want to have minimized the number of regrets that I have in my life. And most of our regrets are acts of omission — the things we didn’t try, the paths untraveled. Those are the things that haunt us.
+>
+> Jeff Bezos
+
+
+> Pressure is a privilege - it only comes to those who earn it.
+>
+> Billie Jean King
+
+
+> At one point in your life you have the thing you want or the reasons why you don't.
+>
+>Andy Roddick
 
 
 > Don't be a victim of life.
@@ -61,19 +92,63 @@ Certaines citations sont disponibles avec mes commentaires [ici](../../tags/cita
 > Charlie Wardle, [Understanding & Building Confidence](https://www.goodreads.com/work/quotes/42860141-understanding-building-confidence-climb-your-mountain)
 
 
-> Penelope (...), whose journey is endurance.
+## Créativité
+
+> C'est quand tu n'as pas peur que tu peux faire des choses.
 >
-> Joseph Campbell, [Pathways to Bliss: Mythology and Personal Transformation](https://www.goodreads.com/book/show/35511.Pathways_to_Bliss)
+>Elsa Zilberstein
+
+
+> J'ai une poubelle immense.
+>
+>Karl Lagerfeld, qui jette 99% de ses travaux
+
+
+> Things which are different in order to be simply different are seldom better, but that which is made to be better is almost always different.
+>
+>Dieter Rams
+
+
+> He that has built for use till use is supplied must begin to build for vanity.
+>
+>Samuel Johnson, un Rasselas
+
+
+> Improviser est une maîtrise avant d'être une liberté.
+>
+> Augustin Trappenard (interview de Bill Murray)
+
+
+> Quand on écrit une nouvelle, le budget est illimité.
+>
+> Josiane Balasko, [NIFFF](https://www.lqj.ch/articles/nifff-josiane-balasko-est-une-ecrivaine-fantastique-55200)
+
+
+> L'automatisme dévore les choses, les vêtements, les meubles, la femme avec qui l'on vit et la crainte de la guerre. [...] Et c'est justement pour rendre la sensation de la vie, pour sentir les objets, pour que la pierre soit de pierre, qu'existe ce qu'on appelle l'art. L'art est fait pour donner la sensation de la chose en tant que chose perçue et non en tant que chose reconnue.
+>
+>Victor Chklovski (sur la représentation insolite)
+
+
+## Insolite
+
+> Les gens ont le droit d'aimer les hamburgers sans se faire emmerder pour ça.
+>
+>  Moule à Gaufres, Le Bureau des Légendes, s02e03
+
+
+> Le crétin se reconnaît à son goût pour les exactitudes inutiles.
+>
+> Claude Viller
+
+
+> Franchement, qui peut affirmer qu'il comprend toutes les paroles d'une chanson d'Alain Bashung ?
+>
+>Patrick Boucheron, professeur au collège de France, chaire « Histoire des pouvoirs en Europe occidentale, XIIIe–XVIe siècles » (source: [Les Nuits de France Culture](https://www.radiofrance.fr/franceculture/podcasts/les-cours-du-college-de-france/les-cours-du-college-de-france-emission-du-vendredi-17-septembre-2021-4999895))
 
 
 > Cesser d'attendre passivement que l'on me choisisse m'a fait passer de l'enfance à l'âge adulte.
 >
 > Agnès Jaoui, [France Culture, À voix nue, épisode 3/5](https://www.radiofrance.fr/franceculture/podcasts/serie-agnes-jaoui-une-enfant-d-immigres)
-
-
-> Don't judge each day by the harvest you reap but by the seeds that you plant.
->
->Robert Louis Stevenson
 
 
 > Never negotiate with an adversary, except from a position of strength.
@@ -96,19 +171,9 @@ Certaines citations sont disponibles avec mes commentaires [ici](../../tags/cita
 >Alexandre Dumas, [Les Mille et Un Fantômes](https://fr.wikipedia.org/wiki/Les_Mille_et_Un_Fant%C3%B4mes)
 
 
-> II y a une très bonne manière d'accroître notre malheur, c'est de se tromper de problème à traiter.
->
->Jean-Marc Jancovici
-
-
 > Without a good question, a good answer has no place to go.
 >
 >Clayton Christensen
-
-
-> L'automatisme dévore les choses, les vêtements, les meubles, la femme avec qui l'on vit et la crainte de la guerre. [...] Et c'est justement pour rendre la sensation de la vie, pour sentir les objets, pour que la pierre soit de pierre, qu'existe ce qu'on appelle l'art. L'art est fait pour donner la sensation de la chose en tant que chose perçue et non en tant que chose reconnue.
->
->Victor Chklovski (sur la représentation insolite)
 
 
 > Action is better than inaction.
@@ -119,21 +184,6 @@ Certaines citations sont disponibles avec mes commentaires [ici](../../tags/cita
 > Training is like fighting with a gorilla. You don’t stop when you’re tired. You stop when the gorilla is tired.
 >
 >Greg Henderson
-
-
-> Commitment is doing the thing you said you were going to do long after the mood you said it in has left you.
->
->Darren Hardy 
-
-
-> C'est quand tu n'as pas peur que tu peux faire des choses.
->
->Elsa Zilberstein
-
-
-> J'ai une poubelle immense.
->
->Karl Lagerfeld, qui jette 99% de ses travaux
 
 
 > The power of instruction is seldom of much efficacy except in those happy dispositions where it is almost superfluous.
@@ -150,15 +200,6 @@ Certaines citations sont disponibles avec mes commentaires [ici](../../tags/cita
 >
 >Albert Dupontel
 
-
-> Le crétin se reconnaît à son goût pour les exactitudes inutiles.
->
->Claude Viller
-
-
-> Franchement, qui peut affirmer qu'il comprend toutes les paroles d'une chanson d'Alain Bashung ?
->
->Patrick Boucheron, professeur au collège de France, chaire « Histoire des pouvoirs en Europe occidentale, XIIIe–XVIe siècles » (source: [Les Nuits de France Culture](https://www.radiofrance.fr/franceculture/podcasts/les-cours-du-college-de-france/les-cours-du-college-de-france-emission-du-vendredi-17-septembre-2021-4999895))
 
 > Dieu se rit des créatures qui déplorent les effets dont elles chérissent les causes.
 >
@@ -190,16 +231,6 @@ Certaines citations sont disponibles avec mes commentaires [ici](../../tags/cita
 >Bjarne Stroustrup, designer of C++
 
 
-> Things which are different in order to be simply different are seldom better, but that which is made to be better is almost always different.
->
->Dieter Rams
-
-
-> He that has built for use till use is supplied must begin to build for vanity.
->
->Samuel Johnson, un Rasselas
-
-
 > Assumption is the mother of all screw ups.
 >
 >Eugene Lewis Fordsworthe
@@ -217,27 +248,12 @@ Certaines citations sont disponibles avec mes commentaires [ici](../../tags/cita
 
 > If you need a machine and you don't buy it, then you will ultimately find that you have paid for it and don't have it.
 >
->Henry Ford
-
-
-> Pressure is a privilege - it only comes to those who earn it.
->
->Billie Jean King
-
-
-> At one point in your life you have the thing you want or the reasons why you don't.
->
->Andy Roddick
+> Henry Ford
 
 
 > Your career ultimately succeeds or fails on the strength of your network.
 >
->Camille Fournier
-
-
-> Improviser est une maîtrise avant d'être une liberté.
->
->Augustin Trappenard (interview de Bill Murray)
+> Camille Fournier
 
 
 > J'aime juste le football et, dans un club comme ici, il ne s'agit pas toujours de football.
@@ -247,17 +263,8 @@ Certaines citations sont disponibles avec mes commentaires [ici](../../tags/cita
 
 > Very few of us are what we seem.
 >
->Agatha Christie
+> Agatha Christie
 
-
-> Twenty years from now you will be more disappointed by the things you didn't do than by the ones you did do. So throw off the bowlines. Sail away from the safe harbor. Catch the trade winds in your sails. Explore. Dream. Discover.
->
->Mark Twain
-
-
-> What drives my big decisions is regret minimization. When I’m 80 and reflecting back, I want to have minimized the number of regrets that I have in my life. And most of our regrets are acts of omission — the things we didn’t try, the paths untraveled. Those are the things that haunt us.
->
-> Jeff Bezos
 
 > Ne vous souciez pas du génie, contentez-vous d'aligner les mots ensemble. Le génie vient naturellement.
 >
