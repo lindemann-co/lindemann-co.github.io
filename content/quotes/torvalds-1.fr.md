@@ -10,8 +10,8 @@ tags:
 ---
 
 > On the Internet, nobody can hear you being subtle.
-
-― Linus Torvalds
+> 
+> Linus Torvalds
 
 Après quelques années passées à travailler sur un moteur de recherche, je ne peux malheureusement qu'être d'accord avec Linus.
 

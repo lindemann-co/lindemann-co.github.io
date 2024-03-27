@@ -10,5 +10,5 @@ tags:
 ---
 
 > Quand on écrit une nouvelle, le budget est illimité.
-
-— Josiane Balasko, [NIFFF](https://www.lqj.ch/articles/nifff-josiane-balasko-est-une-ecrivaine-fantastique-55200)
+>
+> Josiane Balasko, [NIFFF](https://www.lqj.ch/articles/nifff-josiane-balasko-est-une-ecrivaine-fantastique-55200)
