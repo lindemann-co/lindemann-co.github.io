@@ -126,11 +126,6 @@ Certaines citations sont disponibles avec mes commentaires [ici](../../tags/cita
 >Darren Hardy 
 
 
-> Il faut toujours dire ce que l'on voit : surtout il faut toujours, ce qui est plus difficile, voir ce que l'on voit.
->
->Charles Peggy
-
-
 > C'est quand tu n'as pas peur que tu peux faire des choses.
 >
 >Elsa Zilberstein
@@ -329,12 +324,12 @@ Certaines citations sont disponibles avec mes commentaires [ici](../../tags/cita
 >Paul Graham (http://www.paulgraham.com/work.html)
 
 
-> Mozart, who was buried in a pauper’s grave, was one of the greatest successes we know of, a man who in his early thirties had poured out his inexhaustible gift of music, leaving the world richer because he had passed that way. To leave the world richer—that is the ultimate success..
+> Mozart, who was buried in a pauper’s grave, was one of the greatest successes we know of, a man who in his early thirties had poured out his inexhaustible gift of music, leaving the world richer because he had passed that way. To leave the world richer—that is the ultimate success.
 >
 >Eleanor Roosevelt, You Learn by Living: Eleven Keys for a More Fulfilling Life
 
 
-> You are the average of the five people you spend the most time with..
+> You are the average of the five people you spend the most time with.
 >
 >Jim Rohn
 
@@ -347,6 +342,11 @@ Certaines citations sont disponibles avec mes commentaires [ici](../../tags/cita
 > La curiosité est un vice qui a été stigmatisé tour à tour par le christianisme, par la philosophie et même par une certaine conception de la science. Curiosité, futilité. Le mot, pourtant me plait ; il évoque le souci; il évoque le soin qu'on prend de ce qui existe et pourrait exister ; un sens aiguisé du réel mais qui ne s'immobilise jamais devant lui ; une promptitude à trouver étrange et singulier ce qui nous entoure ; un certain acharnement à nous défaire de nos familiarités et à regarder autrement les mêmes choses ; une ardeur à saisir ce qui se passe ; une désinvolture à l'égard des hiérarchies traditionnelles entre l'important et l'essentiel. Je rêve d'un âge nouveau de la curiosité.
 >
 >Michel Foucault
+
+
+> Il faut toujours dire ce que l'on voit : surtout il faut toujours, ce qui est plus difficile, voir ce que l'on voit.
+>
+>Charles Peggy
 
 
 > Aussi loin que la science recule ses frontières, et sur tout l'arc étendu de ces frontières, on entendra courir encore la meute chasseresse du poète.
@@ -369,27 +369,24 @@ Certaines citations sont disponibles avec mes commentaires [ici](../../tags/cita
 >Albert Einstein
 
 
-> If we knew what it was we were doing, it would not be called research, would it?.
+> If we knew what it was we were doing, it would not be called research, would it?
 >
 >Albert Einstein
 
 
-> Any fool can know. The point is to understand..
+> Any fool can know. The point is to understand.
 >
 >Albert Einstein
 
 
-> Common sense is what tells us the earth is flat..
+> Common sense is what tells us the earth is flat.
 >
 >Albert Einstein
 
-> In theory, theory and practice are the same. In practice, they are not..
+> In theory, theory and practice are the same. In practice, they are not.
 >
 >Albert Einstein
 
-> Je n'aime pas que l'on me prive d'un bon mot.
->
-> Albert Einstein
 
 > Je le maîtrise suffisamment pour me mettre dans le pétrin mais pas assez pour en sortir.
 >

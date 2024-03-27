@@ -329,12 +329,12 @@ Some quotes with my comments can be found [here](../../tags/quotes/).
 >Paul Graham (http://www.paulgraham.com/work.html)
 
 
-> Mozart, who was buried in a pauper’s grave, was one of the greatest successes we know of, a man who in his early thirties had poured out his inexhaustible gift of music, leaving the world richer because he had passed that way. To leave the world richer—that is the ultimate success..
+> Mozart, who was buried in a pauper’s grave, was one of the greatest successes we know of, a man who in his early thirties had poured out his inexhaustible gift of music, leaving the world richer because he had passed that way. To leave the world richer—that is the ultimate success.
 >
 >Eleanor Roosevelt, You Learn by Living: Eleven Keys for a More Fulfilling Life
 
 
-> You are the average of the five people you spend the most time with..
+> You are the average of the five people you spend the most time with.
 >
 >Jim Rohn
 
@@ -374,22 +374,19 @@ Some quotes with my comments can be found [here](../../tags/quotes/).
 >Albert Einstein
 
 
-> Any fool can know. The point is to understand..
+> Any fool can know. The point is to understand.
 >
 >Albert Einstein
 
 
-> Common sense is what tells us the earth is flat..
+> Common sense is what tells us the earth is flat.
 >
 >Albert Einstein
 
-> In theory, theory and practice are the same. In practice, they are not..
+> In theory, theory and practice are the same. In practice, they are not.
 >
 >Albert Einstein
 
-> Je n'aime pas que l'on me prive d'un bon mot.
->
-> Albert Einstein
 
 > Je le maîtrise suffisamment pour me mettre dans le pétrin mais pas assez pour en sortir.
 >
