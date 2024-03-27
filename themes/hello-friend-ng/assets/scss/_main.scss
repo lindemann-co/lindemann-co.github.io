@@ -284,31 +284,43 @@ pre {
 }
 
 blockquote {
-  border-left: 3px solid #3eb0ef;
-  margin: 40px;
+  margin: 40px 0px;
   padding: 10px 20px;
+  [data-theme=dark] & {
+    border-left: 3px solid #666;
+    background-color: #333;
+  }
+  [data-theme=light] & {
+    border-left: 3px solid #ddd;
+    background-color: #eee;
+  }
 
   @media #{$media-size-phone} {
     margin: 10px;
     padding: 10px;
   }
 
-  &:before {
-    content: "”";
-    font-family: Georgia, serif;
-    font-display: auto;
-    font-size: 3.875rem;
-    position: absolute;
-    left: -40px;
-    top: -20px;
-  }
-
   p:first-of-type {
     margin-top: 0;
+    font-style: italic;
+    font-weight: bold;
+  }
+
+  p:first-of-type:before {
+    content: "“";
+  }
+
+  p:first-of-type:after {
+    content: "”";
   }
 
   p:last-of-type {
     margin-bottom: 0;
+    font-size: smaller;
+  }
+
+  p:last-of-type:before {
+    content: "― ";
   }
 }
 
