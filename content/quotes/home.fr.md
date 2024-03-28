@@ -218,6 +218,78 @@ Certaines citations sont disponibles avec mes commentaires [ici](../../tags/cita
 > Charlie Wardle, [Understanding & Building Confidence](https://www.goodreads.com/work/quotes/42860141-understanding-building-confidence-climb-your-mountain)
 
 
+## Entreprendre
+
+> Training is like fighting with a gorilla. You don’t stop when you’re tired. You stop when the gorilla is tired.
+>
+> Greg Henderson
+
+
+> Your career ultimately succeeds or fails on the strength of your network.
+>
+> Camille Fournier
+
+
+> You are the average of the five people you spend the most time with.
+>
+> Jim Rohn
+
+
+> Nous vivons dans une société d'employés de bureau résignés.
+>
+> Joël Dicker, in La vérité sur l'affaire Harry Quebert
+
+
+> If something that seems like work to other people doesn't seem like work to you, that's something you're well suited for.
+>
+> Paul Graham (http://www.paulgraham.com/work.html)
+
+
+> You gain strength, courage, and confidence by every experience in which you really stop to look fear in the face… You must do the thing you think you cannot do.
+>
+> Eleanor Roosevelt
+
+
+> Mozart, who was buried in a pauper’s grave, was one of the greatest successes we know of, a man who in his early thirties had poured out his inexhaustible gift of music, leaving the world richer because he had passed that way. To leave the world richer—that is the ultimate success.
+>
+> Eleanor Roosevelt, You Learn by Living: Eleven Keys for a More Fulfilling Life
+
+
+> There's a tremendous bias against taking risks. Everyone is trying to optimize their ass-covering.
+>
+> Elon Musk
+
+
+> Je ne recherche pas à retrouver le niveau que j'avais avant. Le tennis, c'est un sport difficile dans le sens où il ne faut jamais se baser sur les moments où on a bien joué. Le plus important, c'est ce qu'on fait quand on ne joue pas bien ou qu'on ne se sent pas bien. La majorité des matches, on ne se sent pas très bien. Si on se base sur son meilleur niveau, ou sur les sensations d'une bonne semaine, on ne sera jamais satisfait et on perdra beaucoup de matches qu'on aurait dû gagner. Je me concentre sur le présent, tout simplement.
+>
+> Stan Wawrinka (source: [L'Équipe](https://www.lequipe.fr/Tennis/Actualites/Wawrinka-apres-sa-victoire-a-indian-wells-face-a-rune-j-ai-toujours-voulu-repousser-mes-limites/1385752))
+
+
+> Agir pour comprendre et comprendre pour agir.
+>
+> Jean-Louis Le Moigne
+
+
+> Pour atteindre un point que tu ne connais pas, tu dois emprunter un chemin que tu ne connais pas.
+>
+> San Juan de la Cruz
+
+
+> Faites ce que vous voulez, mais faites le bien.
+>
+> Bertrand Schwartz
+
+
+> Les entrepreneurs ne prédisent pas. Ils transforment leur environnement.
+>
+> Philippe Silberzahn
+
+
+> One can, for example, hire mere technical ability in engineering, accountancy, architecture or any other profession at nominal salaries. But the person who has technical knowledge plus the ability to express ideas, assume leadership, and to arouse enthusiasm among people that person is headed for higher earning power.
+>
+> Dale Carnegie
+
+
 ## Persister
 
 > Penelope (...), whose journey is endurance.
@@ -228,6 +300,11 @@ Certaines citations sont disponibles avec mes commentaires [ici](../../tags/cita
 > Commitment is doing the thing you said you were going to do long after the mood you said it in has left you.
 >
 > Darren Hardy
+
+
+> We are stubborn on vision. We are flexible on details.
+>
+> Jeff Bezos
 
 
 > Patience is not the ability to wait - it's the ability to keep a good attitude while waiting.
@@ -279,7 +356,7 @@ Certaines citations sont disponibles avec mes commentaires [ici](../../tags/cita
 
 > Aussi loin que la science recule ses frontières, et sur tout l'arc étendu de ces frontières, on entendra courir encore la meute chasseresse du poète.
 >
-> Saint-John Perse (discours de réception du prix Nobel)
+> Saint-John Perse, [discours de réception du prix Nobel](https://www.nobelprize.org/prizes/literature/1960/perse/25384-banquet-speech-french/)
 
 
 > The intuitive mind is a sacred gift and the rational mind is a faithful servant. We have created a society that honours the servant and has forgotten the gift.
@@ -340,48 +417,6 @@ Certaines citations sont disponibles avec mes commentaires [ici](../../tags/cita
 > Besides the noble art of getting things done, there is the noble art of leaving things undone. The wisdom of life consists in the elimination of non-essentials.
 >
 > Lin Yutang
-
-
-## Communiquer
-
-> The single biggest problem with communication is the illusion that it has taken place.
->
-> Georges Bernard Shaw
-
-
-> Never negotiate with an adversary, except from a position of strength.
->
-> Dwight Eisenhower, [At Ease](https://estore.archives.gov/eisenhower/product/at-ease)
-
-
-> Domination of others in this world often comes through bluff.
->
-> Dwight Eisenhower, [At Ease](https://estore.archives.gov/eisenhower/product/at-ease)
-
-
-> Pounding from an opponent is not to be dreaded as much as constantly living in fear of another.
->
-> Dwight Eisenhower, [At Ease](https://estore.archives.gov/eisenhower/product/at-ease)
-
-
-> Speak when you are angry and you will make the best speech you will ever regret.
->
-> Ambrose Bierce
-
-
-> The history of failure in war can almost be summed up in two words: Too late.
->
-> General MacArthur
-
-
-> Le vice fomente la guerre ; la vertu combat : s’il n’y avait aucune vertu, nous aurions pour toujours la paix.
->
-> Vauvenargues
-
-
-> There is one rule, above all others, for being a man. Whatever comes, face it on your feet.
->
-> Lan, [The Great Hunt](https://en.wikipedia.org/wiki/The_Great_Hunt)
 
 
 ## Inventer
@@ -446,81 +481,53 @@ Certaines citations sont disponibles avec mes commentaires [ici](../../tags/cita
 > Dive into Python
 
 
-## Entreprendre
+## Communiquer
 
-> Training is like fighting with a gorilla. You don’t stop when you’re tired. You stop when the gorilla is tired.
+> The single biggest problem with communication is the illusion that it has taken place.
 >
-> Greg Henderson
+> Georges Bernard Shaw
 
 
-> Your career ultimately succeeds or fails on the strength of your network.
+> That seems to point up a significant difference between Europeans and Americans. A European says: I can't understand this, what's wrong with me? An American says: I can't understand this, what's wrong with him?
 >
-> Camille Fournier
+> Terry Pratchett, alt.fan.pratchett
 
 
-> You are the average of the five people you spend the most time with.
+## Affronter
+
+> Never negotiate with an adversary, except from a position of strength.
 >
-> Jim Rohn
+> Dwight Eisenhower, [At Ease](https://estore.archives.gov/eisenhower/product/at-ease)
 
 
-> Nous vivons dans une société d'employés de bureau résignés.
+> Domination of others in this world often comes through bluff.
 >
-> Joël Dicker, in La vérité sur l'affaire Harry Quebert
+> Dwight Eisenhower, [At Ease](https://estore.archives.gov/eisenhower/product/at-ease)
 
 
-> If something that seems like work to other people doesn't seem like work to you, that's something you're well suited for.
+> Pounding from an opponent is not to be dreaded as much as constantly living in fear of another.
 >
-> Paul Graham (http://www.paulgraham.com/work.html)
+> Dwight Eisenhower, [At Ease](https://estore.archives.gov/eisenhower/product/at-ease)
 
 
-> You gain strength, courage, and confidence by every experience in which you really stop to look fear in the face… You must do the thing you think you cannot do.
+> Speak when you are angry and you will make the best speech you will ever regret.
 >
-> Eleanor Roosevelt
+> Ambrose Bierce
 
 
-> Mozart, who was buried in a pauper’s grave, was one of the greatest successes we know of, a man who in his early thirties had poured out his inexhaustible gift of music, leaving the world richer because he had passed that way. To leave the world richer—that is the ultimate success.
+> The history of failure in war can almost be summed up in two words: Too late.
 >
-> Eleanor Roosevelt, You Learn by Living: Eleven Keys for a More Fulfilling Life
+> General MacArthur
 
 
-> There's a tremendous bias against taking risks. Everyone is trying to optimize their ass-covering.
+> Le vice fomente la guerre ; la vertu combat : s’il n’y avait aucune vertu, nous aurions pour toujours la paix.
 >
-> Elon Musk
+> Vauvenargues
 
 
-> We are stubborn on vision. We are flexible on details.
+> There is one rule, above all others, for being a man. Whatever comes, face it on your feet.
 >
-> Jeff Bezos
-
-
-> Je ne recherche pas à retrouver le niveau que j'avais avant. Le tennis, c'est un sport difficile dans le sens où il ne faut jamais se baser sur les moments où on a bien joué. Le plus important, c'est ce qu'on fait quand on ne joue pas bien ou qu'on ne se sent pas bien. La majorité des matches, on ne se sent pas très bien. Si on se base sur son meilleur niveau, ou sur les sensations d'une bonne semaine, on ne sera jamais satisfait et on perdra beaucoup de matches qu'on aurait dû gagner. Je me concentre sur le présent, tout simplement.
->
-> Stan Wawrinka (source: [L'Équipe](https://www.lequipe.fr/Tennis/Actualites/Wawrinka-apres-sa-victoire-a-indian-wells-face-a-rune-j-ai-toujours-voulu-repousser-mes-limites/1385752))
-
-
-> Agir pour comprendre et comprendre pour agir.
->
-> Jean-Louis Le Moigne
-
-
-> Pour atteindre un point que tu ne connais pas, tu dois emprunter un chemin que tu ne connais pas.
->
-> San Juan de la Cruz
-
-
-> Faites ce que vous voulez, mais faites le bien.
->
-> Bertrand Schwartz
-
-
-> Les entrepreneurs ne prédisent pas. Ils transforment leur environnement.
->
-> Philippe Silberzahn
-
-
-> One can, for example, hire mere technical ability in engineering, accountancy, architecture or any other profession at nominal salaries. But the person who has technical knowledge plus the ability to express ideas, assume leadership, and to arouse enthusiasm among people that person is headed for higher earning power.
->
-> Dale Carnegie
+> Lan, [The Great Hunt](https://en.wikipedia.org/wiki/The_Great_Hunt)
 
 
 ## Apprécier
@@ -565,11 +572,6 @@ Certaines citations sont disponibles avec mes commentaires [ici](../../tags/cita
 > Franchement, qui peut affirmer qu'il comprend toutes les paroles d'une chanson d'Alain Bashung ?
 >
 > Patrick Boucheron, professeur au collège de France, chaire « Histoire des pouvoirs en Europe occidentale, XIIIe–XVIe siècles » (source: [Les Nuits de France Culture](https://www.radiofrance.fr/franceculture/podcasts/les-cours-du-college-de-france/les-cours-du-college-de-france-emission-du-vendredi-17-septembre-2021-4999895))
-
-
-> That seems to point up a significant difference between Europeans and Americans. A European says: I can't understand this, what's wrong with me? An American says: I can't understand this, what's wrong with him?
->
-> Terry Pratchett, alt.fan.pratchett
 
 
 > J'aime juste le football et, dans un club comme ici, il ne s'agit pas toujours de football.
