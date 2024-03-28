@@ -604,7 +604,7 @@ Some quotes with my comments can be found [here](../../tags/quotes/).
 > Petro Gustavo, Mayor of Bogota
 
 
-> Quand les gens sont de mon avis, j'ai l'impression de m'être trompé.
+> Whenever people agree with me I always feel I must be wrong.
 >
 > Oscar Wilde
 
