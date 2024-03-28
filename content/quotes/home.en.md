@@ -609,7 +609,7 @@ Some quotes with my comments can be found [here](../../tags/quotes/).
 > Oscar Wilde
 
 
-> Humour is when you laugh anyway.
+> Humor is when you laugh anyway.
 >
 > Otto Julius Bierbaum
 
