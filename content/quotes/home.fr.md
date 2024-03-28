@@ -27,11 +27,11 @@ En conséquence, les critères suivants n'ont **pas** été pris en compte :
 [^4]: Vampires et super-héros font parfois d'assez bons philosophes.
 [^5]: Des phrases niaises, communes, provocatrices ou mal traduites ont été incluses. Mon goût en matière de réflexions évolue au fil du temps; comprendre ce qui m'intéressait hier dans une citation que j'estime médiocre aujourd'hui est un exercice que je trouve très instructif.
 
-# Commentaires
+# Citations
+
+Les citations sont classées par thème approximatif.
 
 Certaines citations sont disponibles avec mes commentaires [ici](../../tags/citations/).
-
-# Citations
 
 ## Clarifier
 > II y a une très bonne manière d'accroître notre malheur, c'est de se tromper de problème à traiter.
