@@ -82,9 +82,24 @@ Certaines citations sont disponibles avec mes commentaires [ici](../../tags/cita
 >Andy Roddick
 
 
+> Dieu se rit des créatures qui déplorent les effets dont elles chérissent les causes.
+>
+> Bossuet
+
+
 > Don't be a victim of life.
 >
 > White Lotus, [s02e07](https://en.wikipedia.org/wiki/Arrivederci_(The_White_Lotus))
+
+
+> Fear has no rival.
+>
+> Senator Sherrod Brown, Ohio.
+
+
+> Rien n'est normal la première fois.
+>
+> King Rodhar, La Belgariade
 
 
 > Cesser d'attendre passivement que l'on me choisisse m'a fait passer de l'enfance à l'âge adulte.
@@ -95,6 +110,16 @@ Certaines citations sont disponibles avec mes commentaires [ici](../../tags/cita
 > A bird sitting on a tree is never afraid of the branch breaking, because its trust is not in the branch, but in its own wings.
 >
 > Charlie Wardle, [Understanding & Building Confidence](https://www.goodreads.com/work/quotes/42860141-understanding-building-confidence-climb-your-mountain)
+
+
+> Take the first step in faith. You don't have to see the whole staircase, just take the first step.
+>
+> Martin Luther King Jr.
+
+
+> Good things happen when you throw pucks at the net.
+>
+> Jussi Jokinen (joueur de NHL)
 
 
 ## Créativité
@@ -122,6 +147,16 @@ Certaines citations sont disponibles avec mes commentaires [ici](../../tags/cita
 > L'orgueil de ceux qui ne peuvent édifier est de détruire.
 >
 > Alexandre Dumas, [Les Mille et Un Fantômes](https://fr.wikipedia.org/wiki/Les_Mille_et_Un_Fant%C3%B4mes)
+
+
+> Aussi loin que la science recule ses frontières, et sur tout l'arc étendu de ces frontières, on entendra courir encore la meute chasseresse du poète.
+>
+> Saint-John Perse (discours de réception du prix Nobel)
+
+
+> The intuitive mind is a sacred gift and the rational mind is a faithful servant. We have created a society that honours the servant and has forgotten the gift.
+>
+> Albert Einstein
 
 
 > Improviser est une maîtrise avant d'être une liberté.
@@ -154,9 +189,172 @@ Certaines citations sont disponibles avec mes commentaires [ici](../../tags/cita
 > Josiane Balasko, [NIFFF](https://www.lqj.ch/articles/nifff-josiane-balasko-est-une-ecrivaine-fantastique-55200)
 
 
+> N’oubliez pas que le public ne vient pas vous voir jouer, il vient pour jouer avec vous.
+>
+> Michel Bouquet, aux élèves de son conservatoire
+
+
 > L'automatisme dévore les choses, les vêtements, les meubles, la femme avec qui l'on vit et la crainte de la guerre. [...] Et c'est justement pour rendre la sensation de la vie, pour sentir les objets, pour que la pierre soit de pierre, qu'existe ce qu'on appelle l'art. L'art est fait pour donner la sensation de la chose en tant que chose perçue et non en tant que chose reconnue.
 >
 > Victor Chklovski (sur la représentation insolite)
+
+
+> It's not the critic who counts, nor the man who points out how the strong man stumbles, or where the doer of the deeds could have done better. The credit belongs to the man who is actually in the arena; whose face is marred by dust and sweat and blood; who strives valiantly; who errors and comes short again and again; who knows the great enthusiasm, the great devotions and spends himself in a worthy cause; who at least knows in the end the triumph of his achievement, and who at worst, if he fails, at least fails while doing greatly, so that his place shall never be with those cold and timid souls who know neither victory or defeat.
+>
+> Theodore Roosevelt
+
+
+## Pensée
+
+> Without a good question, a good answer has no place to go.
+>
+> Clayton Christensen
+
+
+> The power of instruction is seldom of much efficacy except in those happy dispositions where it is almost superfluous.
+>
+> Gibbon
+
+
+> Assumption is the mother of all screw ups.
+>
+> Eugene Lewis Fordsworthe
+
+
+> I am in a bit of a paradox, for I have assumed that there is no good in assuming.
+>
+> Eugene Lewis Fordsworthe
+
+
+> Action is better than inaction.
+>
+> Chris Guillebeau
+
+
+> It's easy to use doubt as a crutch (not to act).
+>
+> Moiraine, The Wheel of Time
+
+
+> Thank your moral opponents. Line-crossers need lines to cross.
+>
+> The New York Times
+
+
+> May we arise from the ashes of these unpredicted disasters beaten but not bowed, a little more modest about our forecasting abilities, and a little less likely to repeat our mistakes.
+>
+> Nate Silver
+
+
+> La curiosité est un vice qui a été stigmatisé tour à tour par le christianisme, par la philosophie et même par une certaine conception de la science. Curiosité, futilité. Le mot, pourtant me plait ; il évoque le souci; il évoque le soin qu'on prend de ce qui existe et pourrait exister ; un sens aiguisé du réel mais qui ne s'immobilise jamais devant lui ; une promptitude à trouver étrange et singulier ce qui nous entoure ; un certain acharnement à nous défaire de nos familiarités et à regarder autrement les mêmes choses ; une ardeur à saisir ce qui se passe ; une désinvolture à l'égard des hiérarchies traditionnelles entre l'important et l'essentiel. Je rêve d'un âge nouveau de la curiosité.
+>
+> Michel Foucault
+
+
+> Il faut toujours dire ce que l'on voit : surtout il faut toujours, ce qui est plus difficile, voir ce que l'on voit.
+>
+> Charles Peggy
+
+
+## Conflits
+
+> The single biggest problem with communication is the illusion that it has taken place.
+>
+> Georges Bernard Shaw
+
+
+> Never negotiate with an adversary, except from a position of strength.
+>
+> Dwight Eisenhower, [At Ease](https://estore.archives.gov/eisenhower/product/at-ease)
+
+
+> Domination of others in this world often comes through bluff.
+>
+> Dwight Eisenhower, [At Ease](https://estore.archives.gov/eisenhower/product/at-ease)
+
+
+> Pounding from an opponent is not to be dreaded as much as constantly living in fear of another.
+>
+> Dwight Eisenhower, [At Ease](https://estore.archives.gov/eisenhower/product/at-ease)
+
+
+> Speak when you are angry and you will make the best speech you will ever regret.
+>
+> Ambrose Bierce
+
+
+## Technologie
+
+> Computer science is as much about computers as astronomy is about telescopes.
+>
+> Dijkstra
+
+
+> In data structures, as with most subjects, it is more important to really understand the basic material than have exposure to more advanced concepts.
+>
+>S. S. Skiena
+
+
+> There are two kinds of programming languages: the ones everybody complains about, and the ones nobody uses.
+>
+> Bjarne Stroustrup, designer of C++
+
+
+> If you need a machine and you don't buy it, then you will ultimately find that you have paid for it and don't have it.
+>
+> Henry Ford
+
+
+> Our goal, our objective, is to create and prevent technological surprise.
+>
+> John Everett, deputy director of DARPA's Information Innovation Office
+
+
+> All science stopped during the war except the little bit that was done at Los Alamos. And that was not much science; it was mostly engineering.
+>
+> Richard Feynman
+
+
+## Travail
+
+> Training is like fighting with a gorilla. You don’t stop when you’re tired. You stop when the gorilla is tired.
+>
+> Greg Henderson
+
+
+> Your career ultimately succeeds or fails on the strength of your network.
+>
+> Camille Fournier
+
+
+> You are the average of the five people you spend the most time with.
+>
+> Jim Rohn
+
+
+> Nous vivons dans une société d'employés de bureau résignés.
+>
+> Joël Dicker, in La vérité sur l'affaire Harry Quebert
+
+
+> Patience is not the ability to wait - it's the ability to keep a good attitude while waiting.
+>
+> Joyce Meyer
+
+
+> If something that seems like work to other people doesn't seem like work to you, that's something you're well suited for.
+>
+> Paul Graham (http://www.paulgraham.com/work.html)
+
+
+> You gain strength, courage, and confidence by every experience in which you really stop to look fear in the face… You must do the thing you think you cannot do.
+>
+> Eleanor Roosevelt
+
+
+> Mozart, who was buried in a pauper’s grave, was one of the greatest successes we know of, a man who in his early thirties had poured out his inexhaustible gift of music, leaving the world richer because he had passed that way. To leave the world richer—that is the ultimate success.
+>
+> Eleanor Roosevelt, You Learn by Living: Eleven Keys for a More Fulfilling Life
 
 
 ## Insolite
@@ -176,106 +374,9 @@ Certaines citations sont disponibles avec mes commentaires [ici](../../tags/cita
 > Patrick Boucheron, professeur au collège de France, chaire « Histoire des pouvoirs en Europe occidentale, XIIIe–XVIe siècles » (source: [Les Nuits de France Culture](https://www.radiofrance.fr/franceculture/podcasts/les-cours-du-college-de-france/les-cours-du-college-de-france-emission-du-vendredi-17-septembre-2021-4999895))
 
 
-## À classer
-
-> Never negotiate with an adversary, except from a position of strength.
->
-> Dwight Eisenhower, [At Ease](https://estore.archives.gov/eisenhower/product/at-ease)
-
-
-> Domination of others in this world often comes through bluff.
->
-> Dwight Eisenhower, [At Ease](https://estore.archives.gov/eisenhower/product/at-ease)
-
-
-> Pounding from an opponent is not to be dreaded as much as constantly living in fear of another.
->
-> Dwight Eisenhower, [At Ease](https://estore.archives.gov/eisenhower/product/at-ease)
-
-
-> Without a good question, a good answer has no place to go.
->
-> Clayton Christensen
-
-
-> Action is better than inaction.
->
-> Chris Guillebeau
-
-
-> Training is like fighting with a gorilla. You don’t stop when you’re tired. You stop when the gorilla is tired.
->
-> Greg Henderson
-
-
-> The power of instruction is seldom of much efficacy except in those happy dispositions where it is almost superfluous.
->
-> Gibbon
-
-
-> N’oubliez pas que le public ne vient pas vous voir jouer, il vient pour jouer avec vous.
->
-> Michel Bouquet, aux élèves de son conservatoire
-
-
-> C'est la magie de ce métier, qui fait qu'il y a toujours des hommes pour enfoncer d'autres hommes, et les enfoncer jusqu'au bout.
->
-> Albert Dupontel
-
-
-> Dieu se rit des créatures qui déplorent les effets dont elles chérissent les causes.
->
-> Bossuet
-
-
 > That seems to point up a significant difference between Europeans and Americans. A European says: I can't understand this, what's wrong with me? An American says: I can't understand this, what's wrong with him?
 >
 > Terry Pratchett, alt.fan.pratchett
-
-
-> The single biggest problem with communication is the illusion that it has taken place.
->
-> Georges Bernard Shaw
-
-
-> Speak when you are angry and you will make the best speech you will ever regret.
->
-> Ambrose Bierce
-
-
-> In data structures, as with most subjects, it is more important to really understand the basic material than have exposure to more advanced concepts.
->
->S. S. Skiena
-
-
-> There are two kinds of programming languages: the ones everybody complains about, and the ones nobody uses.
->
-> Bjarne Stroustrup, designer of C++
-
-
-> Assumption is the mother of all screw ups.
->
-> Eugene Lewis Fordsworthe
-
-
-> I am in a bit of a paradox, for I have assumed that there is no good in assuming.
->
->Eugene Lewis Fordsworthe
-
-
-> May we arise from the ashes of these unpredicted disasters beaten but not bowed, a little more modest about our forecasting abilities, and a little less likely to repeat our mistakes.
->
-> Nate Silver
-
-
-> If you need a machine and you don't buy it, then you will ultimately find that you have paid for it and don't have it.
->
-> Henry Ford
-
-
-> Your career ultimately succeeds or fails on the strength of your network.
->
-> Camille Fournier
 
 
 > J'aime juste le football et, dans un club comme ici, il ne s'agit pas toujours de football.
@@ -288,104 +389,26 @@ Certaines citations sont disponibles avec mes commentaires [ici](../../tags/cita
 > Agatha Christie
 
 
+> C'est la magie de ce métier, qui fait qu'il y a toujours des hommes pour enfoncer d'autres hommes, et les enfoncer jusqu'au bout.
+>
+> Albert Dupontel
+
+
+> Je le maîtrise suffisamment pour me mettre dans le pétrin mais pas assez pour en sortir.
+>
+> Sting, à propos du français (pour les 50ans de FIP)
+
+
+## À classer
+
 > Ne vous souciez pas du génie, contentez-vous d'aligner les mots ensemble. Le génie vient naturellement.
 >
 > Joël Dicker, in La vérité sur l'affaire Harry Quebert
 
 
-> Nous vivons dans une société d'employés de bureau résignés.
->
-> Joël Dicker, in La vérité sur l'affaire Harry Quebert
-
-
-> It's not the critic who counts, nor the man who points out how the strong man stumbles, or where the doer of the deeds could have done better. The credit belongs to the man who is actually in the arena; whose face is marred by dust and sweat and blood; who strives valiantly; who errors and comes short again and again; who knows the great enthusiasm, the great devotions and spends himself in a worthy cause; who at least knows in the end the triumph of his achievement, and who at worst, if he fails, at least fails while doing greatly, so that his place shall never be with those cold and timid souls who know neither victory or defeat.
->
-> Theodore Roosevelt
-
-
-> Our goal, our objective, is to create and prevent technological surprise.
->
->John Everett, deputy director of DARPA's Information Innovation Office
-
-
 > History will have to record that the greatest tragedy of this period of social transition was not the strident clamour of the bad people, but the appalling silence of the good people.
 >
->Martin Luther King Jr
-
-
-> Take the first step in faith. You don't have to see the whole staircase, just take the first step.
->
->Martin Luther King Jr.
-
-
-> Thank your moral opponents. Line-crossers need lines to cross.
->
->The New York Times
-
-
-> Fear has no rival.
->
->Senator Sherrod Brown, Ohio.
-
-
-> Rien n'est normal la première fois.
->
->King Rodhar, La Belgariade
-
-
-> It's easy to use doubt as a crutch (not to act).
->
->Moiraine, The Wheel of Time
-
-
-> You gain strength, courage, and confidence by every experience in which you really stop to look fear in the face… You must do the thing you think you cannot do.
->
-> Eleanor Roosevelt
-
-
-> Patience is not the ability to wait - it's the ability to keep a good attitude while waiting.
->
-> Joyce Meyer
-
-
-> If something that seems like work to other people doesn't seem like work to you, that's something you're well suited for.
->
-> Paul Graham (http://www.paulgraham.com/work.html)
-
-
-> Mozart, who was buried in a pauper’s grave, was one of the greatest successes we know of, a man who in his early thirties had poured out his inexhaustible gift of music, leaving the world richer because he had passed that way. To leave the world richer—that is the ultimate success.
->
-> Eleanor Roosevelt, You Learn by Living: Eleven Keys for a More Fulfilling Life
-
-
-> You are the average of the five people you spend the most time with.
->
-> Jim Rohn
-
-
-> Good things happen when you throw pucks at the net.
->
-> Jussi Jokinen
-
-
-> La curiosité est un vice qui a été stigmatisé tour à tour par le christianisme, par la philosophie et même par une certaine conception de la science. Curiosité, futilité. Le mot, pourtant me plait ; il évoque le souci; il évoque le soin qu'on prend de ce qui existe et pourrait exister ; un sens aiguisé du réel mais qui ne s'immobilise jamais devant lui ; une promptitude à trouver étrange et singulier ce qui nous entoure ; un certain acharnement à nous défaire de nos familiarités et à regarder autrement les mêmes choses ; une ardeur à saisir ce qui se passe ; une désinvolture à l'égard des hiérarchies traditionnelles entre l'important et l'essentiel. Je rêve d'un âge nouveau de la curiosité.
->
-> Michel Foucault
-
-
-> Il faut toujours dire ce que l'on voit : surtout il faut toujours, ce qui est plus difficile, voir ce que l'on voit.
->
-> Charles Peggy
-
-
-> Aussi loin que la science recule ses frontières, et sur tout l'arc étendu de ces frontières, on entendra courir encore la meute chasseresse du poète.
->
-> Saint-John Perse (discours de réception du prix Nobel)
-
-
-> The intuitive mind is a sacred gift and the rational mind is a faithful servant. We have created a society that honours the servant and has forgotten the gift.
->
-> Albert Einstein
+> Martin Luther King Jr
 
 
 > If you can't explain it simply, then you don't understand it well enough.
@@ -417,11 +440,6 @@ Certaines citations sont disponibles avec mes commentaires [ici](../../tags/cita
 > Albert Einstein
 
 
-> Je le maîtrise suffisamment pour me mettre dans le pétrin mais pas assez pour en sortir.
->
-> Sting, à propos du français (pour les 50ans de FIP)
-
-
 > Insanity is doing the same thing over and over again and expecting different results.
 >
 > Rita Mae Brown
@@ -442,11 +460,6 @@ Certaines citations sont disponibles avec mes commentaires [ici](../../tags/cita
 > Richard Feynman
 
 
-> All science stopped during the war except the little bit that was done at Los Alamos. And that was not much science; it was mostly engineering.
->
-> Richard Feynman
-
-
 > Success is a few simple disciplines, practiced every day; while failure is simply a few errors in judgment, repeated every day.
 >
 > Jim Rohn
@@ -455,11 +468,6 @@ Certaines citations sont disponibles avec mes commentaires [ici](../../tags/cita
 > Je ne recherche pas à retrouver le niveau que j'avais avant. Le tennis, c'est un sport difficile dans le sens où il ne faut jamais se baser sur les moments où on a bien joué. Le plus important, c'est ce qu'on fait quand on ne joue pas bien ou qu'on ne se sent pas bien. La majorité des matches, on ne se sent pas très bien. Si on se base sur son meilleur niveau, ou sur les sensations d'une bonne semaine, on ne sera jamais satisfait et on perdra beaucoup de matches qu'on aurait dû gagner. Je me concentre sur le présent, tout simplement.
 >
 > Stan Wawrinka (source: [L'Équipe](https://www.lequipe.fr/Tennis/Actualites/Wawrinka-apres-sa-victoire-a-indian-wells-face-a-rune-j-ai-toujours-voulu-repousser-mes-limites/1385752))
-
-
-> Computer science is as much about computers as astronomy is about telescopes.
->
-> Dijkstra
 
 
 > One can, for example, hire mere technical ability in engineering, accountancy, architecture or any other profession at nominal salaries. But the person who has technical knowledge plus the ability to express ideas, assume leadership, and to arouse enthusiasm among people that person is headed for higher earning power.
