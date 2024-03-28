@@ -33,7 +33,7 @@ Certaines citations sont disponibles avec mes commentaires [ici](../../tags/cita
 
 # Citations
 
-## Décider
+## Clarifier
 > II y a une très bonne manière d'accroître notre malheur, c'est de se tromper de problème à traiter.
 >
 > Jean-Marc Jancovici
@@ -44,29 +44,123 @@ Certaines citations sont disponibles avec mes commentaires [ici](../../tags/cita
 > Mary Wollstonecraft (Mary Shelley's mother) in [A Vindication of the Rights of Men](https://quoteinvestigator.com/2023/02/09/evil-mistake/)
 
 
-> History will have to record that the greatest tragedy of this period of social transition was not the strident clamour of the bad people, but the appalling silence of the good people.
->
-> Martin Luther King Jr
-
-
-> Le corps qui s'incline n'est pas une âme qui s'humilie. Au contraire, elle se grandit à s'accommoder aux autres.
->
-> Arte, [reportage sur le Ojigi, l'art de la déférence](https://www.arte.tv/en/videos/093473-005-A/gacha-gacha-5-9/)
-
-
-> Penelope (...), whose journey is endurance.
->
-> Joseph Campbell, [Pathways to Bliss: Mythology and Personal Transformation](https://www.goodreads.com/book/show/35511.Pathways_to_Bliss)
-
-
-> Commitment is doing the thing you said you were going to do long after the mood you said it in has left you.
->
-> Darren Hardy 
-
-
 > Don't judge each day by the harvest you reap but by the seeds that you plant.
 >
 > Robert Louis Stevenson
+
+
+> Dieu se rit des créatures qui déplorent les effets dont elles chérissent les causes.
+>
+> Bossuet
+
+
+## Penser
+
+> Without a good question, a good answer has no place to go.
+>
+> Clayton Christensen
+
+
+> The power of instruction is seldom of much efficacy except in those happy dispositions where it is almost superfluous.
+>
+> Edward Gibbon
+
+
+> Assumption is the mother of all screw ups.
+>
+> Eugene Lewis Fordsworthe
+
+
+> I am in a bit of a paradox, for I have assumed that there is no good in assuming.
+>
+> Eugene Lewis Fordsworthe
+
+
+> Action is better than inaction.
+>
+> Chris Guillebeau
+
+
+> It's easy to use doubt as a crutch (not to act).
+>
+> Moiraine, The Wheel of Time
+
+
+> Thank your moral opponents. Line-crossers need lines to cross.
+>
+> The New York Times
+
+
+> May we arise from the ashes of these unpredicted disasters beaten but not bowed, a little more modest about our forecasting abilities, and a little less likely to repeat our mistakes.
+>
+> Nate Silver
+
+
+> La curiosité est un vice qui a été stigmatisé tour à tour par le christianisme, par la philosophie et même par une certaine conception de la science. Curiosité, futilité. Le mot, pourtant me plait ; il évoque le souci; il évoque le soin qu'on prend de ce qui existe et pourrait exister ; un sens aiguisé du réel mais qui ne s'immobilise jamais devant lui ; une promptitude à trouver étrange et singulier ce qui nous entoure ; un certain acharnement à nous défaire de nos familiarités et à regarder autrement les mêmes choses ; une ardeur à saisir ce qui se passe ; une désinvolture à l'égard des hiérarchies traditionnelles entre l'important et l'essentiel. Je rêve d'un âge nouveau de la curiosité.
+>
+> Michel Foucault ([Radio France](https://www.radiofrance.fr/franceculture/podcasts/etre-et-savoir/comment-cultiver-la-curiosite-des-enfants-8184549))
+
+
+> Il faut toujours dire ce que l'on voit : surtout il faut toujours, ce qui est plus difficile, voir ce que l'on voit.
+>
+> Charles Peggy
+
+
+> La perversion de la cité commence par la fraude des mots.
+>
+> Platon
+
+
+> If you can't explain it simply, then you don't understand it well enough.
+>
+> Albert Einstein
+
+
+> Everybody is a genius. But if you judge a fish by its ability to climb a tree, it will live its whole life believing that it is stupid.
+>
+> Albert Einstein
+
+
+> Any fool can know. The point is to understand.
+>
+> Albert Einstein
+
+
+> L'ennui par la conversation et la bêtise par l'intellect sont quelque chose que je n'ai jamais pu supporter.
+>
+> Romain Gary
+
+
+> Common sense is what tells us the earth is flat.
+>
+> Albert Einstein
+
+
+> In theory, theory and practice are the same. In practice, they are not.
+>
+> Albert Einstein
+
+
+> Insanity is doing the same thing over and over again and expecting different results.
+>
+> Rita Mae Brown
+
+
+> How much of what you know is shaped by mistaken reactions to past mistakes?
+>
+> Peter Thiel
+
+
+> On connaît contre une connaissance antérieure, en détruisant les connaissances mal faites, en surmontant ce qui, dans l’esprit même, fait obstacle.
+>
+> Gaston Bachelard
+
+
+## Agir
+
+> History will have to record that the greatest tragedy of this period of social transition was not the strident clamour of the bad people, but the appalling silence of the good people.
+>
+> Martin Luther King Jr
 
 
 > Twenty years from now you will be more disappointed by the things you didn't do than by the ones you did do. So throw off the bowlines. Sail away from the safe harbor. Catch the trade winds in your sails. Explore. Dream. Discover.
@@ -94,34 +188,14 @@ Certaines citations sont disponibles avec mes commentaires [ici](../../tags/cita
 > General MacArthur
 
 
-> Dieu se rit des créatures qui déplorent les effets dont elles chérissent les causes.
->
-> Bossuet
-
-
 > Don't be a victim of life.
 >
 > White Lotus, [s02e07](https://en.wikipedia.org/wiki/Arrivederci_(The_White_Lotus))
 
 
-> Fear has no rival.
->
-> Senator Sherrod Brown, Ohio.
-
-
 > Rien n'est normal la première fois.
 >
 > King Rodhar, La Belgariade
-
-
-> Cesser d'attendre passivement que l'on me choisisse m'a fait passer de l'enfance à l'âge adulte.
->
-> Agnès Jaoui, [France Culture, À voix nue, épisode 3/5](https://www.radiofrance.fr/franceculture/podcasts/serie-agnes-jaoui-une-enfant-d-immigres)
-
-
-> A bird sitting on a tree is never afraid of the branch breaking, because its trust is not in the branch, but in its own wings.
->
-> Charlie Wardle, [Understanding & Building Confidence](https://www.goodreads.com/work/quotes/42860141-understanding-building-confidence-climb-your-mountain)
 
 
 > Take the first step in faith. You don't have to see the whole staircase, just take the first step.
@@ -134,7 +208,49 @@ Certaines citations sont disponibles avec mes commentaires [ici](../../tags/cita
 > Jussi Jokinen (joueur de NHL)
 
 
+> Cesser d'attendre passivement que l'on me choisisse m'a fait passer de l'enfance à l'âge adulte.
+>
+> Agnès Jaoui, [France Culture, À voix nue, épisode 3/5](https://www.radiofrance.fr/franceculture/podcasts/serie-agnes-jaoui-une-enfant-d-immigres)
+
+
+> A bird sitting on a tree is never afraid of the branch breaking, because its trust is not in the branch, but in its own wings.
+>
+> Charlie Wardle, [Understanding & Building Confidence](https://www.goodreads.com/work/quotes/42860141-understanding-building-confidence-climb-your-mountain)
+
+
+## Persister
+
+> Penelope (...), whose journey is endurance.
+>
+> Joseph Campbell, [Pathways to Bliss: Mythology and Personal Transformation](https://www.goodreads.com/book/show/35511.Pathways_to_Bliss)
+
+
+> Commitment is doing the thing you said you were going to do long after the mood you said it in has left you.
+>
+> Darren Hardy
+
+
+> Patience is not the ability to wait - it's the ability to keep a good attitude while waiting.
+>
+> Joyce Meyer
+
+
+> Success is a few simple disciplines, practiced every day; while failure is simply a few errors in judgment, repeated every day.
+>
+> Jim Rohn
+
+
+> It took me 17 years and 114 days to become an overnight success.
+>
+> Lionel Messi
+
+
 ## Créer
+
+> Fear has no rival.
+>
+> Senator Sherrod Brown, Ohio.
+
 
 > C'est quand tu n'as pas peur que tu peux faire des choses.
 >
@@ -143,7 +259,7 @@ Certaines citations sont disponibles avec mes commentaires [ici](../../tags/cita
 
 > J'ai une poubelle immense.
 >
-> Karl Lagerfeld, qui jette 99% de ses travaux
+> Karl Lagerfeld, [qui jette 99% de ses ébauches](https://www.radiofrance.fr/franceculture/podcasts/sans-oser-le-demander)
 
 
 > Things which are different in order to be simply different are seldom better, but that which is made to be better is almost always different.
@@ -224,118 +340,6 @@ Certaines citations sont disponibles avec mes commentaires [ici](../../tags/cita
 > Besides the noble art of getting things done, there is the noble art of leaving things undone. The wisdom of life consists in the elimination of non-essentials.
 >
 > Lin Yutang
-
-
-## Penser
-
-> Without a good question, a good answer has no place to go.
->
-> Clayton Christensen
-
-
-> The power of instruction is seldom of much efficacy except in those happy dispositions where it is almost superfluous.
->
-> Gibbon
-
-
-> Assumption is the mother of all screw ups.
->
-> Eugene Lewis Fordsworthe
-
-
-> I am in a bit of a paradox, for I have assumed that there is no good in assuming.
->
-> Eugene Lewis Fordsworthe
-
-
-> Action is better than inaction.
->
-> Chris Guillebeau
-
-
-> It's easy to use doubt as a crutch (not to act).
->
-> Moiraine, The Wheel of Time
-
-
-> Thank your moral opponents. Line-crossers need lines to cross.
->
-> The New York Times
-
-
-> May we arise from the ashes of these unpredicted disasters beaten but not bowed, a little more modest about our forecasting abilities, and a little less likely to repeat our mistakes.
->
-> Nate Silver
-
-
-> La curiosité est un vice qui a été stigmatisé tour à tour par le christianisme, par la philosophie et même par une certaine conception de la science. Curiosité, futilité. Le mot, pourtant me plait ; il évoque le souci; il évoque le soin qu'on prend de ce qui existe et pourrait exister ; un sens aiguisé du réel mais qui ne s'immobilise jamais devant lui ; une promptitude à trouver étrange et singulier ce qui nous entoure ; un certain acharnement à nous défaire de nos familiarités et à regarder autrement les mêmes choses ; une ardeur à saisir ce qui se passe ; une désinvolture à l'égard des hiérarchies traditionnelles entre l'important et l'essentiel. Je rêve d'un âge nouveau de la curiosité.
->
-> Michel Foucault
-
-
-> Il faut toujours dire ce que l'on voit : surtout il faut toujours, ce qui est plus difficile, voir ce que l'on voit.
->
-> Charles Peggy
-
-
-> La perversion de la cité commence par la fraude des mots.
->
-> Platon
-
-
-> If you can't explain it simply, then you don't understand it well enough.
->
-> Albert Einstein
-
-
-> Everybody is a genius. But if you judge a fish by its ability to climb a tree, it will live its whole life believing that it is stupid.
->
-> Albert Einstein
-
-
-> If we knew what it was we were doing, it would not be called research, would it?
->
-> Albert Einstein
-
-
-> Any fool can know. The point is to understand.
->
-> Albert Einstein
-
-
-> L'ennui par la conversation et la bêtise par l'intellect sont quelque chose que je n'ai jamais pu supporter.
->
-> Romain Gary
-
-
-> Common sense is what tells us the earth is flat.
->
-> Albert Einstein
-
-
-> In theory, theory and practice are the same. In practice, they are not.
->
-> Albert Einstein
-
-
-> Insanity is doing the same thing over and over again and expecting different results.
->
-> Rita Mae Brown
-
-
-> How much of what you know is shaped by mistaken reactions to past mistakes?
->
-> Peter Thiel
-
-
-> On connaît contre une connaissance antérieure, en détruisant les connaissances mal faites, en surmontant ce qui, dans l’esprit même, fait obstacle.
->
-> Gaston Bachelard
-
-
-> Just because you understand the mechanics of how something works doesn't make it any less of a miracle.
->
-> Bill (True Blood s01e03)
 
 
 ## Communiquer
@@ -464,16 +468,6 @@ Certaines citations sont disponibles avec mes commentaires [ici](../../tags/cita
 > Joël Dicker, in La vérité sur l'affaire Harry Quebert
 
 
-> Patience is not the ability to wait - it's the ability to keep a good attitude while waiting.
->
-> Joyce Meyer
-
-
-> Success is a few simple disciplines, practiced every day; while failure is simply a few errors in judgment, repeated every day.
->
-> Jim Rohn
-
-
 > If something that seems like work to other people doesn't seem like work to you, that's something you're well suited for.
 >
 > Paul Graham (http://www.paulgraham.com/work.html)
@@ -497,11 +491,6 @@ Certaines citations sont disponibles avec mes commentaires [ici](../../tags/cita
 > We are stubborn on vision. We are flexible on details.
 >
 > Jeff Bezos
-
-
-> It took me 17 years and 114 days to become an overnight success.
->
-> Lionel Messi
 
 
 > Je ne recherche pas à retrouver le niveau que j'avais avant. Le tennis, c'est un sport difficile dans le sens où il ne faut jamais se baser sur les moments où on a bien joué. Le plus important, c'est ce qu'on fait quand on ne joue pas bien ou qu'on ne se sent pas bien. La majorité des matches, on ne se sent pas très bien. Si on se base sur son meilleur niveau, ou sur les sensations d'une bonne semaine, on ne sera jamais satisfait et on perdra beaucoup de matches qu'on aurait dû gagner. Je me concentre sur le présent, tout simplement.
@@ -532,6 +521,33 @@ Certaines citations sont disponibles avec mes commentaires [ici](../../tags/cita
 > One can, for example, hire mere technical ability in engineering, accountancy, architecture or any other profession at nominal salaries. But the person who has technical knowledge plus the ability to express ideas, assume leadership, and to arouse enthusiasm among people that person is headed for higher earning power.
 >
 > Dale Carnegie
+
+
+## Apprécier
+
+> Le corps qui s'incline n'est pas une âme qui s'humilie. Au contraire, elle se grandit à s'accommoder aux autres.
+>
+> Arte, [reportage sur le Ojigi, l'art de la déférence](https://www.arte.tv/en/videos/093473-005-A/gacha-gacha-5-9/)
+
+
+> The beauty and the tragedy of it is that you don't know just how different you are.
+>
+> Bill (True Blood s01e08)
+
+
+> Just because you understand the mechanics of how something works doesn't make it any less of a miracle.
+>
+> Bill (True Blood s01e03)
+
+
+> Soulmates are not found. They are made.
+>
+> Michael (The Good Place s04e09)
+
+
+> Elle ne vit pas dans mon ombre. Je vis dans sa lumière.
+>
+> Yves Duteil, à propos de son épouse
 
 
 ## Insolite
@@ -586,16 +602,6 @@ Certaines citations sont disponibles avec mes commentaires [ici](../../tags/cita
 > Petro Gustavo, Mayor of Bogota
 
 
-> The beauty and the tragedy of it is that you don't know just how different you are.
->
-> Bill (True Blood s01e08)
-
-
-> Soulmates are not found. They are made.
->
-> Michael (The Good Place s04e09)
-
-
 > Quand les gens sont de mon avis, j'ai l'impression de m'être trompé.
 >
 > Oscar Wilde
@@ -610,10 +616,6 @@ Certaines citations sont disponibles avec mes commentaires [ici](../../tags/cita
 >
 > Romain Gary
 
-
-> Elle ne vit pas dans mon ombre. Je vis dans sa lumière.
->
-> Yves Duteil, à propos de son épouse
 
 ## Conclusion
 
