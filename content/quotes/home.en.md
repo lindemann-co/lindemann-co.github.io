@@ -609,7 +609,7 @@ Some quotes with my comments can be found [here](../../tags/quotes/).
 > Oscar Wilde
 
 
-> L'humour, c'est quand on rit quand même.
+> Humour is when you laugh anyway.
 >
 > Otto Julius Bierbaum
 
