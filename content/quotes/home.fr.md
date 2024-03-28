@@ -33,7 +33,7 @@ Certaines citations sont disponibles avec mes commentaires [ici](../../tags/cita
 
 # Citations
 
-## Perspectives
+## Décider
 > II y a une très bonne manière d'accroître notre malheur, c'est de se tromper de problème à traiter.
 >
 > Jean-Marc Jancovici
@@ -134,7 +134,7 @@ Certaines citations sont disponibles avec mes commentaires [ici](../../tags/cita
 > Jussi Jokinen (joueur de NHL)
 
 
-## Créativité
+## Créer
 
 > C'est quand tu n'as pas peur que tu peux faire des choses.
 >
@@ -226,7 +226,7 @@ Certaines citations sont disponibles avec mes commentaires [ici](../../tags/cita
 > Lin Yutang
 
 
-## Pensée
+## Penser
 
 > Without a good question, a good answer has no place to go.
 >
@@ -333,7 +333,12 @@ Certaines citations sont disponibles avec mes commentaires [ici](../../tags/cita
 > Gaston Bachelard
 
 
-## Conflits
+> Just because you understand the mechanics of how something works doesn't make it any less of a miracle.
+>
+> Bill (True Blood s01e03)
+
+
+## Communiquer
 
 > The single biggest problem with communication is the illusion that it has taken place.
 >
@@ -375,7 +380,7 @@ Certaines citations sont disponibles avec mes commentaires [ici](../../tags/cita
 > Lan, [The Great Hunt](https://en.wikipedia.org/wiki/The_Great_Hunt)
 
 
-## Technologie
+## Inventer
 
 > Computer science is as much about computers as astronomy is about telescopes.
 >
@@ -437,7 +442,7 @@ Certaines citations sont disponibles avec mes commentaires [ici](../../tags/cita
 > Dive into Python
 
 
-## Travail
+## Entreprendre
 
 > Training is like fighting with a gorilla. You don’t stop when you’re tired. You stop when the gorilla is tired.
 >
@@ -579,11 +584,6 @@ Certaines citations sont disponibles avec mes commentaires [ici](../../tags/cita
 > A developed country is not a place where the poor have cars. It's where the rich use public transportation.
 >
 > Petro Gustavo, Mayor of Bogota
-
-
-> Just because you understand the mechanics of how something works doesn't make it any less of a miracle.
->
-> Bill (True Blood s01e03)
 
 
 > The beauty and the tragedy of it is that you don't know just how different you are.
