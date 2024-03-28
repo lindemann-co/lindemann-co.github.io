@@ -126,7 +126,7 @@ Some quotes with my comments can be found [here](../../tags/quotes/).
 > Albert Einstein
 
 
-> L'ennui par la conversation et la bêtise par l'intellect sont quelque chose que je n'ai jamais pu supporter.
+> Boredom caused by conversation and stupidity from intellect are things I could never bear.
 >
 > Romain Gary
 
@@ -193,7 +193,7 @@ Some quotes with my comments can be found [here](../../tags/quotes/).
 > White Lotus, [s02e07](https://en.wikipedia.org/wiki/Arrivederci_(The_White_Lotus))
 
 
-> Rien n'est normal la première fois.
+> Nothing seems normal the first time.
 >
 > King Rodhar, La Belgariade
 
@@ -205,7 +205,7 @@ Some quotes with my comments can be found [here](../../tags/quotes/).
 
 > Good things happen when you throw pucks at the net.
 >
-> Jussi Jokinen (joueur de NHL)
+> Jussi Jokinen (NHL player)
 
 
 > Cesser d'attendre passivement que l'on me choisisse m'a fait passer de l'enfance à l'âge adulte.
@@ -374,7 +374,7 @@ Some quotes with my comments can be found [here](../../tags/quotes/).
 > Romain Gary
 
 
-> Les méthodes viennent à la fin.
+> Methods come last.
 >
 > Nietzsche
 
