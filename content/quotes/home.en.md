@@ -13,6 +13,8 @@ Collecting quotes is one of my guilty pleasures.
 
 The only criterion for a sentence to find its place in the list below is to make me think. The bar to pass is usually quite low.
 
+Once in the list, a quote remains even if I later find it superficial, stupid or offending.
+
 Consequently, the following criteria were **not** taken into account:
 * Whether or not I agree with what is said [^1].
 * Whether the quote is apocryphal or not [^2] [^3].
