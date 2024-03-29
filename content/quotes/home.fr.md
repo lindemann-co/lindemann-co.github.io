@@ -158,6 +158,11 @@ Certaines citations sont disponibles avec mes commentaires [ici](../../tags/cita
 
 ## Agir
 
+> Par nature, nous sommes des joueurs et non pas des pions.
+>
+> Daniel H. Pink, in La vérité sur ce qui nous motive
+
+
 > History will have to record that the greatest tragedy of this period of social transition was not the strident clamour of the bad people, but the appalling silence of the good people.
 >
 > Martin Luther King Jr
