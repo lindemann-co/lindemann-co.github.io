@@ -168,6 +168,11 @@ Certaines citations sont disponibles avec mes commentaires [ici](../../tags/cita
 > Martin Luther King Jr
 
 
+> We are now faced with the fact that tomorrow is today. We are confronted with the fierce urgency of now. In this unfolding conundrum of life and history, there "is" such a thing as being too late. This is no time for apathy or complacency. This is a time for vigorous and positive action.
+>
+> Martin Luther King Jr
+
+
 > Twenty years from now you will be more disappointed by the things you didn't do than by the ones you did do. So throw off the bowlines. Sail away from the safe harbor. Catch the trade winds in your sails. Explore. Dream. Discover.
 >
 > Mark Twain
@@ -484,6 +489,11 @@ Certaines citations sont disponibles avec mes commentaires [ici](../../tags/cita
 > Setup scripts should be boring. The more exotic your installation process is, the more exotic your bug reports will be.
 >
 > Dive into Python
+
+
+> Establishing consistent standards is the nearest thing to a free lunch
+> 
+> Herbert Hoover, US commerce secretary in the 1920s
 
 
 ## Communiquer
