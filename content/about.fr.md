@@ -17,7 +17,7 @@ Je suis marié et père de deux enfants.
 
 Je suis un ingénieur et un entrepreneur.
 
-Je suis né en France au début des années 1980. Il y a prescription.
+Je suis né en France au début des années 1980.
 
 ## Où
 Je vis à Lausanne, en Suisse.
