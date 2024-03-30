@@ -9,6 +9,8 @@ tags:
   - philosophie
 ---
 
+![Boussole](/img/compass.png)
+
 Cette page présente quelques principes qui guident mes actions et mes décisions.
 
 ## Rapport aux autres
