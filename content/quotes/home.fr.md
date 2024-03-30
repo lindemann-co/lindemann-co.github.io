@@ -9,6 +9,8 @@ tags:
   - citations
 ---
 
+![Guillemets](/img/quotes.png)
+
 La collecte de citations est l'un de mes plaisirs coupables.
 
 Le seul critère pour qu'une phrase trouve sa place dans la liste ci-dessous est de me faire réfléchir au moment où elle me tombe dessus. Autant dire que la barre à passer est assez peu élevée.
