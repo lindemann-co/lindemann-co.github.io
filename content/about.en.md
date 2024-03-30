@@ -9,7 +9,7 @@ tags:
   - home
 ---
 
-![Portrait](/me-320px.png)
+![Portrait](/img/me-320px.png)
 
 ## Who
 
