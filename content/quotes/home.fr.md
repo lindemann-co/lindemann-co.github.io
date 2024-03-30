@@ -1,6 +1,6 @@
 ---
 title: "Citations • Accueil"
-slug: "../citations/all"
+slug: "../citations/accueil"
 date: 2022-12-31
 draft: false
 toc: true

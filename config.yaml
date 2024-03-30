@@ -58,8 +58,11 @@ languages:
         - name: À propos
           url: /a-propos
           weight: 20
+        - name: Philosophie
+          url: /philosophie/accueil
+          weight: 30
         - name: Citations
-          url: /citations/all
+          url: /citations/accueil
           weight: 40
         - name: EN
           url: ../en/about
