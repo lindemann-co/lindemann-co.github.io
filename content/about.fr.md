@@ -34,6 +34,6 @@ Si vous souhaitez en savoir plus sur mon expérience, jetez un oeil à mon profi
 Si vous souhaitez prendre contact, vous pouvez le faire via [LinkedIn](../cv) ou en réservant un créneau dans mon [calendrier](../cal) pour un appel de vive voix.
 
 ## Pourquoi
-> Il serait malhonnête de notre part de dissimuler le fait que la principale motivation à l'origine du travail en était le simple plaisir.
+> It would be disingenuous of us to disguise the fact that the principal motive which prompted the work was the sheer fun of the thing.
 >
 > Alan Turing
