@@ -94,5 +94,5 @@ languages:
           url: /quotes/all
           weight: 40
         - name: FR
-          url: ../fr/home
+          url: ../fr/accueil
           weight: 1000
