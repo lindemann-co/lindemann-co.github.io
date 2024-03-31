@@ -7,10 +7,13 @@ toc: false
 images:
 tags:
   - philosophie
+  - coaching
+  - observation
+  - sport
 ---
-Le sens de l'observation est rarement mentionné parmi les qualités importantes dans nos vies personnelles ou professionnelles.
+Le sens de l'observation est rarement mentionné parmi les facteurs de réussite dans nos vies personnelles ou professionnelles.
 
-J'aimerais corriger cette injustice grâce à la courte vidéo ci-dessous[^1].
+J'aimerais corriger cette injustice à partir de la courte vidéo ci-dessous[^1].
 
 {{< youtube id="1AaOAYYzGgI" title="Tirer quelqu'un vers le haut, un détail à la fois" >}}
 
@@ -23,7 +26,7 @@ Des dizaines de paramètres physiques déterminent la qualité d'un tir: positio
 
 Pour "corriger" un geste imparfait, il faut avoir une vision très précise de la cible à atteindre, visualiser le geste "correct" vers lequel tendre.
 
-BriAnna Garza n'aurait probablement pas pu identifier que l'angle formé par le coude au moment précis du redressement du corps devait être corrigé si elle n'avait pas préalablement construit une vision extrêmement fine de l'angle idéal à ce moment particulier du mouvement: "Don't collapse your arm (...) like, if you had an egg right here, don't break it" (à 43s). Je trouve cette image d'une clarté et d'une efficacité remarquables et je pense au temps qu'il a fallu passer à observer des matches ou des entraînements pour la construire avec une telle netteté[^2].
+BriAnna Garza n'aurait probablement pas pu identifier que l'angle formé par le coude au moment précis du redressement du corps devait être corrigé si elle n'avait pas préalablement construit une vision extrêmement claire de l'angle idéal à ce moment particulier du mouvement: "Don't collapse your arm (...) like, if you had an egg right here, don't break it" (à 43s). Je trouve cette image d'une clarté et d'une efficacité remarquables et je pense au temps qu'il a fallu passer à observer des matches ou des entraînements pour la construire avec une telle netteté[^2].
 
 
 ## Pendant la séance
