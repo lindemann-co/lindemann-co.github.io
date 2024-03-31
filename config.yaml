@@ -59,7 +59,7 @@ languages:
           url: /a-propos
           weight: 20
         - name: Philosophie
-          url: /philosophie/accueil
+          url: /tags/philosophie
           weight: 30
         - name: Citations
           url: /citations/accueil
