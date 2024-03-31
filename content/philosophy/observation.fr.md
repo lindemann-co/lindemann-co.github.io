@@ -13,11 +13,11 @@ tags:
 ---
 Le sens de l'observation est rarement mentionné comme facteur de réussite dans nos vies personnelles ou professionnelles.
 
-J'aimerais corriger cette injustice à partir de la courte vidéo ci-dessous[^1].
+En moins de 90 secondes, la vidéo ci-dessous répare cette injustice.
 
 {{< youtube id="1AaOAYYzGgI" title="Tirer quelqu'un vers le haut, un détail à la fois" >}}
 
-Sur LinkedIn, cette vidéo est accompagnée de commentaires louant diverses qualités de la coach [BriAnna Garza](https://shootersxshoot70.training/): son humilité lorsqu'elle s'excuse de ne pas avoir agi plus tôt, son sens de la pédagogie lorsqu'elle garde le silence après le tir manqué ou encore son enthousiasme lorsqu'elle crie au joueur qu'il est un véritable shooter.
+Publiée sur LinkedIn[^1], cette vidéo est accompagnée de commentaires louant diverses qualités de la coach [BriAnna Garza](https://shootersxshoot70.training/): son humilité lorsqu'elle s'excuse de ne pas avoir agi plus tôt, son sens de la pédagogie lorsqu'elle garde le silence après le tir manqué ou encore son enthousiasme lorsqu'elle crie au joueur qu'il est un véritable shooter.
 
 Pourtant, c'est le talent d'observation de cette coach avant et pendant la séance qui m'a le plus impressionné.
 
