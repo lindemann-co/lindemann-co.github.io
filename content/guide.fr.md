@@ -1,7 +1,7 @@
 ---
 title: "Guide"
 slug: "guide"
-date: 2023-09-27T21:59:54+02:00
+date: 2023-09-27
 draft: true
 toc: false
 images:
