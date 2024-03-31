@@ -21,6 +21,7 @@ Publiée sur LinkedIn[^1], cette vidéo y est accompagnée de commentaires louan
 
 Pourtant, c'est le talent d'observation de cette coach avant et pendant la séance qui m'a le plus impressionné.
 
+
 ## Avant la séance
 Des dizaines de paramètres physiques déterminent la qualité d'un tir: position et fermeté des pieds, chevilles, genoux, bassin, dos, cou, épaules, coudes, poignets et tous les os de la main, paume et doigts inclus. Chacun de ces degrés de libertés évolue dynamiquement de la prise de balle jusqu'au lancer, quand le ballon quitte l'extrêmité des doigts.
 
@@ -39,6 +40,7 @@ Pour réorienter la séance et identifier que le paramètre à travailler en pri
 Enfin, cette vidéo montre ni plus ni moins qu'un passage de connaissance: "pour améliorer ton lancer, garde ton bras ouvert de cette manière". Or, sans l'observation préalable de centaines de joueurs, il n'y aurait pas eu de connaissance du geste juste. Sans l'observation spécifique de ce joueur particulier, il n'y aurait pas eu de transmission.
 
 Tirer un individu ou un collectif vers le haut nécessite de définir et partager une vision efficace des actions à accomplir. Cette vidéo montre comment un sens aigü de l'observation y participe.
+
 
 [^1]: [Vidéo originale sur LinkedIn](https://www.linkedin.com/posts/shootersxshoot70_if-your-athletes-dont-feel-safe-to-mess-activity-7160245796397813761-zxpc).
 [^2]: Même si cette image mentale provient d'un livre ou d'un cours magistral, il a bien fallu que l'auteur du livre ou du cours produise cette connaissance à partir d'un travail d'observation original.
