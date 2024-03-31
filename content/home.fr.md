@@ -10,6 +10,6 @@ tags:
 ---
 Ce site vous permet de découvrir sommairement:
 1. Qui je suis: [ici](../a-propos)
-2. Les sujets qui m'intéressent: [là](../posts)
+2. Les sujets qui m'intéressent: [là](../notes)
 
 ML

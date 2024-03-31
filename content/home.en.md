@@ -10,6 +10,6 @@ tags:
 ---
 This site lets you read short posts about:
 1. Who I am: [here](../about)
-2. Subjects that draw my attention: [there](../posts)
+2. Subjects that draw my attention: [there](../notes)
 
 ML
