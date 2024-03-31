@@ -1,6 +1,6 @@
 ---
 title: "De l'observation"
-slug: "../philosophie/observation"
+slug: "observation"
 date: 2024-03-30
 draft: false
 toc: false

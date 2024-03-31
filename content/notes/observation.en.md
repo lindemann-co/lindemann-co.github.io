@@ -1,6 +1,6 @@
 ---
 title: "About observation"
-slug: "../philosophy/observation"
+slug: "observation"
 date: 2024-03-30
 draft: false
 toc: false
