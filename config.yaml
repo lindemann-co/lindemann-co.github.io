@@ -17,7 +17,7 @@ params:
   dateformNumTime: '2006-01-02 15:04'
   enableThemeToggle: true
   enableSharingButtons: true
-  homeSubtitle:  <a href="/en/about">English</a> &#x2022; <a href="/fr/a-propos">Français</a>
+  homeSubtitle:  <a href="/en/home">English</a> &#x2022; <a href="/fr/accueil">Français</a>
   footer:
     trademark: true
     rss: true
@@ -52,7 +52,7 @@ languages:
         copyright: false
         author: true
         bottomText:
-          - 'Thème réalisé par <a href="https://github.com/rhazdon">DA</a>'
+          - 'Thème inspiré de <a href="https://github.com/rhazdon">DA</a>'
     menu:
       main:
         - name: À propos
@@ -65,7 +65,7 @@ languages:
           url: /citations/accueil
           weight: 40
         - name: EN
-          url: ../en/about
+          url: ../en/home
           weight: 1000
   en:
     params:
@@ -81,7 +81,7 @@ languages:
         copyright: false
         author: true
         bottomText:
-          - 'Theme by <a href="https://github.com/rhazdon">DA</a>'
+          - 'Theme inspired from <a href="https://github.com/rhazdon">DA</a>'
     menu:
       main:
         - name: About
@@ -94,5 +94,5 @@ languages:
           url: /quotes/all
           weight: 40
         - name: FR
-          url: ../fr/a-propos
+          url: ../fr/home
           weight: 1000
