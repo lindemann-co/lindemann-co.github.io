@@ -42,4 +42,3 @@ Tirer un individu ou un collectif vers le haut nécessite de définir et partage
 
 [^1]: [Vidéo originale sur LinkedIn](https://www.linkedin.com/posts/shootersxshoot70_if-your-athletes-dont-feel-safe-to-mess-activity-7160245796397813761-zxpc).
 [^2]: Même si cette image mentale provient d'un livre ou d'un cours magistral, il a bien fallu que l'auteur du livre ou du cours produise cette connaissance à partir d'un travail d'observation original.
-
