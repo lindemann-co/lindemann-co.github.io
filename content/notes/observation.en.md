@@ -13,7 +13,7 @@ tags:
 ---
 The sense of observation is rarely mentioned as a factor of success in our personal or professional lives.
 
-In less than 90 seconds, the video below corrects this injustice.
+The video below corrects this injustice in less than 90 seconds.
 
 {{< youtube id="1AaOAYYzGgI" title="Coaching Someone Up, One Detail at a Time" >}}
 
