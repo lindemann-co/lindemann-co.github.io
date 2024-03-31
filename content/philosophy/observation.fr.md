@@ -1,5 +1,5 @@
 ---
-title: "Observation"
+title: "Importance de l'observation"
 slug: "../philosophie/observation"
 date: 2024-03-30
 draft: false
