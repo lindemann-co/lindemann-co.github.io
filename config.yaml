@@ -58,8 +58,8 @@ languages:
         - name: À propos
           url: /a-propos
           weight: 20
-        - name: Philosophie
-          url: /tags/philosophie
+        - name: Notes
+          url: /notes
           weight: 30
         - name: Citations
           url: /citations/accueil
@@ -87,8 +87,8 @@ languages:
         - name: About
           url: /about
           weight: 20
-        - name: Philosophy
-          url: /tags/philosophy
+        - name: Notes
+          url: /notes
           weight: 30
         - name: Quotes
           url: /quotes/all
