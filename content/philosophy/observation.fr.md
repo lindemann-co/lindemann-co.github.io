@@ -11,7 +11,7 @@ tags:
   - observation
   - sport
 ---
-Le sens de l'observation est rarement mentionné parmi les facteurs de réussite dans nos vies personnelles ou professionnelles.
+Le sens de l'observation est rarement mentionné comme facteur de réussite dans nos vies personnelles ou professionnelles.
 
 J'aimerais corriger cette injustice à partir de la courte vidéo ci-dessous[^1].
 
