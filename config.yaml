@@ -87,6 +87,9 @@ languages:
         - name: About
           url: /about
           weight: 20
+        - name: Philosophy
+          url: /tags/philosophy
+          weight: 30
         - name: Quotes
           url: /quotes/all
           weight: 40
