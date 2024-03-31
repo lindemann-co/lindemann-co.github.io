@@ -27,7 +27,7 @@ Dozens of physical parameters determine the quality of a shot: position and firm
 
 To "correct" an imperfect gesture, one must have a very precise vision of the target to be reached, visualizing the "correct" gesture to strive for.
 
-BriAnna Garza probably couldn't have identified that the angle formed by the elbow at the precise moment of body straightening needed correction if she hadn't previously built an extremely clear vision of the ideal angle at that particular moment of the movement: "Don't collapse your arm (...) like, if you had an egg right here, don't break it." I find this image remarkably clear and effective, and I think about the time it took to observe matches or training sessions to build it so clearly2.
+BriAnna Garza probably couldn't have identified that the angle formed by the elbow at the precise moment of body straightening needed correction if she hadn't previously built an extremely clear vision of the ideal angle at that particular moment of the movement: "Don't collapse your arm (...) like, if you had an egg right here, don't break it." I find this image remarkably clear and effective, and I think about the time it took to observe matches or training sessions to build it so clearly[^2].
 
 
 ## During the session
