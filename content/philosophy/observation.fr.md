@@ -26,13 +26,13 @@ Des dizaines de paramètres physiques déterminent la qualité d'un tir: positio
 
 Pour "corriger" un geste imparfait, il faut avoir une vision très précise de la cible à atteindre, visualiser le geste "correct" vers lequel tendre.
 
-BriAnna Garza n'aurait probablement pas pu identifier que l'angle formé par le coude au moment précis du redressement du corps devait être corrigé si elle n'avait pas préalablement construit une vision extrêmement claire de l'angle idéal à ce moment particulier du mouvement: "Don't collapse your arm (...) like, if you had an egg right here, don't break it" (à 43s). Je trouve cette image d'une clarté et d'une efficacité remarquables et je pense au temps qu'il a fallu passer à observer des matches ou des entraînements pour la construire avec une telle netteté[^2].
+BriAnna Garza n'aurait probablement pas pu identifier que l'angle formé par le coude au moment précis du redressement du corps devait être corrigé si elle n'avait pas préalablement construit une vision extrêmement claire de l'angle idéal à ce moment particulier du mouvement: "Don't collapse your arm (...) like, if you had an egg right here, don't break it". Je trouve cette image d'une clarté et d'une efficacité remarquables et je pense au temps qu'il a fallu passer à observer des matches ou des entraînements pour la construire avec une telle netteté[^2].
 
 
 ## Pendant la séance
 Il semble que la séance se concentrait à l'origine sur le jeu de jambes. Pourtant, la vidéo montre BriAnna Garza corriger le pli du bras du joueur.
 
-Pour réorienter la séance et identifier que le paramètre à travailler en priorité était en fait l'angle du coude au moment précis où le corps du joueur se redresse, il a fallu que BriAnna Garza ait observé en détail et sur un grand nombre de tirs chaque paramètre du mouvement de ce joueur précis, de la prise de balle jusqu'au lancer. Il lui a fallu évaluer la gravité de chaque imperfection, ignorer le "bruit" des imperfections mineures pour finalement identifier la correction prioritaire: l'angle du coude lorsque le corps se redresse. Je ne suis donc par surpris par l'incrustation précisant que 50 minutes s'étaient écoulées depuis le début de la séance avant que la coach n'intervienne.
+Pour réorienter la séance et identifier que le paramètre à travailler en priorité était en fait l'angle du coude au moment précis où le corps du joueur se redresse, il a fallu que BriAnna Garza ait observé en détail et sur un grand nombre de tirs chaque paramètre du mouvement de ce joueur précis, de la prise de balle jusqu'au lancer. Il lui a fallu évaluer la gravité de chaque imperfection, ignorer le "bruit" des imperfections mineures pour finalement identifier la correction prioritaire: l'angle du coude lorsque le corps se redresse. Je ne suis donc par surpris par l'incrustation précisant que 50 minutes s'étaient écoulées entre le début de la séance et l'intervention de la coach.
 
 
 ## Créer et partager le savoir
