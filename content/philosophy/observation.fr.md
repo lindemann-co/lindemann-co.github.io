@@ -8,11 +8,11 @@ images:
 tags:
   - philosophie
 ---
-L'observation est rarement mentionnée parmi les qualités importantes dans nos vies personnelles ou professionnelles.
+Le sens de l'observation est rarement mentionné parmi les qualités importantes dans nos vies personnelles ou professionnelles.
 
 J'aimerais corriger cette injustice grâce à la courte vidéo ci-dessous[^1].
 
-{{< youtube id="1AaOAYYzGgI" title="Raising performance one detail at a time" >}}
+{{< youtube id="1AaOAYYzGgI" title="Tirer quelqu'un vers le haut, un détail à la fois" >}}
 
 Sur LinkedIn, cette vidéo est accompagnée de commentaires louant diverses qualités de la coach [BriAnna Garza](https://shootersxshoot70.training/): son humilité lorsqu'elle s'excuse de ne pas avoir agi plus tôt, son sens de la pédagogie lorsqu'elle garde le silence après le tir manqué ou encore son enthousiasme lorsqu'elle crie au joueur qu'il est un véritable shooter.
 
