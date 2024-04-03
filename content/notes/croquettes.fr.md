@@ -35,7 +35,7 @@ Le toutou aura six mois le 25 mai. Comment son système digestif peut-il passer 
 
 Autre question: quel est l'intérêt de réduire la quantité de 508 grammes à 476 grammes au huitième mois, après seulement 2 mois à ce régime ? Cette baisse de 32 grammes ne représente que 6.7% du total. Cet ajustement est suspicieusement précis en regard de l'incertitude pesant sur le poids estimé du chiot une fois adulte[^4].
 
-Pire: si le fabricant de croquettes juge important de distinguer ces 2 mois à 6.7% de plus que la suite, pourquoi n'existe-t-il aucune distinction entre le deuxième et le sixième mois ? Je m'attendrais à ce que les besoins d'un chiot de cinq mois diffèrent significativement de ceux d'un chiot de deux mois.
+Pire: si le fabricant de croquettes juge important de distinguer ces 2 mois à 6.7% de plus que la suite, pourquoi n'existe-t-il aucune étape intermédiaire entre le deuxième et le sixième mois ? Je m'attendrais à ce que les besoins d'un chiot de cinq mois diffèrent significativement de ceux d'un chiot de deux mois.
 
 Ainsi, m'opposant fermement à la souffrance digestive des animaux dont j'ai la garde, et dont, par conséquent, je ramasse les crottes sous peine d'amende, j'ai dû me résoudre une nouvelle fois à en appeler à la Mathématique pour imaginer une alternative lissé au régime en escalier:
 
