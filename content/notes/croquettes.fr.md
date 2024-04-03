@@ -58,7 +58,7 @@ J'ai finalement trouvé les données détaillées sur le site du fabricant[^6]. 
 
 J'espère sincèrement que les propriétaires de chiens pensent à calculer les valeurs intermédiaires lissées comme je l'ai fait et ne suivent pas aveuglément les valeurs indiquées au dos de l'emballage.
 
-Si un employé de la marque lit cette note, je l'encourage à ajouter des données intermédiaires pour les mois 3, 4, 5 puis 9, 10, 11 dans le tableau au dos du sac.
+Si un(e) employé(e) de la marque lit cette note, je l'encourage à ajouter des données intermédiaires pour les mois 3, 4, 5 puis 9, 10, 11 dans le tableau au dos du sac.
 
 [^0]: Source: [RSPCA](/doc/Safe_puppy_activities.pdf)
 [^2]: Car comme tout ami des animaux qui se respecte, nous avons aussi un chat.
