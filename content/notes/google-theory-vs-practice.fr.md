@@ -36,4 +36,5 @@ Alors, comment se fait-il qu'une entreprise comme Google laisse des divisions en
 Donc, encore une fois, ne vous mesurez pas aux recommandations idéales que même les organisations bien établies ne peuvent pas appliquer. Continuez à trouver des personnes et des processus qui fonctionnent dans votre contexte.
 
 [^1]: https://sre.google/books/
-[^2]: https://web.archive.org/web/20230601151237/https://rework.withgoogle.com/guides/managers-identify-what-makes-a-great-manager/steps/learn-about-googles-manager-research/
+[^2]: https://abseil.io/resources/swe-book et https://abseil.io/resources/swe-book/html/ch05.html#the_tech_lead_manager
+[^3]: https://web.archive.org/web/20230601151237/https://rework.withgoogle.com/guides/managers-identify-what-makes-a-great-manager/steps/learn-about-googles-manager-research/
