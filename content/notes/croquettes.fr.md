@@ -10,7 +10,7 @@ tags:
   - chien
 ---
 
-Après une jeunesse gâchée par un goût douteux pour les exactitudes inutiles, j'ai longtemps cru que le diplôme d'ingénieur obtenu au sommet de ma gloire intellectuelle il y a presque 20 me confèrerait suffisamment d'humilité et de bon sens pour résister à toute vanité scientifique jusqu'à la fin de mes jours. La triste réalité est qu'un sac de croquettes a suffi à me faire replonger.
+Après une jeunesse marquée par un goût douteux pour les exactitudes inutiles, j'ai cru que le diplôme d'ingénieur obtenu au sommet de ma gloire intellectuelle il y a presque 20 me confèrerait suffisamment d'humilité et de bon sens pour résister à toute vanité scientifique jusqu'à la fin de mes jours. La triste réalité est qu'un sac de croquettes a suffi à me faire dérailler.
 
 ## Croquettes et régression linéaire
 Tout a commencé lorsque notre vétérinaire nous a annoncé que le toutou de ma fille ferait environ 35kg à l'âge adulte. Or, le sac de croquettes dudit toutou n'indique les valeurs que pour les quadrupèdes de 30kg ou 40kg:
