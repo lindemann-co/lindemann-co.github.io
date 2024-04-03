@@ -1,8 +1,8 @@
 ---
 title: "Data science canine"
 slug: "data-science-canine"
-date: 2024-04-02
-draft: true
+date: 2024-04-03
+draft: false
 toc: false
 images:
 tags:
@@ -10,14 +10,14 @@ tags:
   - chien
 ---
 
-J'ai longtemps cru que le diplôme d'ingénieur reçu au milieu des années 2000 me conférait suffisamment de bon sens pour résister à la tentation des sciences inutiles. La triste réalité est qu'un sac de croquettes a suffi à me faire replonger.
+Après une jeunesse gâchée par un goût douteux pour les exactitudes inutiles, j'ai longtemps cru que le diplôme d'ingénieur obtenu au sommet de ma gloire intellectuelle il y a presque 20 me confèrerait suffisamment d'humilité et de bon sens pour résister à toute vanité scientifique jusqu'à la fin de mes jours. La triste réalité est qu'un sac de croquettes a suffi à me faire replonger.
 
 ## Croquettes et régression linéaire
-Tout a commencé lorsque notre vétérinaire m'a annoncé que le toutou de ma fille ferait environ 35kg. Or, le sac de croquettes dudit toutou n'indique les valeurs que pour les quadrupèdes de 30kg ou 40kg:
+Tout a commencé lorsque notre vétérinaire nous a annoncé que le toutou de ma fille ferait environ 35kg à l'âge adulte. Or, le sac de croquettes dudit toutou n'indique les valeurs que pour les quadrupèdes de 30kg ou 40kg:
 
 ![Tableau de croquettes](/img/notes/croquettes-table.png)
 
-Je n'ai donc eu d'autre choix qu'en appeler à la Mathématique pour interpoler la quantité de croquettes nécessaire quotidiennemnt à la bonne croissance du petit:
+Je n'ai donc eu d'autre choix que regarder en détails les valeurs du tableau pour en appeler à la Mathématique et interpoler la quantité de croquettes nécessaire quotidiennement à la bonne croissance du petit:
 
 | Âge (mois)  | 30 kg | 35 kg | 40 kg |
 |:-----------:|:-----:|:-----:|:-----:|
@@ -28,11 +28,27 @@ Je n'ai donc eu d'autre choix qu'en appeler à la Mathématique pour interpoler 
 
 C'est là, évidemment, que je suis tombé de ma chaise ergonomique.
 
-## Discontinuité nocturne
-Le toutou de ma fille aura 6 mois le 25 mai. Comment son système digestif est-il sensé passer de 289 grammes le 24 à 508 grammes le lendemain ? Quel miracle le producteur de croquettes prévoit-il dans l'anatomie de mon toutou la nuit de son sixième mois pour qu'il puisse encaisser une hausse brutale de sa ration journalière[^1] sans passer la totalité du lendemain dans la litière du chat[^2] ?
+![Escalier](/img/notes/croquettes-staircase-fr.png)
 
-M'opposant fermement à la soufrance digestive des animaux dont j'ai la garde, et dont, par conséquent, je ramasse les crottes sous peine d'amende, je n'ai eu d'autre choix qu'en appeler une nouvelle fois à la Mathématique.
+## Les escaliers nuisent à la santé des chiots[^0]
+Le toutou aura six mois le 25 mai. Comment son système digestif peut-il passer de 289 grammes de nourriture le 24 à 508 grammes le lendemain ? Quel miracle anatomique le producteur de croquettes prévoit-il la nuit du sixième mois pour que la pauvre créature puisse encaisser une hausse de +76% de sa ration journalière sans passer la totalité du lendemain dans la litière du chat[^2] ?
 
-[^1]: Hausse de +76%
+Autre question: quel est l'intérêt de réduire la quantité de 508 grammes à 476 grammes au huitième mois, après seulement 2 mois à ce régime ? Cette baisse de 32 grammes ne représente que 6.7% du total. Cet ajustement est suspicieusement précis en regard de l'incertitude pesant sur le poids estimé du chiot une fois adulte[^4].
+
+Pire: si le fabricant de croquettes juge important de distinguer ces 2 mois à 6.7% de plus que la suite, pourquoi n'existe-t-il aucune distinction entre le deuxième et le sixième mois ? Je m'attendrais à ce que les besoins d'un chiot de cinq mois diffèrent significativement de ceux d'un chiot de deux mois.
+
+Ainsi, m'opposant fermement à la souffrance digestive des animaux dont j'ai la garde, et dont, par conséquent, je ramasse les crottes sous peine d'amende, j'ai dû me résoudre une nouvelle fois à en appeler à la Mathématique pour imaginer une alternative lissé au régime en escalier:
+
+![Linéraire](/img/notes/croquettes-linear-fr.png)
+
+En comparaison du régime précédent (en escalier), le régime lisse nourrit davantage le chiot jusqu'au sixième mois et beaucoup moins à partir du huitième, comme le montre le profil des régimes ci-dessous:
+
+![Comparatif](/img/notes/croquettes-integral-fr.png)
+
+Choisir entre les deux régimes n'est donc pas du tout anodin. Tout cela me donne très envie d'appeler le fabricant de croquettes pour tirer cette affaire au clair et probablement obtenir la tête de leur directeur scientifique[^5].
+
+[^0]: Source: [RSPCA](/doc/Safe_puppy_activities.pdf)
 [^2]: Car comme tout ami des animaux qui se respecte, nous avons aussi un chat.
 [^3]: I sometimes feel like I am exactly what one would expect [from years of government training](https://www.youtube.com/watch?v=THe_hlNE3yI&t=321s).
+[^4]: À titre de comparaison, 6.7% &times; 35kg = 2.35kg. La prédiction de notre vétérinaire n'est pas aussi précise.
+[^5]: C.f. l'épidémie de constipation prédite plus haut.
