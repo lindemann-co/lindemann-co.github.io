@@ -20,7 +20,7 @@ It all started when our veterinarian informed us that my daughter's puppy would 
 
 As expected in such cases, the QR code displayed next to the table to access online help leads to a very nice error page:
 
-![404 Error](/img/notes/croquettes-404-fr.png)
+![404 Error](/img/notes/croquettes-404-en.png)
 
 Left to my own devices, I had no choice but to carefully examine the values in the table and manually interpolate the amount of food needed daily for the puppy's proper growth:
 
