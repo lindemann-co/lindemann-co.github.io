@@ -49,7 +49,7 @@ En comparaison du régime précédent (en escalier), le régime lisse nourrit da
 
 ![Comparatif](/img/notes/croquettes-integral-fr.png)
 
-Choisir entre les deux régimes n'est donc pas du tout anodin. Tout cela me donne très envie d'appeler le fabricant de croquettes pour tirer cette affaire au clair et probablement obtenir la tête de leur directeur scientifique[^5].
+Choisir entre les deux régimes n'est donc pas du tout anodin. Tout cela me donne très envie d'appeler le fabricant de croquettes pour tirer cette affaire au clair et probablement obtenir la tête de leur responsable packaging[^5].
 
 ## Mise à jour
 J'ai finalement trouvé les données complètes sur le site du fabricant de croquettes[^6].
