@@ -59,6 +59,8 @@ Si elles ne correspondent pas exactement au régime lissé, elles s'en approchen
 
 J'espère sincèrement que les propriétaires de chiens pensent à calculer les valeurs intermédiaires lissées comme je l'ai fait et ne suivent pas les valeurs indiquées au dos de l'emballage aveuglément. Je l'espère mais j'en doute.
 
+Si un employé de la marque lit cette note, je l'encourage à ajouter des données intermédiaires pour les mois 3, 4, 5 puis 9, 10, 11 dans le tableau au dos du sac.
+
 [^0]: Source: [RSPCA](/doc/Safe_puppy_activities.pdf)
 [^2]: Car comme tout ami des animaux qui se respecte, nous avons aussi un chat.
 [^3]: I sometimes feel like I am exactly what one would expect [from years of government training](https://www.youtube.com/watch?v=THe_hlNE3yI&t=321s).
