@@ -9,6 +9,8 @@ tags:
   - quotes
 ---
 
+![Quotation marks](/img/notes/quotes.png)
+
 Collecting quotes is one of my guilty pleasures.
 
 The only criterion for a sentence to find its place in the list below is to make me think. The bar to pass is usually quite low.

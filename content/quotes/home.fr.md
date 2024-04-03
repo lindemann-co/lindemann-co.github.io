@@ -9,7 +9,7 @@ tags:
   - citations
 ---
 
-![Guillemets](/img/quotes.png)
+![Guillemets](/img/notes/quotes.png)
 
 La collecte de citations est l'un de mes plaisirs coupables.
 
