@@ -19,7 +19,7 @@ Tout a commencé lorsque notre vétérinaire nous a annoncé que le toutou de ma
 
 Comme il faut s'y attendre en pareil cas, le QR code affiché à coté du tableau pour accéder à l'aide en ligne dirige vers une très jolie page d'erreur:
 
-![Erreur 404](/img/notes/croquettes-404.png)
+![Erreur 404](/img/notes/croquettes-404-fr.png)
 
 Livré à moi-même, je n'ai donc eu d'autre choix que regarder en détails les valeurs du tableau pour interpoler à la main la quantité de croquettes nécessaire quotidiennement à la bonne croissance du petit:
 
