@@ -17,11 +17,11 @@ Tout a commencé lorsque notre vétérinaire nous a annoncé que le toutou de ma
 
 ![Tableau de croquettes](/img/notes/croquettes-table.png)
 
-Comme il faut s'y attendre en pareil cas, le QR code affiché à coté du tableau au dos du sac dirige vers une très jolie page d'erreur:
+Comme il faut s'y attendre en pareil cas, le QR code affiché à coté du tableau pour accéder à l'aide en ligne dirige vers une très jolie page d'erreur:
 
 ![Erreur 404](/img/notes/croquettes-404.png)
 
-Livré à moi-même, je n'ai donc eu d'autre choix que regarder en détails les valeurs du tableau pour en appeler à la Mathématique et interpoler la quantité de croquettes nécessaire quotidiennement à la bonne croissance du petit:
+Livré à moi-même, je n'ai donc eu d'autre choix que regarder en détails les valeurs du tableau pour interpoler à la main la quantité de croquettes nécessaire quotidiennement à la bonne croissance du petit:
 
 | Âge (mois)  | 30 kg | 35 kg | 40 kg |
 |:-----------:|:-----:|:-----:|:-----:|
@@ -34,30 +34,29 @@ C'est là, évidemment, que je suis tombé de ma chaise ergonomique.
 
 ![Escalier](/img/notes/croquettes-staircase-fr.png)
 
-## Les escaliers nuisent à la santé des chiots[^0]
+## Attention à la marche[^0]
 Le toutou aura six mois le 25 mai. Comment son système digestif peut-il passer de 289 grammes de nourriture le 24 à 508 grammes le lendemain ? Quel miracle anatomique le producteur de croquettes prévoit-il la nuit du sixième mois pour que la pauvre créature puisse encaisser une hausse de +76% de sa ration journalière sans passer la totalité du lendemain dans la litière du chat[^2] ?
 
 Autre question: quel est l'intérêt de réduire la quantité de 508 grammes à 476 grammes au huitième mois, après seulement 2 mois à ce régime ? Cette baisse de 32 grammes ne représente que 6.7% du total. Cet ajustement est suspicieusement précis en regard de l'incertitude pesant sur le poids estimé du chiot une fois adulte[^4].
 
-Pire: si le fabricant de croquettes juge important de distinguer ces 2 mois à 6.7% de plus que la suite, pourquoi n'existe-t-il aucune étape intermédiaire entre le deuxième et le sixième mois ? Je m'attendrais à ce que les besoins d'un chiot de cinq mois diffèrent significativement de ceux d'un chiot de deux mois.
+Enfin, si le fabricant de croquettes juge important de distinguer ces 2 mois à 6.7% de plus que la suite, pourquoi n'existe-t-il aucune étape intermédiaire entre le deuxième et le sixième mois ? Je m'attendrais à ce que les besoins d'un chiot de cinq mois diffèrent significativement de ceux d'un chiot de deux mois.
 
-Ainsi, m'opposant fermement à la souffrance digestive des animaux dont j'ai la garde, et dont, par conséquent, je ramasse les crottes sous peine d'amende, j'ai dû me résoudre une nouvelle fois à en appeler à la Mathématique pour imaginer une alternative lisse au régime en escalier:
+Ainsi, m'opposant fermement à la souffrance digestive des animaux dont j'ai la garde, et dont, par conséquent, je ramasse les crottes sous peine d'amende, j'ai dû me résoudre une nouvelle fois à me lancer dans des calculs pour produire une alternative lisse au régime en escalier:
 
 ![Linéraire](/img/notes/croquettes-linear-fr.png)
 
-En comparaison du régime précédent (en escalier), le régime lisse nourrit davantage le chiot jusqu'au sixième mois et beaucoup moins à partir du huitième, comme le montre le profil des régimes ci-dessous:
+En comparaison du régime en escalier, le régime lisse nourrit davantage le chiot jusqu'au sixième mois et beaucoup moins à partir du huitième, comme le montre le profil des régimes ci-dessous:
 
 ![Comparatif](/img/notes/croquettes-integral-fr.png)
 
 Choisir entre les deux régimes n'est donc pas du tout anodin. Tout cela me donne très envie d'appeler le fabricant de croquettes pour tirer cette affaire au clair et probablement obtenir la tête de leur responsable packaging[^5].
 
 ## Mise à jour
-J'ai finalement trouvé les données complètes sur le site du fabricant de croquettes[^6].
-Si elles ne correspondent pas exactement au régime lissé, elles s'en approchent suffisamment pour me convaincre de continuer à l'utiliser.
+J'ai finalement trouvé les données détaillées sur le site du fabricant[^6]. Si les valeurs ne correspondent pas exactement au régime lissé, elles s'en approchent suffisamment pour me convaincre de continuer à l'utiliser.
 
 ![Conclusion](/img/notes/croquettes-vs-royal-canin-fr.png)
 
-J'espère sincèrement que les propriétaires de chiens pensent à calculer les valeurs intermédiaires lissées comme je l'ai fait et ne suivent pas les valeurs indiquées au dos de l'emballage aveuglément. Je l'espère mais j'en doute.
+J'espère sincèrement que les propriétaires de chiens pensent à calculer les valeurs intermédiaires lissées comme je l'ai fait et ne suivent pas aveuglément les valeurs indiquées au dos de l'emballage.
 
 Si un employé de la marque lit cette note, je l'encourage à ajouter des données intermédiaires pour les mois 3, 4, 5 puis 9, 10, 11 dans le tableau au dos du sac.
 
