@@ -27,13 +27,17 @@ J'ai également vécu et travaillé en France, au Vietnam, en Malaisie et aux É
 Je travaille à distance ou avec des équipes réparties sur plusieurs créneaux horaires depuis plus de 15 ans.
 
 ## Quoi
-Quand je n'enseigne pas à mes enfants à utiliser un pistolet à colle, j'essaye de rendre des organisations d'ingénierie logicielle meilleures, quitte à d'abord les remettre d'aplomb si les circonstances l'exigent.
+Quand je n'enseigne pas à mes enfants à utiliser un pistolet à colle, j'essaye de rendre des organisations tech meilleures.
 
 Si vous souhaitez en savoir plus sur mon expérience, jetez un oeil à mon profil [LinkedIn](../cv).
 
 Si vous souhaitez prendre contact, vous pouvez le faire via [LinkedIn](../cv) ou en réservant un créneau dans mon [calendrier](../cal) pour un appel de vive voix.
 
+Enfin, je maintiens également un site consacré à l'hyper-sensibilité à la lumière[^1], qui m'affecte depuis 2023.
+
 ## Pourquoi
 > It would be disingenuous of us to disguise the fact that the principal motive which prompted the work was the sheer fun of the thing.
 >
 > Alan Turing
+
+[^1]: https://hypsen.org/fr/

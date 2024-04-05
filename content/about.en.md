@@ -35,8 +35,12 @@ If you want to know more about my experience, take a look at my [LinkedIn profil
 
 I’ll also be happy to talk with you about your projects, especially if they involve interesting challenges.
 
+Finally, I also maintain a website dedicated to hyper-sensitivity to light[^1], which I suffer from since 2023.
+
 ## Why
 
 > It would be disingenuous of us to disguise the fact that the principal motive which prompted the work was the sheer fun of the thing.
 >
 > Alan Turing
+
+[^1]: https://hypsen.org/en/
