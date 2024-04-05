@@ -51,7 +51,7 @@ En comparaison du régime en escalier, le régime lisse nourrit davantage le chi
 
 Choisir entre les deux régimes n'est donc pas du tout anodin. Tout cela me donne très envie d'appeler le fabricant de croquettes pour tirer cette affaire au clair et probablement obtenir la tête de leur responsable packaging[^5].
 
-## Mise à jour
+## Mise à jour [1/2]
 J'ai finalement trouvé les données détaillées sur le site du fabricant[^6]. Si les valeurs ne correspondent pas exactement au régime lissé, elles s'en approchent suffisamment pour me convaincre de continuer à l'utiliser.
 
 ![Conclusion](/img/notes/croquettes-vs-royal-canin-fr.png)
@@ -59,6 +59,9 @@ J'ai finalement trouvé les données détaillées sur le site du fabricant[^6]. 
 J'espère sincèrement que les propriétaires de chiens pensent à calculer les valeurs intermédiaires lissées comme je l'ai fait et ne suivent pas aveuglément les valeurs indiquées au dos de l'emballage.
 
 Si un(e) employé(e) de la marque lit cette note, je l'encourage à ajouter des données intermédiaires pour les mois 3, 4, 5 puis 9, 10, 11 dans le tableau au dos du sac.
+
+## Mise à jour [2/2]
+J'ai contacté le fabricant. Affaire à suivre.
 
 [^0]: Source: [RSPCA](/doc/Safe_puppy_activities.pdf)
 [^2]: Car comme tout ami des animaux qui se respecte, nous avons aussi un chat.

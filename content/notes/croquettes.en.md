@@ -52,7 +52,7 @@ Compared to the stair-step diet, the smooth diet feeds the puppy more until the 
 
 Choosing between the two diets is therefore not trivial at all. All of this makes me really want to call the dog food manufacturer to sort this out and probably get the head of their packaging manager[^5].
 
-## Update
+## Update [1/2]
 I finally found detailed data on the manufacturer's website[^6]. While the values don't exactly match the smoothed diet, they are close enough to convince me to continue using it.
 
 ![Conclusion](/img/notes/croquettes-vs-royal-canin-en.png)
@@ -60,6 +60,9 @@ I finally found detailed data on the manufacturer's website[^6]. While the value
 I hope that dog owners are comfortable calculating smoothed intermediate values as I have done and do not blindly follow the values ​​indicated on the packaging.
 
 If an employee of the brand reads this note, I encourage them to add intermediate data for months 3, 4, 5, and then 9, 10, 11 in the table on the back of the bag.
+
+## Update [2/2]
+I reached out to the brand. Stay tuned.
 
 [^0]: Source: [RSPCA](/doc/Safe_puppy_activities.pdf)
 [^2]: Because like any respectable animal lover, we also have a cat.
