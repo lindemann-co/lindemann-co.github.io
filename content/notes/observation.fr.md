@@ -1,5 +1,5 @@
 ---
-title: "De l'observation"
+title: "De l'Observation"
 slug: "observation"
 date: 2024-03-30
 draft: false

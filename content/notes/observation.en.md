@@ -1,5 +1,5 @@
 ---
-title: "About observation"
+title: "About Observation"
 slug: "observation"
 date: 2024-03-30
 draft: false

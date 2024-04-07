@@ -1,5 +1,5 @@
 ---
-title: "Data science canine"
+title: "Data Science Canine"
 slug: "data-science-canine"
 date: 2024-04-03
 draft: false
