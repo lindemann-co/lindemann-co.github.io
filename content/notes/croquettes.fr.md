@@ -35,7 +35,7 @@ C'est là, évidemment, que je suis tombé de ma chaise ergonomique.
 ![Escalier](/img/notes/croquettes-staircase-fr.png)
 
 ## Attention à la marche[^0]
-Le toutou aura six mois le 25 mai. Comment son système digestif peut-il passer de 289 grammes de nourriture le 24 à 508 grammes le lendemain ? Quel miracle anatomique le producteur de croquettes prévoit-il la nuit du sixième mois pour que la pauvre créature puisse encaisser une hausse de +76% de sa ration journalière sans passer la totalité du lendemain dans la litière du chat[^2] ?
+Le toutou aura six mois le 25 mai. Comment son système digestif pourra-il passer de 289 grammes de nourriture le 24 à 508 grammes le lendemain ? Quel miracle anatomique le producteur de croquettes prévoit-il la nuit du sixième mois pour que la pauvre créature puisse encaisser une hausse de +76% de sa ration journalière sans passer la totalité du lendemain dans la litière du chat[^2] ?
 
 Autre question: quel est l'intérêt de réduire la quantité de 508 grammes à 476 grammes au huitième mois, après seulement 2 mois à ce régime ? Cette baisse de 32 grammes ne représente que 6.7% du total. Cet ajustement est suspicieusement précis en regard de l'incertitude pesant sur le poids estimé du chiot une fois adulte[^4].
 
