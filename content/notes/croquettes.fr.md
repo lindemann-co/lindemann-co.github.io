@@ -15,7 +15,7 @@ J'ai longtemps cru que le diplôme d'ingénieur obtenu au sommet de ma gloire in
 ## Croquettes et régression linéaire
 Tout a commencé lorsque notre vétérinaire nous a annoncé que le toutou de ma fille ferait environ 35kg à l'âge adulte. Or, le sac de croquettes dudit toutou n'indique les valeurs que pour les quadrupèdes de 30kg ou 40kg:
 
-![Tableau de croquettes](/img/notes/croquettes-table.png)
+![Tableau de croquettes](/img/notes/croquettes.png)
 
 Comme il faut s'y attendre en pareil cas, le QR code affiché à coté du tableau pour accéder à l'aide en ligne dirige vers une très jolie page d'erreur:
 
