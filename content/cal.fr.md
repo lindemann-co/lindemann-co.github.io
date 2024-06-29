@@ -1,13 +1,13 @@
 ---
 title: "Calendrier"
 slug: "cal"
-date: 2023-08-06
+date: 2024-06-29
 draft: false
 toc: false
 tags:
   - pro
 ---
 
-J'utilise Microsoft Bookings pour partager l'accès sécurisé à mon calendrier.
+J'utilise Calendly pour partager l'accès sécurisé à mon calendrier.
 
-Pour y accéder, [cliquez ici](https://outlook.office.com/bookwithme/user/7becf111b8a74c04a677e07ee96ca721%40lindemann.co?anonymous).
+Ouvrez [https://calendly.com/mathieu_lindemann](https://calendly.com/mathieu_lindemann/) pour voir mes disponibilités et planifier un appel.

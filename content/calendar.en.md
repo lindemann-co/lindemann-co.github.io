@@ -6,6 +6,6 @@ draft: false
 toc: false
 ---
 
-I use Microsoft Bookings to give secure access to my calendar.
+I use Calendly to give secure access to my calendar.
 
-Click [here](https://outlook.office.com/bookwithme/user/7becf111b8a74c04a677e07ee96ca721%40lindemann.co?anonymous) to open it and book a call.
+Open [https://calendly.com/mathieu_lindemann/](https://calendly.com/mathieu_lindemann/) to access it and book a call.
