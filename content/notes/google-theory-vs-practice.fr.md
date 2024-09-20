@@ -11,7 +11,7 @@ tags:
   - google
 ---
 
-Lorsque je dirigeais des équipes et des projets pour Google et que je discutais avec des amis à la tête de startups dans le domaine de la tech, la quasi totalité d'entre eux imaginaient le géant de Moutain View opérer à un niveau d'excellence technique et organisationnelle sans rapport avec ce que mes collègues et moi-même constations au quotidien.
+Lorsque je dirigeais des équipes et des projets pour Google et que je discutais avec des amis à la tête de startups dans le domaine de la tech, la quasi totalité d'entre eux imaginaient le géant de Moutain View opérer à un niveau d'excellence technique et organisationnelle sans rapport avec ce que je constatais au quotidien.
 
 J'espère donc que cette note soulagera ingénieurs, managers et entrepreneurs de certains de leurs complexes.
 
