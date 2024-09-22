@@ -1,6 +1,6 @@
 ---
-title: "Lectures Que Je Recommande"
-slug: "lectures-recommandées"
+title: "Inspirations"
+slug: "inspirations"
 date: 2023-10-10
 draft: false
 toc: false
@@ -11,7 +11,7 @@ tags:
 
 Il y a peu de chance que ce site vous illumine de savoirs intemporels, éblouissants et universels que son auteur, parlant de lui à la troisième personne parce que ça sonne mieux, aurait acquis au cours d'une vie riche et remarquable.
 
-Au contraire, l'essentiel des boussoles qui guident le sus-dit auteur proviennent de savoirs partagés par d'autres, oralement ou écritement, et dont les sources sont tellement publiques qu'elles sont indiquées ci-après.
+Au contraire, l'essentiel des boussoles qui guident le sus-dit auteur proviennent d'idées émises par d'autres, oralement ou écritement, et dont les sources sont tellement publiques qu'elles sont indiquées ci-après.
 
 Notes:
 1. La liste ci-dessous contient aussi bien des sources en anglais qu'en français.
@@ -53,3 +53,17 @@ Exemple: [Le 1 à 1: le meilleur outil du management](https://podcast.ausha.co/o
 Bill Walsh is a legendary coach who transformed the San Francisco 49ers from the worst franchise in NFL to a lasting dynasty. In this book, Walsh emphasizes organizational ethics, a high standard of performance, and the role of leader as teacher.
 
 Exemple: "Good talent with bad attitude equals bad talent."
+
+## &#128366; &nbsp; [Conversations Cruciales](https://www.amazon.fr/Conversations-Cruciales-savoir-oser-choses-ebook/dp/B01INYAXM4)
+
+Ce livre m'a été recommandé par ami Googler[^1]. Il vous explique comment : Préparer et mener une conversation à enjeu ; Apporter la réponse adaptée quand surgit une discussion impromptue ; Ne plus battre en retrait quand la conversation s'annonce épineuse ; S'affirmer avec respect et encourager le dialogue ; Trouver un accord quand les opinions sont opposées. Bref, régler les problèmes qui vous empoisonnent tout en faisant grandir vos relations !
+
+Exemple: Crucial conversations may happen at three levels: instance, pattern, relationship. Pick the level you want to fix in priority.
+
+## &#128366; &nbsp; [The Culture Map](https://www.amazon.fr/Culture-Map-INTL-ED-Decoding-ebook/dp/B06XCJ125R)
+
+In The Culture Map, INSEAD professor Erin Meyer is your guide through this subtle, sometimes treacherous terrain in which people from starkly different backgrounds are expected to work harmoniously together. She provides a field-tested model for decoding how cultural differences impact international business, and combines a smart analytical framework with practical, actionable advice.
+
+Exemple: Low context vs High context cultures [[wikipedia](https://en.wikipedia.org/wiki/High-context_and_low-context_cultures)].
+
+[^1]: Ivan Koblik: profil [LinkedIn](https://www.linkedin.com/in/ikoblik/) et [podcasts favoris](https://podyssey.fm/ikoblik)
