@@ -48,7 +48,7 @@ Exemple: [Tech Lead Management roles are a trap.](https://lethain.com/tech-lead-
 
 Exemple: [Le 1 à 1: le meilleur outil du management](https://podcast.ausha.co/outils-du-manager/le-1-a-1-le-meilleur-outil-de-management).
 
-## &#128366; &nbsp; [The Score Takes Care of Itself](https://www.penguinrandomhouse.com/books/303810/the-score-takes-care-of-itself-by-bill-walsh-with-steve-jamison-and-craig-walsh/) &nbsp; by Bill Walsh
+## &#128366; &nbsp; [The Score Takes Care of Itself](https://www.penguinrandomhouse.com/books/303810/the-score-takes-care-of-itself-by-bill-walsh-with-steve-jamison-and-craig-walsh/)
 
 Bill Walsh is a legendary coach who transformed the San Francisco 49ers from the worst franchise in NFL to a lasting dynasty. In this book, Walsh emphasizes organizational ethics, a high standard of performance, and the role of leader as teacher.
 
