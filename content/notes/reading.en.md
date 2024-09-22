@@ -57,7 +57,7 @@ Example: "Good talent with bad attitude equals bad talent."
 
 This book was recommended to me by a fellow Googler[^1]. It explains how to: Prepare and conduct a high-stakes conversation; Give the appropriate response when an impromptu discussion arises; Stop backing down when a conversation becomes tricky; Assert yourself with respect and encourage dialogue; Find agreement when opinions differ. In short, resolve problems that poison your relationships while making them grow!
 
-Example: Crucial conversations may happen at three levels: instance, pattern, relationship. Pick the level you want to prioritize for fixing.
+Example: Crucial conversations may happen at three levels: instance, pattern, relationship. Pick the level you want to fix in priority.
 
 ## &#128366; &nbsp; [The Culture Map](https://www.amazon.com/Culture-Map-INTL-ED-Decoding-ebook/dp/B06XCJ125R)
 
