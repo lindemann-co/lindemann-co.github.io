@@ -10,7 +10,7 @@ tags:
   - observation
 ---    
 
-Many years ago, in my little [notebook of quotes](../../quotes/home), I paired two thoughts by Charles Péguy and Michel Foucault, both dedicated to observation, which I have copied below.
+Many years ago, in my little [book of quotes](../../quotes/all), I paired two thoughts by Charles Péguy and Michel Foucault, both dedicated to observation, which I have copied below.
 
 > You must always say what you see: but above all, what is more difficult, you must always see what you see.
 >
