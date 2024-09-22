@@ -105,7 +105,7 @@ Certaines citations sont disponibles avec mes commentaires [ici](../../tags/cita
 
 > Il faut toujours dire ce que l'on voit : surtout il faut toujours, ce qui est plus difficile, voir ce que l'on voit.
 >
-> Charles Peggy
+> Charles Péguy
 
 
 > La perversion de la cité commence par la fraude des mots.

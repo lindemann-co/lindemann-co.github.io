@@ -107,7 +107,7 @@ Some quotes with my comments can be found [here](../../tags/quotes/).
 
 > Il faut toujours dire ce que l'on voit : surtout il faut toujours, ce qui est plus difficile, voir ce que l'on voit.
 >
-> Charles Peggy
+> Charles Péguy
 
 
 > Perverting the city begins with perverting the words.
