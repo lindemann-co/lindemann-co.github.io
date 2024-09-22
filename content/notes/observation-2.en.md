@@ -22,7 +22,7 @@ Many years ago, in my little [notebook of quotes](../../quotes/home), I paired t
 
 Unfortunately, over these years, I felt that I was missing a link to fully illuminate my own thoughts on the subject.
 
-I did not entirely understand why these texts resonated so deeply with me. They weren’t as "actionable" as I would have liked.
+I did not entirely understand why these texts resonated so deeply with me but weren’t as "actionable" as I would have liked.
 
 But today, a thought by Viktor Shklovsky, which had also been sitting in my notebook of quotes for years, but in a completely different section, suddenly imposed itself as the link I was seeking:
 

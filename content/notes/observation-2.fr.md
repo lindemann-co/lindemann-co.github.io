@@ -22,7 +22,7 @@ J'ai associé, il y a bien des années de cela, dans mon petit [carnet de citati
 
 Malheureusement, pendant ces années, je sentais qu'un maillon me manquait pour éclairer pleinement la chaîne de ma propre pensée sur le sujet.
 
-Je ne comprenais pas entièrement pourquoi ces textes m'interpellaient aussi profondément. Ils n'étaient pas aussi "actionables" que je l'aurais voulu.
+Je ne comprenais pas pourquoi ces textes qui m'interpellaient profondément n'étaient pas aussi "actionables" que je l'aurais voulu.
 
 Or voici qu'aujourd'hui, une pensée de Victor Chkloski, qui traînait elle aussi depuis des années dans mon carnet de citations, mais dans une tout autre section, s'est imposée d'elle-même comme le lien que je cherchais:
 
