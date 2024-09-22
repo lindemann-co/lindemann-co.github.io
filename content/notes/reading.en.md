@@ -9,12 +9,11 @@ tags:
   - reading
 ---
 
-There is little chance that this site will enlighten you with timeless, dazzling, and universal knowledge that its author, speaking of himself in the third person because it sounds nice, would have acquired over the course of a rich and remarkable life.
+Don't expect this site to enlighten you with timeless and dazzling knowledge that its author, speaking of himself in the third person because it sounds nice, would have acquired over the course of their rich and remarkable life.
 
-On the contrary, most of the guiding compasses used by the aforementioned author are ideas expressed by others, either orally or in writing, whose sources are so publicly available that they are listed below.
+On the contrary, most of the guiding compasses used by the aforementioned author were originally expressed by others, either orally or in writing, and are so publicly available that they are listed below.
 
 Notes:
-1. The list below contains sources in both English and French.
 1. The descriptions are taken from the publications themselves.
 1. Each source is illustrated with an example of content that particularly interested the author of these lines.
 
@@ -66,5 +65,5 @@ In The Culture Map, INSEAD professor Erin Meyer is your guide through this subtl
 
 Example: Low context vs High context cultures [[wikipedia](https://en.wikipedia.org/wiki/High-context_and_low-context_cultures)].
 
-[^2]: I have listened to the French version of the podcast, not the English one.
+[^2]: As a native French speaker, I have not listened to the English version but to the French one.
 [^1]: Ivan Koblik: his [LinkedIn profile](https://www.linkedin.com/in/ikoblik/) and [favorite podcasts](https://podyssey.fm/ikoblik)
