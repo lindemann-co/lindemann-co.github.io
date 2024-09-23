@@ -30,4 +30,6 @@ Today, though, a thought by Viktor Shklovsky, which had also been sitting in my 
 > 
 > Viktor Shklovsky (on defamiliarization)
 
+Drawing the line between automated and curious looks.
+
 To see what we see, for Péguy, and to insist on breaking free from our familiarities and looking at the same things differently, for Foucault, is nothing other than observing familiar things as if they were foreign, looking at them with fresh eyes, giving them more than the superficial attention that recognized, familiar things are often limited to. Making the effort to look in order to perceive, not merely to recognize. This is what I now understand from Foucault’s and Péguy’s words, thanks to Shklovsky's. It has taken me years.
