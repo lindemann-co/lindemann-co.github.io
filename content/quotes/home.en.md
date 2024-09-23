@@ -100,16 +100,6 @@ Some quotes with my comments can be found [here](../../tags/quotes/).
 > Nate Silver
 
 
-> La curiosité est un vice qui a été stigmatisé tour à tour par le christianisme, par la philosophie et même par une certaine conception de la science. Curiosité, futilité. Le mot, pourtant me plait ; il évoque le souci; il évoque le soin qu'on prend de ce qui existe et pourrait exister ; un sens aiguisé du réel mais qui ne s'immobilise jamais devant lui ; une promptitude à trouver étrange et singulier ce qui nous entoure ; un certain acharnement à nous défaire de nos familiarités et à regarder autrement les mêmes choses ; une ardeur à saisir ce qui se passe ; une désinvolture à l'égard des hiérarchies traditionnelles entre l'important et l'essentiel. Je rêve d'un âge nouveau de la curiosité.
->
-> Michel Foucault ([Radio France](https://www.radiofrance.fr/franceculture/podcasts/etre-et-savoir/comment-cultiver-la-curiosite-des-enfants-8184549))
-
-
-> Il faut toujours dire ce que l'on voit : surtout il faut toujours, ce qui est plus difficile, voir ce que l'on voit.
->
-> Charles Péguy
-
-
 > Perverting the city begins with perverting the words.
 >
 > Platon
@@ -403,11 +393,6 @@ Some quotes with my comments can be found [here](../../tags/quotes/).
 > Michel Bouquet, aux élèves de son conservatoire
 
 
-> L'automatisme dévore les choses, les vêtements, les meubles, la femme avec qui l'on vit et la crainte de la guerre. [...] Et c'est justement pour rendre la sensation de la vie, pour sentir les objets, pour que la pierre soit de pierre, qu'existe ce qu'on appelle l'art. L'art est fait pour donner la sensation de la chose en tant que chose perçue et non en tant que chose reconnue.
->
-> Victor Chklovski (sur la représentation insolite)
-
-
 > It's not the critic who counts, nor the man who points out how the strong man stumbles, or where the doer of the deeds could have done better. The credit belongs to the man who is actually in the arena; whose face is marred by dust and sweat and blood; who strives valiantly; who errors and comes short again and again; who knows the great enthusiasm, the great devotions and spends himself in a worthy cause; who at least knows in the end the triumph of his achievement, and who at worst, if he fails, at least fails while doing greatly, so that his place shall never be with those cold and timid souls who know neither victory or defeat.
 >
 > Theodore Roosevelt
@@ -535,6 +520,21 @@ Some quotes with my comments can be found [here](../../tags/quotes/).
 
 
 ## Appreciating
+
+> Il faut toujours dire ce que l'on voit : surtout il faut toujours, ce qui est plus difficile, voir ce que l'on voit.
+>
+> Charles Péguy
+
+
+> Automatism devours things [...] And it is precisely to restore the sensation of life, to feel objects, for the stone to be stone, that what we call art exists. Art is made to give the sensation of the thing as perceived, not as recognized.
+>
+> Viktor Shklovsky (on defamiliarization)
+
+
+> La curiosité est un vice qui a été stigmatisé tour à tour par le christianisme, par la philosophie et même par une certaine conception de la science. Curiosité, futilité. Le mot, pourtant me plait ; il évoque le souci; il évoque le soin qu'on prend de ce qui existe et pourrait exister ; un sens aiguisé du réel mais qui ne s'immobilise jamais devant lui ; une promptitude à trouver étrange et singulier ce qui nous entoure ; un certain acharnement à nous défaire de nos familiarités et à regarder autrement les mêmes choses ; une ardeur à saisir ce qui se passe ; une désinvolture à l'égard des hiérarchies traditionnelles entre l'important et l'essentiel. Je rêve d'un âge nouveau de la curiosité.
+>
+> Michel Foucault ([Radio France](https://www.radiofrance.fr/franceculture/podcasts/etre-et-savoir/comment-cultiver-la-curiosite-des-enfants-8184549))
+
 
 > Le corps qui s'incline n'est pas une âme qui s'humilie. Au contraire, elle se grandit à s'accommoder aux autres.
 >
