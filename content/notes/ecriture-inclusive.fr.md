@@ -14,7 +14,7 @@ L'écriture inclusive m'a longtemps laissé de marbre.
 
 Premièrement, ma condition d'homme blanc titulaire d'un diplôme d'ingénieur raisonnablement prestigieux ne me rendait pas particulièrement sensible aux difficultés vécues par les membres de groupes sociaux moins favorisés et historiquement moins bien représentés.
 
-En outre, ma mère étant secrétaire de formation, j'ai été élevé dans le respect dévôt de l'orthographe et des règles de grammaire les plus strictes, lisant religieusement les encycliques émises par l'Académie française, cette joyeuse troupe de septuagénaires[^1] bicornus, vêtus de vert et armés d'épées, sottement convaincus que le cardinal de Richelieu, depuis la Sorbonne où son corps repose en paix[^2] [^3], apprécierait quelque bonne embuscade en milieu forestier pour peu que soient repoussées par delà le Rhin, la Manche ou les Pyrénées les hordes barbares qui méritent d'autant plus de périr par le fil de l'épée qu'elles oublient obstinément d'accorder le participe passé avec le complément d'objet direct lorsque celui-ci est placé avant le verbe.
+En outre, ma mère, ceinture noire neuvième dan en secrétariat, m'a élevé dans le respect dévôt de l'orthographe et des règles de grammaire les plus strictes, lisant religieusement les encycliques émises par l'Académie française, cette joyeuse troupe de septuagénaires[^1] bicornus, vêtus de vert et armés d'épées, probablement convaincus que le cardinal de Richelieu, depuis la Sorbonne où son corps se décompose en paix[^2] [^3], apprécierait quelque bonne embuscade en milieu forestier pour peu que soient repoussées par delà le Rhin, la Manche ou les Pyrénées les hordes barbares qui méritent d'autant plus de périr par le fil de l'épée qu'elles oublient obstinément d'accorder le participe passé avec le complément d'objet direct lorsque celui-ci est placé avant le verbe, alors que ce n'est quand même pas si compliqué et qu'il suffit d'y mettre du sien.
 
 ![Cardinal de Richelieu](/img/notes/richelieu.png)
 
@@ -27,5 +27,5 @@ Voilà donc pourquoi, lorsque mon clavier et ma paresse naturelle me le permette
 
 [^1]: L'Express: [L'Académie française, une institution vieillissante](https://www.lexpress.fr/societe/70-ans-d-age-moyen-l-academie-francaise-une-institution-vieillissante_2177272.html)
 [^2]: https://www.sauvegardeartfrancais.fr/projets/tombeau-du-cardinal-de-richelieu/
-[^3]: On pourrait trouver plus judicieux de laisser des septuagénaires armés veiller sur le corps d'un cardinal mort depuis des siècles et demander à la jeunesse universitaire de faire évoluer la langue française, bien vivante, elle, mais les voix des élites françaises étant impénétrables, il en fut décidé autrement.
+[^3]: Le bon sens commanderait de laisser les septuagénaires armés veiller sur le corps du cardinal mort depuis des siècles et demander à la jeunesse universitaire de faire évoluer la langue française, bien vivante, elle. Heureusement, mais les voix des élites françaises étant impénétrables, il en fut décidé autrement.
 [^4]: https://www.epfl.ch/about/equality/fr/langage-inclusif/
