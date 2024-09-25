@@ -56,7 +56,7 @@ Exemple: "Good talent with bad attitude equals bad talent."
 
 ## &#128366; &nbsp; [Conversations Cruciales](https://www.amazon.fr/Conversations-Cruciales-savoir-oser-choses-ebook/dp/B01INYAXM4)
 
-Ce livre m'a été recommandé par ami Googler[^1]. Il vous explique comment : Préparer et mener une conversation à enjeu ; Apporter la réponse adaptée quand surgit une discussion impromptue ; Ne plus battre en retrait quand la conversation s'annonce épineuse ; S'affirmer avec respect et encourager le dialogue ; Trouver un accord quand les opinions sont opposées. Bref, régler les problèmes qui vous empoisonnent tout en faisant grandir vos relations !
+Ce livre m'a été recommandé par un ami Googler[^1]. Il explique comment : Préparer et mener une conversation à enjeu ; Apporter la réponse adaptée quand surgit une discussion impromptue ; Ne plus battre en retrait quand la conversation s'annonce épineuse ; S'affirmer avec respect et encourager le dialogue ; Trouver un accord quand les opinions sont opposées. Bref, régler les problèmes qui vous empoisonnent tout en faisant grandir vos relations !
 
 Exemple: Crucial conversations may happen at three levels: instance, pattern, relationship. Pick the level you want to fix in priority.
 
