@@ -20,7 +20,7 @@ J'ai associé, il y a bien des années de cela, dans mon petit [carnet de citati
 >
 > Michel Foucault ([Radio France](https://www.radiofrance.fr/franceculture/podcasts/etre-et-savoir/comment-cultiver-la-curiosite-des-enfants-8184549))
 
-Malheureusement, pendant ces années, je sentais qu'un maillon me manquait pour éclairer pleinement la chaîne de ma propre pensée sur le sujet.
+Pendant ces années, pourtant, je sentais qu'un maillon me manquait pour éclairer pleinement la chaîne de ma propre pensée sur le sujet.
 
 Je ne comprenais pas pourquoi ces textes qui m'interpellaient profondément n'étaient pas aussi "actionables" que je l'aurais voulu.
 
