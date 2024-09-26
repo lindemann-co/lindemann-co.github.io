@@ -23,7 +23,7 @@ Au pluriel, déclamais-je, le masculin représente galamment le féminin. Puisqu
 
 Il fallut que je participasse à une formation assez peu engageante sur la diversité, l'éthique et l'inclusion pour que débutât mon repentir sincère. Quand l'organisatrice me demanda de citer quatre grands auteurs français, je vis immédiatement le piège se refermer. Puis-je inclure des femmes ? La prudence n'ordonne-t-elle pas de ne citer que des hommes ? Que conseillerais-je à ma fille si, par vice ou méchanceté, son institutrice lui posait cette question sournoisement ambiguë ? Je dus l'admettre, je lui conseillerais de ne citer que des hommes. Tant pis pour George Sand, Colette et Marie Darrieussecq. Dammit.
 
-Voilà donc pourquoi, désormais, lorsque mon clavier et ma paresse naturelle me le permettent, j'essaye d'appliquer les principes de l'écriture inclusive. Étant pragmatique de naissance et vaudois d'adoption, je me réfère tout naturellement au guide bref, précis et efficace publié par l'École Polytechnique Fédérale de Lausanne[^4]. Que les immortel·les me le pardonnent.
+Voilà donc pourquoi, désormais, lorsque mon clavier et ma paresse naturelle me le permettent, j'essaye d'appliquer les principes de l'écriture inclusive avec la ferveur des nouveaux convertis. Quoique… Je reste évidemment pragmatique de naissance et vaudois d'adoption. Je me réfère donc tout naturellement au guide bref, précis et modéré publié par l'École Polytechnique Fédérale de Lausanne[^4]. Que les extrémistes de tous bords me pardonnent.
 
 
 [^1]: [L'Académie française, une institution vieillissante](https://www.lexpress.fr/societe/70-ans-d-age-moyen-l-academie-francaise-une-institution-vieillissante_2177272.html)
