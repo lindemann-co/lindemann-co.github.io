@@ -59,6 +59,10 @@ The quotes are categorized by theme on a best effort basis.
 
 
 ## Thinking
+> Any fool can know. The point is to understand.
+>
+> Albert Einstein
+
 
 > Without a good question, a good answer has no place to go.
 >
@@ -111,11 +115,6 @@ The quotes are categorized by theme on a best effort basis.
 
 
 > Everybody is a genius. But if you judge a fish by its ability to climb a tree, it will live its whole life believing that it is stupid.
->
-> Albert Einstein
-
-
-> Any fool can know. The point is to understand.
 >
 > Albert Einstein
 
