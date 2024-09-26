@@ -522,7 +522,7 @@ The quotes are categorized by theme on a best effort basis.
 
 > Il faut toujours dire ce que l'on voit : surtout il faut toujours, ce qui est plus difficile, voir ce que l'on voit.
 >
-> Charles Péguy
+> Charles Péguy ([Radio France](https://www.radiofrance.fr/franceculture/peguy-et-ses-cahiers-de-la-quinzaine-4368810))
 
 
 > Automatism devours things [...] And it is precisely to restore the sensation of life, to feel objects, for the stone to be stone, that what we call art exists. Art is made to give the sensation of the thing as perceived, not as recognized.

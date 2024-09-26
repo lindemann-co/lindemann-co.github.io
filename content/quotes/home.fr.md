@@ -536,7 +536,7 @@ Les citations sont classées par thème approximatif.
 
 > Il faut toujours dire ce que l'on voit : surtout il faut toujours, ce qui est plus difficile, voir ce que l'on voit.
 >
-> Charles Péguy
+> Charles Péguy ([Radio France](https://www.radiofrance.fr/franceculture/peguy-et-ses-cahiers-de-la-quinzaine-4368810))
 
 
 > L'automatisme dévore les choses, les vêtements, les meubles, la femme avec qui l'on vit et la crainte de la guerre. [...] Et c'est justement pour rendre la sensation de la vie, pour sentir les objets, pour que la pierre soit de pierre, qu'existe ce qu'on appelle l'art. L'art est fait pour donner la sensation de la chose en tant que chose perçue et non en tant que chose reconnue.

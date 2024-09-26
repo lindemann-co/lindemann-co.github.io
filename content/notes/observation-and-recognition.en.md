@@ -14,7 +14,7 @@ Many years ago, in my little [book of quotes](../../quotes/all), I connected two
 
 > You must always say what you see: but above all, and it is more difficult, you must always see what you see.
 >
-> Charles Péguy
+> Charles Péguy ([Radio France](https://www.radiofrance.fr/franceculture/peguy-et-ses-cahiers-de-la-quinzaine-4368810))
 
 > Curiosity is a vice that has been stigmatized by Christianity, philosophy, and even by a certain conception of science. Curiosity, frivolity. Yet, I like the word; it evokes care; it evokes the attention we give to what exists (...) ; a certain determination to break free from our familiarities and to look at the same things differently (...). I dream of a new age of curiosity.
 >

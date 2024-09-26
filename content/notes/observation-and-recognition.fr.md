@@ -15,7 +15,7 @@ J'ai associé, il y a bien des années de cela, dans mon petit [carnet de citati
 ![Charles Péguy](/img/notes/péguy.jpg)
 > Il faut toujours dire ce que l'on voit : surtout il faut toujours, ce qui est plus difficile, voir ce que l'on voit.
 >
-> Charles Péguy
+> Charles Péguy ([Radio France](https://www.radiofrance.fr/franceculture/peguy-et-ses-cahiers-de-la-quinzaine-4368810))
 
 ![Michel Foucault](/img/notes/foucault.png)
 > La curiosité est un vice qui a été stigmatisé tour à tour par le christianisme, par la philosophie et même par une certaine conception de la science. Curiosité, futilité. Le mot, pourtant me plait ; il évoque le souci; il évoque le soin qu'on prend de ce qui existe (...) ; un certain acharnement à nous défaire de nos familiarités et à regarder autrement les mêmes choses (...). Je rêve d'un âge nouveau de la curiosité.
