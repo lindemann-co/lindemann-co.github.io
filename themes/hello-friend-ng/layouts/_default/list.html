@@ -18,10 +18,10 @@
                             <a href="{{.Permalink}}" class="post-item-inner">
                                 <span class="post-title">{{.Title}}</span>
                                 <span class="post-day">
-                                    {{ if .Site.Params.dateformShort }}
-                                        {{ .Date.Format .Site.Params.dateformShort }}
+                                    {{ if .Language.Params.dateformShort }}
+                                        {{ .Date | time.Format .Language.Params.dateformShort }}
                                     {{ else }}
-                                        {{ .Date.Format "Jan 2"}}
+                                        {{ .Date | time.Format "Jan 2"}}
                                     {{ end }}
                                 </span>
                             </a>

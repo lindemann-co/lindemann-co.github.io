@@ -12,7 +12,7 @@ params:
   author:
     name: Mathieu Lindemann
   dateform: 'Jan 2, 2006'
-  dateformShort: Jan 2
+  dateformShort: 'Jan 2'
   dateformNum: '2006-01-02'
   dateformNumTime: '2006-01-02 15:04'
   enableThemeToggle: true
@@ -46,6 +46,7 @@ languages:
         <a href="https://creativecommons.org/licenses/by-nc/4.0/" target="_blank"
         rel="noopener">CC BY-NC 4.0</a>
       readOtherPosts: Voir les autres pages.
+      dateformShort: '2 January'
       footer:
         trademark: true
         rss: true
@@ -75,6 +76,7 @@ languages:
         <a href="https://creativecommons.org/licenses/by-nc/4.0/" target="_blank"
         rel="noopener">CC BY-NC 4.0</a>
       readOtherPosts: Read other posts
+      dateformShort: 'Jan 2'
       footer:
         trademark: true
         rss: true
