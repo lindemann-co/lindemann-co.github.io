@@ -3,13 +3,13 @@ title: "Quotes • Home"
 slug: "../quotes/all"
 date: 2022-12-31
 draft: false
-toc: false
+toc: true
 images:
 tags:
   - quotes
 ---
 
-![Quotation marks](/img/notes/quotes.png)
+![Quotation marks](/img/notes/schtroumpf-poete.png)
 
 Collecting quotes is one of my guilty pleasures.
 

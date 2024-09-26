@@ -9,7 +9,7 @@ tags:
   - citations
 ---
 
-![Guillemets](/img/notes/quotes.png)
+![Guillemets](/img/notes/schtroumpf-poete.png)
 
 La collecte de citations est l'un de mes plaisirs coupables.
 
