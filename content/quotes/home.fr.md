@@ -546,7 +546,7 @@ Les citations sont classées par thème approximatif.
 
 > La curiosité est un vice qui a été stigmatisé tour à tour par le christianisme, par la philosophie et même par une certaine conception de la science. Curiosité, futilité. Le mot, pourtant me plait ; il évoque le souci; il évoque le soin qu'on prend de ce qui existe et pourrait exister ; un sens aiguisé du réel mais qui ne s'immobilise jamais devant lui ; une promptitude à trouver étrange et singulier ce qui nous entoure ; un certain acharnement à nous défaire de nos familiarités et à regarder autrement les mêmes choses ; une ardeur à saisir ce qui se passe ; une désinvolture à l'égard des hiérarchies traditionnelles entre l'important et l'essentiel. Je rêve d'un âge nouveau de la curiosité.
 >
-> Michel Foucault ([Radio France](https://www.radiofrance.fr/franceculture/podcasts/etre-et-savoir/comment-cultiver-la-curiosite-des-enfants-8184549))
+> Michel Foucault (entretien avec C. Delacampagne, Le Monde, n°10945, 6 avril 1980)
 
 
 > Le corps qui s'incline n'est pas une âme qui s'humilie. Au contraire, elle se grandit à s'accommoder aux autres.

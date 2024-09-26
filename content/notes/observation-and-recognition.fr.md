@@ -20,7 +20,7 @@ J'ai associé, il y a bien des années de cela, dans mon petit [carnet de citati
 ![Michel Foucault](/img/notes/foucault.png)
 > La curiosité est un vice qui a été stigmatisé tour à tour par le christianisme, par la philosophie et même par une certaine conception de la science. Curiosité, futilité. Le mot, pourtant me plait ; il évoque le souci; il évoque le soin qu'on prend de ce qui existe (...) ; un certain acharnement à nous défaire de nos familiarités et à regarder autrement les mêmes choses (...). Je rêve d'un âge nouveau de la curiosité.
 >
-> Michel Foucault ([Radio France](https://www.radiofrance.fr/franceculture/podcasts/etre-et-savoir/comment-cultiver-la-curiosite-des-enfants-8184549))
+> Michel Foucault (entretien avec C. Delacampagne, Le Monde, n°10945, 6 avril 1980)
 
 Pendant ces années, pourtant, je sentais qu'un maillon me manquait pour éclairer pleinement la chaîne de ma propre pensée sur le sujet.
 

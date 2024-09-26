@@ -18,7 +18,7 @@ Many years ago, in my little [book of quotes](../../quotes/all), I connected two
 
 > Curiosity is a vice that has been stigmatized by Christianity, philosophy, and even by a certain conception of science. Curiosity, frivolity. Yet, I like the word; it evokes care; it evokes the attention we give to what exists (...) ; a certain determination to break free from our familiarities and to look at the same things differently (...). I dream of a new age of curiosity.
 >
-> Michel Foucault ([Radio France](https://www.radiofrance.fr/franceculture/podcasts/etre-et-savoir/comment-cultiver-la-curiosite-des-enfants-8184549))
+> Michel Foucault (interview with C. Delacampagne, Le Monde, n°10945, April 6 1980)
 
 Unfortunately, over these years, I felt that I was missing a link to fully illuminate my own thoughts on the subject.
 
