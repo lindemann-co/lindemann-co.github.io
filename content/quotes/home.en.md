@@ -33,7 +33,7 @@ Consequently, the following criteria were **not** taken into account:
 
 The quotes are categorized by theme on a best effort basis.
 
-Some quotes with my comments can be found [here](../../tags/quotes/).
+<!-- Some quotes with my comments can be found [here](../../tags/quotes/). -->
 
 # Quotes
 

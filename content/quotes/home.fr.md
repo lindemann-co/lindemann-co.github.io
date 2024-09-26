@@ -33,7 +33,7 @@ En conséquence, les critères suivants n'ont **pas** été pris en compte :
 
 Les citations sont classées par thème approximatif.
 
-Certaines citations sont disponibles avec mes commentaires [ici](../../tags/citations/).
+<!-- Certaines citations sont disponibles avec mes commentaires [ici](../../tags/citations/). -->
 
 ## Clarifier
 > II y a une très bonne manière d'accroître notre malheur, c'est de se tromper de problème à traiter.
