@@ -28,5 +28,5 @@ Voilà donc pourquoi, désormais, lorsque mon clavier et ma paresse naturelle me
 
 [^1]: [L'Académie française, une institution vieillissante](https://www.lexpress.fr/societe/70-ans-d-age-moyen-l-academie-francaise-une-institution-vieillissante_2177272.html)
 [^2]: Le tombeau de Richelieu sur [sauvegardeartfrancais.fr](https://www.sauvegardeartfrancais.fr/projets/tombeau-du-cardinal-de-richelieu/)
-[^3]: Le sens pratique d'un esprit faible comme le mien commanderait plutôt l'inverse, à savoir laisser les septuagénaires en costume d'apparat veiller sur le corps d'un homme d'église mort depuis des siècles et confier à la jeunesse universitaire la mission exaltante de préparer la langue française pour les décennies à venir. Allez comprendre.
+[^3]: Un esprit faible comme le mien imaginerait plutôt l'inverse, à savoir laisser les septuagénaires en costume d'apparat veiller sur le corps d'un homme d'église mort depuis des siècles et confier à la jeunesse universitaire la mission exaltante de préparer la langue française pour les décennies à venir. Allez comprendre.
 [^4]: Guide de l'EPFL sur le langage inclusif: [www.epfl.ch](https://www.epfl.ch/about/equality/fr/langage-inclusif/)
