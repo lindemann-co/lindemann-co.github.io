@@ -28,7 +28,7 @@ Today, though, a thought by Viktor Shklovsky, which had also been sitting in my 
 
 > Automatism devours things […] And it is precisely to restore the sensation of life, to feel objects, for the stone to be stone, that what we call art exists. Art is made to give the sensation of the thing as perceived, not as recognized.
 > 
-> Viktor Shklovsky (on defamiliarization)
+> Viktor Shklovsky (Art as Device, 1917)
 
 Drawing the line between automated and perceptive looks.
 

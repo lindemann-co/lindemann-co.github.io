@@ -31,7 +31,7 @@ Or voici qu'aujourd'hui, une pensée de Victor Chkloski, qui traînait elle auss
 ![Victor Chklovski](/img/notes/shklovsky.png)
 > L’automatisme dévore les choses […] Et c’est justement pour rendre la sensation de la vie, pour sentir les objets, pour que la pierre soit de pierre, qu’existe ce qu’on appelle l’art. L’art est fait pour donner la sensation de la chose en tant que chose perçue et non en tant que chose reconnue.
 > 
-> Victor Chklovski (sur la représentation insolite)
+> Victor Chklovski (L’art comme procédé, 1917)
 
 Distinguer le regard curieux qui cherche à connaître, du regard automatique qui cherche seulement à reconnaître.
 

@@ -541,7 +541,7 @@ Les citations sont classées par thème approximatif.
 
 > L'automatisme dévore les choses, les vêtements, les meubles, la femme avec qui l'on vit et la crainte de la guerre. [...] Et c'est justement pour rendre la sensation de la vie, pour sentir les objets, pour que la pierre soit de pierre, qu'existe ce qu'on appelle l'art. L'art est fait pour donner la sensation de la chose en tant que chose perçue et non en tant que chose reconnue.
 >
-> Victor Chklovski (sur la représentation insolite)
+> Victor Chklovski (L’art comme procédé, 1917)
 
 
 > La curiosité est un vice qui a été stigmatisé tour à tour par le christianisme, par la philosophie et même par une certaine conception de la science. Curiosité, futilité. Le mot, pourtant me plait ; il évoque le souci; il évoque le soin qu'on prend de ce qui existe et pourrait exister ; un sens aiguisé du réel mais qui ne s'immobilise jamais devant lui ; une promptitude à trouver étrange et singulier ce qui nous entoure ; un certain acharnement à nous défaire de nos familiarités et à regarder autrement les mêmes choses ; une ardeur à saisir ce qui se passe ; une désinvolture à l'égard des hiérarchies traditionnelles entre l'important et l'essentiel. Je rêve d'un âge nouveau de la curiosité.
