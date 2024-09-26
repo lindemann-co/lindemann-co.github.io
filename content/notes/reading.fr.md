@@ -11,11 +11,11 @@ tags:
 
 Il y a peu de chance que ce site vous illumine de savoirs intemporels, éblouissants et universels que son auteur, parlant de lui à la troisième personne parce que ça sonne mieux, aurait acquis au cours d'une vie riche et remarquable.
 
-Au contraire, l'essentiel des boussoles qui guident le sus-dit auteur proviennent d'idées émises par d'autres, oralement ou écritement, et dont les sources sont tellement publiques qu'elles sont indiquées ci-après.
+Au contraire, l'essentiel des boussoles qui guident l'auteur sus-cité proviennent d'idées émises par d'autres, oralement ou écritement, et dont les sources sont tellement publiques qu'elles sont indiquées ci-dessous.
 
 Notes:
-1. La liste ci-dessous contient aussi bien des sources en anglais qu'en français.
-1. Les descriptions sont reprises des publications elles-mêmes. 
+1. La liste qui suit contient aussi bien des sources en anglais qu'en français.
+1. Les descriptions sont souvent paresseusement tirées des publications elles-mêmes. 
 1. Chaque source est illustrée d'un exemple de contenu qui a particulièrement intéressé l'auteur de ces lignes.
 
 ## &#128231; &nbsp; [a16z](https://a16z.com/news-content/) 
