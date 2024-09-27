@@ -84,11 +84,6 @@ En conséquence, les critères suivants n'ont **pas** été pris en compte :
 > The New York Times
 
 
-> May we arise from the ashes of these unpredicted disasters beaten but not bowed, a little more modest about our forecasting abilities, and a little less likely to repeat our mistakes.
->
-> Nate Silver
-
-
 > If you can't explain it simply, then you don't understand it well enough.
 >
 > Albert Einstein
@@ -286,7 +281,7 @@ En conséquence, les critères suivants n'ont **pas** été pris en compte :
 > Dale Carnegie
 
 
-## Persister
+## Persévérer
 ![Schtroumpf costaud](/img/notes/schtroumpf-costaud.png)
 
 > Penelope (...), whose journey is endurance.
@@ -322,6 +317,11 @@ En conséquence, les critères suivants n'ont **pas** été pris en compte :
 > Je ne recherche pas à retrouver le niveau que j'avais avant. Le tennis, c'est un sport difficile dans le sens où il ne faut jamais se baser sur les moments où on a bien joué. Le plus important, c'est ce qu'on fait quand on ne joue pas bien ou qu'on ne se sent pas bien. La majorité des matches, on ne se sent pas très bien. Si on se base sur son meilleur niveau, ou sur les sensations d'une bonne semaine, on ne sera jamais satisfait et on perdra beaucoup de matches qu'on aurait dû gagner. Je me concentre sur le présent, tout simplement.
 >
 > Stan Wawrinka (source: [L'Équipe](https://www.lequipe.fr/Tennis/Actualites/Wawrinka-apres-sa-victoire-a-indian-wells-face-a-rune-j-ai-toujours-voulu-repousser-mes-limites/1385752))
+
+
+> May we arise from the ashes of these unpredicted disasters beaten but not bowed, a little more modest about our forecasting abilities, and a little less likely to repeat our mistakes.
+>
+> Nate Silver
 
 
 ## Créer
