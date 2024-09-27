@@ -1,6 +1,6 @@
 ---
 title: "Welcome"
-slug: "../home"
+slug: "home"
 date: 2023-03-15
 draft: false
 toc: false

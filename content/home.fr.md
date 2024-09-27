@@ -1,6 +1,6 @@
 ---
 title: "Bienvenue"
-slug: "../accueil"
+slug: "accueil"
 date: 2023-03-15
 draft: false
 toc: false
