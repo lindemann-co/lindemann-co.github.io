@@ -29,7 +29,7 @@ Je travaille à distance ou avec des équipes réparties sur plusieurs créneaux
 ## Quoi
 Quand je n'enseigne pas à mes enfants à utiliser un pistolet à colle, j'essaye de rendre des organisations tech meilleures.
 
-Si vous souhaitez en savoir plus sur mon expérience, jetez un oeil à mon profil [LinkedIn](../cv).
+Si vous souhaitez en savoir plus sur mon expérience, jetez un &oelig;il à mon profil [LinkedIn](../cv).
 
 Si vous souhaitez prendre contact, vous pouvez le faire via [LinkedIn](../cv) ou en réservant un créneau dans mon [calendrier](../cal) pour un appel de vive voix.
 
