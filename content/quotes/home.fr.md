@@ -79,16 +79,6 @@ En conséquence, les critères suivants n'ont **pas** été pris en compte :
 > Eugene Lewis Fordsworthe
 
 
-> Action is better than inaction.
->
-> Chris Guillebeau
-
-
-> It's easy to use doubt as a crutch (not to act).
->
-> Moiraine, The Wheel of Time
-
-
 > Thank your moral opponents. Line-crossers need lines to cross.
 >
 > The New York Times
@@ -97,11 +87,6 @@ En conséquence, les critères suivants n'ont **pas** été pris en compte :
 > May we arise from the ashes of these unpredicted disasters beaten but not bowed, a little more modest about our forecasting abilities, and a little less likely to repeat our mistakes.
 >
 > Nate Silver
-
-
-> La perversion de la cité commence par la fraude des mots.
->
-> Platon
 
 
 > If you can't explain it simply, then you don't understand it well enough.
@@ -171,6 +156,16 @@ En conséquence, les critères suivants n'ont **pas** été pris en compte :
 > What drives my big decisions is regret minimization. When I’m 80 and reflecting back, I want to have minimized the number of regrets that I have in my life. And most of our regrets are acts of omission — the things we didn’t try, the paths untraveled. Those are the things that haunt us.
 >
 > Jeff Bezos
+
+
+> Action is better than inaction.
+>
+> Chris Guillebeau
+
+
+> It's easy to use doubt as a crutch (not to act).
+>
+> Moiraine, The Wheel of Time
 
 
 > Pressure is a privilege - it only comes to those who earn it.
@@ -261,9 +256,9 @@ En conséquence, les critères suivants n'ont **pas** été pris en compte :
 > Elon Musk
 
 
-> Je ne recherche pas à retrouver le niveau que j'avais avant. Le tennis, c'est un sport difficile dans le sens où il ne faut jamais se baser sur les moments où on a bien joué. Le plus important, c'est ce qu'on fait quand on ne joue pas bien ou qu'on ne se sent pas bien. La majorité des matches, on ne se sent pas très bien. Si on se base sur son meilleur niveau, ou sur les sensations d'une bonne semaine, on ne sera jamais satisfait et on perdra beaucoup de matches qu'on aurait dû gagner. Je me concentre sur le présent, tout simplement.
+> If you need a machine and you don't buy it, then you will ultimately find that you have paid for it and don't have it.
 >
-> Stan Wawrinka (source: [L'Équipe](https://www.lequipe.fr/Tennis/Actualites/Wawrinka-apres-sa-victoire-a-indian-wells-face-a-rune-j-ai-toujours-voulu-repousser-mes-limites/1385752))
+> Henry Ford
 
 
 > Agir pour comprendre et comprendre pour agir.
@@ -322,6 +317,11 @@ En conséquence, les critères suivants n'ont **pas** été pris en compte :
 > It took me 17 years and 114 days to become an overnight success.
 >
 > Lionel Messi
+
+
+> Je ne recherche pas à retrouver le niveau que j'avais avant. Le tennis, c'est un sport difficile dans le sens où il ne faut jamais se baser sur les moments où on a bien joué. Le plus important, c'est ce qu'on fait quand on ne joue pas bien ou qu'on ne se sent pas bien. La majorité des matches, on ne se sent pas très bien. Si on se base sur son meilleur niveau, ou sur les sensations d'une bonne semaine, on ne sera jamais satisfait et on perdra beaucoup de matches qu'on aurait dû gagner. Je me concentre sur le présent, tout simplement.
+>
+> Stan Wawrinka (source: [L'Équipe](https://www.lequipe.fr/Tennis/Actualites/Wawrinka-apres-sa-victoire-a-indian-wells-face-a-rune-j-ai-toujours-voulu-repousser-mes-limites/1385752))
 
 
 ## Créer
@@ -435,11 +435,6 @@ En conséquence, les critères suivants n'ont **pas** été pris en compte :
 > Bjarne Stroustrup, designer of C++
 
 
-> If you need a machine and you don't buy it, then you will ultimately find that you have paid for it and don't have it.
->
-> Henry Ford
-
-
 > Our goal, our objective, is to create and prevent technological surprise.
 >
 > John Everett, deputy director of DARPA's Information Innovation Office
@@ -465,12 +460,7 @@ En conséquence, les critères suivants n'ont **pas** été pris en compte :
 > Eric Schmidt, on software engineers
 
 
-> On the Internet, nobody can hear you being subtle.
->
-> Linus Torvalds
-
-
-> Certains algorithmes, comme les moteurs de recherche, sont de nouveaux types d’infrastructures, de la même manière que le sont les routes, les chemins de fer, l’eau ou l’électricité. Pourquoi ne pas adopter pour les technologies de l’information l’approche publique que nous avons eu dans le passé concernant les infrastructures traditionnelles ?
+> Certains algorithmes, comme les moteurs de recherche, sont de nouveaux types d’infrastructures, de la même manière que le sont les routes, les chemins de fer, l’eau ou l’électricité. Pourquoi ne pas adopter pour les technologies de l’information l’approche publique que nous avons eue dans le passé concernant les infrastructures traditionnelles ?
 >
 > Evgeni Morozov
 
@@ -489,6 +479,16 @@ En conséquence, les critères suivants n'ont **pas** été pris en compte :
 
 ## Communiquer
 ![Schtroumpf bagarre](/img/notes/schtroumpf-a-lunettes.png)
+
+> La perversion de la cité commence par la fraude des mots.
+>
+> Platon
+
+
+> On the Internet, nobody can hear you being subtle.
+>
+> Linus Torvalds
+
 
 > The single biggest problem with communication is the illusion that it has taken place.
 >
