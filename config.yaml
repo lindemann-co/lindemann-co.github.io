@@ -20,7 +20,6 @@ params:
   homeSubtitle:  <a href="/en/home">English</a> &#x2022; <a href="/fr/accueil">Français</a>
   footer:
     trademark: true
-    rss: false
     copyright: false
     author: true
   logo:
@@ -49,7 +48,7 @@ languages:
       dateformShort: '2 January'
       footer:
         trademark: true
-        rss: true
+        rss: false
         copyright: false
         author: true
         bottomText:
@@ -79,7 +78,7 @@ languages:
       dateformShort: 'Jan 2'
       footer:
         trademark: true
-        rss: true
+        rss: false
         copyright: false
         author: true
         bottomText:
