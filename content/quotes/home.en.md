@@ -37,6 +37,8 @@ The quotes are categorized by theme on a best effort basis.
 
 # Quotes
 
+![Schtroumpf inspecteur](/img/notes/schtroumpf-inspecteur.png)
+
 ## Clarifying
 > II y a une très bonne manière d'accroître notre malheur, c'est de se tromper de problème à traiter.
 >

@@ -29,13 +29,8 @@ En conséquence, les critères suivants n'ont **pas** été pris en compte :
 [^4]: Vampires et super-héros font parfois d'assez bons philosophes.
 [^5]: Des phrases niaises, communes, provocatrices ou mal traduites ont été incluses. Mon goût en matière de réflexions évolue au fil du temps; comprendre ce qui m'intéressait hier dans une citation que j'estime médiocre aujourd'hui est un exercice que je trouve très instructif.
 
-# Citations
-
-Les citations sont classées par thème approximatif.
-
-<!-- Certaines citations sont disponibles avec mes commentaires [ici](../../tags/citations/). -->
-
 ## Clarifier
+![Schtroumpf inspecteur](/img/notes/schtroumpf-inspecteur.png)
 > II y a une très bonne manière d'accroître notre malheur, c'est de se tromper de problème à traiter.
 >
 > Jean-Marc Jancovici
@@ -57,6 +52,7 @@ Les citations sont classées par thème approximatif.
 
 
 ## Penser
+![Schtroumpf penseur](/img/notes/schtroumpf-penseur.png)
 
 > Any fool can know. The point is to understand.
 >
@@ -150,6 +146,8 @@ Les citations sont classées par thème approximatif.
 
 ## Agir
 
+![Schtroumpf course](/img/notes/schtroumpf-course.png)
+
 > Par nature, nous sommes des joueurs et non pas des pions.
 >
 > Daniel H. Pink, in La vérité sur ce qui nous motive
@@ -220,9 +218,8 @@ Les citations sont classées par thème approximatif.
 > Charlie Wardle, [Understanding & Building Confidence](https://www.goodreads.com/work/quotes/42860141-understanding-building-confidence-climb-your-mountain)
 
 
-![Schtroumpf bricoleur](/img/notes/schtroumpf-bricoleur.png)
-
 ## Entreprendre
+![Schtroumpf bricoleur](/img/notes/schtroumpf-bricoleur.png)
 
 > Training is like fighting with a gorilla. You don’t stop when you’re tired. You stop when the gorilla is tired.
 >
@@ -295,6 +292,7 @@ Les citations sont classées par thème approximatif.
 
 
 ## Persister
+![Schtroumpf costaud](/img/notes/schtroumpf-costaud.png)
 
 > Penelope (...), whose journey is endurance.
 >
@@ -326,9 +324,8 @@ Les citations sont classées par thème approximatif.
 > Lionel Messi
 
 
-![Schtroumpf peintre](/img/notes/schtroumpf-peintre.png)
-
 ## Créer
+![Schtroumpf peintre](/img/notes/schtroumpf-peintre.png)
 
 > Fear has no rival.
 >
@@ -421,6 +418,7 @@ Les citations sont classées par thème approximatif.
 
 
 ## Inventer
+![Grand Schtroumpf labo](/img/notes/grand-schtroumpf-labo2.png)
 
 > Computer science is as much about computers as astronomy is about telescopes.
 >
@@ -487,9 +485,10 @@ Les citations sont classées par thème approximatif.
 > Herbert Hoover, US commerce secretary in the 1920s
 
 
-![Schtroumpf déclamant](/img/notes/schtroumpf-lisant.png)
+<!-- ![Schtroumpf déclamant](/img/notes/schtroumpf-lisant.png) -->
 
 ## Communiquer
+![Schtroumpf bagarre](/img/notes/schtroumpf-a-lunettes.png)
 
 > The single biggest problem with communication is the illusion that it has taken place.
 >
@@ -501,9 +500,8 @@ Les citations sont classées par thème approximatif.
 > Terry Pratchett, alt.fan.pratchett
 
 
-![Schtroumpf bagarre](/img/notes/schtroumpf-bagarre.png)
-
 ## Affronter
+![Schtroumpf bagarre](/img/notes/schtroumpf-bagarre.png)
 
 > Never negotiate with an adversary, except from a position of strength.
 >
@@ -541,7 +539,7 @@ Les citations sont classées par thème approximatif.
 
 
 ## Apprécier
-
+![Schtroumpfette sentant une fleur](/img/notes/schtroumpfette-fleur.png)
 > Il faut toujours dire ce que l'on voit : surtout il faut toujours, ce qui est plus difficile, voir ce que l'on voit.
 >
 > Charles Péguy ([Radio France](https://www.radiofrance.fr/franceculture/peguy-et-ses-cahiers-de-la-quinzaine-4368810))
@@ -581,9 +579,8 @@ Les citations sont classées par thème approximatif.
 >
 > Yves Duteil, à propos de son épouse
 
-![Smurf reading a book](/img/notes/schtroumpf-avec-livre.png)
-
 ## Insolite
+![Smurf reading a book](/img/notes/schtroumpf-avec-livre.png)
 
 > Les gens ont le droit d'aimer les hamburgers sans se faire emmerder pour ça.
 >
@@ -646,7 +643,7 @@ Les citations sont classées par thème approximatif.
 
 
 ## Conclusion
-
+![Schtroumpf farceur](/img/notes/schtroumpf-farceur.png)
 > It would be disingenuous of us to disguise the fact that the principal motive which prompted the work was the sheer fun of the thing.
 >
 > Alan Turing
