@@ -20,7 +20,7 @@ params:
   homeSubtitle:  <a href="/en/home">English</a> &#x2022; <a href="/fr/accueil">Français</a>
   footer:
     trademark: true
-    rss: true
+    rss: false
     copyright: false
     author: true
   logo:
