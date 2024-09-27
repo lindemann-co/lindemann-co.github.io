@@ -9,7 +9,7 @@ tags:
   - quotes
 ---
 
-![Quotation marks](/img/notes/schtroumpf-poete.png)
+![Smurf poet](/img/notes/schtroumpf-poete.png)
 
 Collecting quotes is one of my guilty pleasures.
 
@@ -211,6 +211,8 @@ The quotes are categorized by theme on a best effort basis.
 > Charlie Wardle, [Understanding & Building Confidence](https://www.goodreads.com/work/quotes/42860141-understanding-building-confidence-climb-your-mountain)
 
 
+![Schtroumpf bricoleur](/img/notes/schtroumpf-bricoleur.png)
+
 ## Working
 
 > Training is like fighting with a gorilla. You don’t stop when you’re tired. You stop when the gorilla is tired.
@@ -314,6 +316,7 @@ The quotes are categorized by theme on a best effort basis.
 >
 > Lionel Messi
 
+![Smurf paintor](/img/notes/schtroumpf-peintre.png)
 
 ## Creating
 
@@ -469,6 +472,7 @@ The quotes are categorized by theme on a best effort basis.
 > Dive into Python
 
 
+![Smurf acting](/img/notes/schtroumpf-lisant.png)
 ## Communicating
 
 > The single biggest problem with communication is the illusion that it has taken place.
@@ -559,6 +563,8 @@ The quotes are categorized by theme on a best effort basis.
 >
 > Yves Duteil, à propos de son épouse
 
+
+![Smurf reading a book](/img/notes/schtroumpf-avec-livre.png)
 
 ## Insolite
 

@@ -220,6 +220,8 @@ Les citations sont classées par thème approximatif.
 > Charlie Wardle, [Understanding & Building Confidence](https://www.goodreads.com/work/quotes/42860141-understanding-building-confidence-climb-your-mountain)
 
 
+![Schtroumpf bricoleur](/img/notes/schtroumpf-bricoleur.png)
+
 ## Entreprendre
 
 > Training is like fighting with a gorilla. You don’t stop when you’re tired. You stop when the gorilla is tired.
@@ -323,6 +325,8 @@ Les citations sont classées par thème approximatif.
 >
 > Lionel Messi
 
+
+![Schtroumpf peintre](/img/notes/schtroumpf-peintre.png)
 
 ## Créer
 
@@ -483,6 +487,8 @@ Les citations sont classées par thème approximatif.
 > Herbert Hoover, US commerce secretary in the 1920s
 
 
+![Schtroumpf déclamant](/img/notes/schtroumpf-lisant.png)
+
 ## Communiquer
 
 > The single biggest problem with communication is the illusion that it has taken place.
@@ -494,6 +500,8 @@ Les citations sont classées par thème approximatif.
 >
 > Terry Pratchett, alt.fan.pratchett
 
+
+![Schtroumpf bagarre](/img/notes/schtroumpf-bagarre.png)
 
 ## Affronter
 
@@ -573,6 +581,7 @@ Les citations sont classées par thème approximatif.
 >
 > Yves Duteil, à propos de son épouse
 
+![Smurf reading a book](/img/notes/schtroumpf-avec-livre.png)
 
 ## Insolite
 
