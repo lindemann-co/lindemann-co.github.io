@@ -26,7 +26,7 @@ Pendant ces années, pourtant, je sentais qu'un maillon me manquait pour éclair
 
 Je ne comprenais pas pourquoi ces textes qui m'interpellaient profondément n'étaient pas aussi "actionables" que je l'aurais voulu.
 
-Or voici qu'aujourd'hui, une pensée de Victor Chkloski, qui traînait elle aussi depuis des années dans mon carnet de citations, mais dans une tout autre section, s'est imposée d'elle-même comme le lien que je cherchais:
+Or voici qu'aujourd'hui, une citation de Victor Chkloski, qui traînait elle aussi depuis des années dans mon carnet, mais dans une tout autre section, s'est imposée d'elle-même comme le lien que je cherchais:
 
 ![Victor Chklovski](/img/notes/shklovsky.png)
 > L’automatisme dévore les choses […] Et c’est justement pour rendre la sensation de la vie, pour sentir les objets, pour que la pierre soit de pierre, qu’existe ce qu’on appelle l’art. L’art est fait pour donner la sensation de la chose en tant que chose perçue et non en tant que chose reconnue.
