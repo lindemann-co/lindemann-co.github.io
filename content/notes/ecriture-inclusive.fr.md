@@ -12,7 +12,7 @@ tags:
 
 L'écriture inclusive m'a longtemps laissé de marbre.
 
-Premièrement, ma condition d'homme blanc suffisamment diplômé pour faire la fierté de mes parents en général et de ma mère en particulier me rendait regrettablement insensible aux difficultés vécues par les membres de groupes sociaux historiquement sous-représentés et notoirement défavorisés.
+Premièrement, ma condition d'homme blanc suffisamment diplômé pour faire la fierté de mes parents en général et de ma mère en particulier me rendait regrettablement insensible aux difficultés vécues par les membres de groupes sociaux notoirement sous-représentés.
 
 En outre, ma mère ayant voué sa vie au secrétariat et à la dictée de Bernard Pivot, je fus élevé dans la ferveur dévote de l'orthographe et des règles de grammaire les plus strictes, lisant religieusement les encycliques gribouillées par l'Académie française, émerveillé par cette petite troupe de septuagénaires d'élite[^1], bicornus, vêtus de vert et armés d'épées extravagantes comme si Richelieu, depuis la Sorbonne où son corps se décompose en paix[^2] [^3], les avait personnellement chargés de tendre des embuscades aux frontières du royaume dans le but glorieux mais dérisoire de repousser par delà le Rhin, la Manche ou les Pyrénées quelque horde de barbares moyennement francophones et qui mériteraient d'autant plus de périr par le fil de l'épée qu'ils oublient obstinément d'accorder le participe passé avec le complément d'objet direct lorsque celui-ci est placé avant le verbe.
 
