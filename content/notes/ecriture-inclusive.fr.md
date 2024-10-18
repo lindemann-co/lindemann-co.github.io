@@ -12,7 +12,7 @@ tags:
 
 J'ai changé d'opinion au sujet de l'écriture inclusive.
 
-Dans une vie antérieure, ma condition d'homme blanc diplômé me rendait regrettablement insensible aux difficultés vécues par les membres de groupes sociaux notoirement sous-représentés.
+Dans une vie antérieure, ma condition d'homme blanc diplômé me rendait parfaitement insensible aux difficultés vécues par les membres de groupes sociaux notoirement sous-représentés.
 
 En outre, ma mère ayant voué sa vie à parts égales entre ses enfants et la dictée de Pivot, je fus élevé dans la ferveur dévote des règles d'orthographe et de grammaire les plus strictes, lisant religieusement les encycliques promulguées par l'Académie française, émerveillé que j'étais par cette petite troupe de septuagénaires d'élite[^1], bicornus, vêtus de vert et armés d'épées extravagantes, comme si Richelieu, depuis la Sorbonne où son corps se décompose en paix[^2] [^3], les avait personnellement chargés de tendre des embuscades aux frontières du royaume, des rives du Rhin aux Pyrénées, dans le but dérisoire mais glorieux de repousser quelque horde de barbares moyennement hostiles, certes, mais qui mériteraient d'autant plus de périr par le fil de l'épée qu'ils refuseraient obstinément d'accorder le participe passé avec le complément d'objet direct lorsque celui-ci est placé avant le verbe.
 
