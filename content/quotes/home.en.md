@@ -9,7 +9,6 @@ tags:
   - quotes
 ---
 
-![Smurf poet](/img/notes/schtroumpf-poete.png)
 
 Collecting quotes is one of my guilty pleasures.
 
@@ -33,11 +32,8 @@ Consequently, the following criteria were **not** taken into account:
 
 The quotes are categorized by theme on a best effort basis.
 
-<!-- Some quotes with my comments can be found [here](../../tags/quotes/). -->
-
 # Quotes
 
-![Schtroumpf inspecteur](/img/notes/schtroumpf-inspecteur.png)
 
 ## Clarifying
 > II y a une très bonne manière d'accroître notre malheur, c'est de se tromper de problème à traiter.
@@ -213,7 +209,6 @@ The quotes are categorized by theme on a best effort basis.
 > Charlie Wardle, [Understanding & Building Confidence](https://www.goodreads.com/work/quotes/42860141-understanding-building-confidence-climb-your-mountain)
 
 
-![Schtroumpf bricoleur](/img/notes/schtroumpf-bricoleur.png)
 
 ## Working
 
@@ -318,7 +313,6 @@ The quotes are categorized by theme on a best effort basis.
 >
 > Lionel Messi
 
-![Smurf paintor](/img/notes/schtroumpf-peintre.png)
 
 ## Creating
 
@@ -474,7 +468,6 @@ The quotes are categorized by theme on a best effort basis.
 > Dive into Python
 
 
-![Smurf acting](/img/notes/schtroumpf-lisant.png)
 ## Communicating
 
 > The single biggest problem with communication is the illusion that it has taken place.
@@ -566,7 +559,6 @@ The quotes are categorized by theme on a best effort basis.
 > Yves Duteil, à propos de son épouse
 
 
-![Smurf reading a book](/img/notes/schtroumpf-avec-livre.png)
 
 ## Insolite
 

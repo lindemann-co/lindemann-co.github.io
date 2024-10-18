@@ -9,7 +9,6 @@ tags:
   - citations
 ---
 
-![Guillemets](/img/notes/schtroumpf-poete.png)
 
 La collecte de citations est l'un de mes plaisirs coupables.
 
@@ -30,7 +29,6 @@ En conséquence, les critères suivants n'ont **pas** été pris en compte :
 [^5]: Des phrases niaises, communes, provocatrices ou mal traduites ont été incluses. Mon goût en matière de réflexions évolue au fil du temps; comprendre ce qui m'intéressait hier dans une citation que j'estime médiocre aujourd'hui est un exercice que je trouve très instructif.
 
 ## Clarifier
-![Schtroumpf inspecteur](/img/notes/schtroumpf-inspecteur.png)
 > II y a une très bonne manière d'accroître notre malheur, c'est de se tromper de problème à traiter.
 >
 > Jean-Marc Jancovici
@@ -52,7 +50,6 @@ En conséquence, les critères suivants n'ont **pas** été pris en compte :
 
 
 ## Penser
-![Schtroumpf penseur](/img/notes/schtroumpf-penseur.png)
 
 > Any fool can know. The point is to understand.
 >
@@ -126,7 +123,6 @@ En conséquence, les critères suivants n'ont **pas** été pris en compte :
 
 ## Agir
 
-![Schtroumpf course](/img/notes/schtroumpf-course.png)
 
 > Par nature, nous sommes des joueurs et non pas des pions.
 >
@@ -209,7 +205,6 @@ En conséquence, les critères suivants n'ont **pas** été pris en compte :
 
 
 ## Entreprendre
-![Schtroumpf bricoleur](/img/notes/schtroumpf-bricoleur.png)
 
 > Training is like fighting with a gorilla. You don’t stop when you’re tired. You stop when the gorilla is tired.
 >
@@ -282,7 +277,6 @@ En conséquence, les critères suivants n'ont **pas** été pris en compte :
 
 
 ## Persévérer
-![Schtroumpf costaud](/img/notes/schtroumpf-costaud.png)
 
 > Penelope (...), whose journey is endurance.
 >
@@ -325,7 +319,6 @@ En conséquence, les critères suivants n'ont **pas** été pris en compte :
 
 
 ## Créer
-![Schtroumpf peintre](/img/notes/schtroumpf-peintre.png)
 
 > Fear has no rival.
 >
@@ -418,7 +411,6 @@ En conséquence, les critères suivants n'ont **pas** été pris en compte :
 
 
 ## Inventer
-![Grand Schtroumpf labo](/img/notes/grand-schtroumpf-labo2.png)
 
 > Computer science is as much about computers as astronomy is about telescopes.
 >
@@ -475,10 +467,8 @@ En conséquence, les critères suivants n'ont **pas** été pris en compte :
 > Herbert Hoover, US commerce secretary in the 1920s
 
 
-<!-- ![Schtroumpf déclamant](/img/notes/schtroumpf-lisant.png) -->
 
 ## Communiquer
-![Schtroumpf bagarre](/img/notes/schtroumpf-a-lunettes.png)
 
 > La perversion de la cité commence par la fraude des mots.
 >
@@ -501,7 +491,6 @@ En conséquence, les critères suivants n'ont **pas** été pris en compte :
 
 
 ## Affronter
-![Schtroumpf bagarre](/img/notes/schtroumpf-bagarre.png)
 
 > Never negotiate with an adversary, except from a position of strength.
 >
@@ -539,7 +528,6 @@ En conséquence, les critères suivants n'ont **pas** été pris en compte :
 
 
 ## Apprécier
-![Schtroumpfette sentant une fleur](/img/notes/schtroumpfette-fleur.png)
 > Il faut toujours dire ce que l'on voit : surtout il faut toujours, ce qui est plus difficile, voir ce que l'on voit.
 >
 > Charles Péguy ([Radio France](https://www.radiofrance.fr/franceculture/peguy-et-ses-cahiers-de-la-quinzaine-4368810))
@@ -580,7 +568,6 @@ En conséquence, les critères suivants n'ont **pas** été pris en compte :
 > Yves Duteil, à propos de son épouse
 
 ## Insolite
-![Smurf reading a book](/img/notes/schtroumpf-avec-livre.png)
 
 > Les gens ont le droit d'aimer les hamburgers sans se faire emmerder pour ça.
 >
@@ -643,7 +630,6 @@ En conséquence, les critères suivants n'ont **pas** été pris en compte :
 
 
 ## Conclusion
-![Schtroumpf farceur](/img/notes/schtroumpf-farceur.png)
 > It would be disingenuous of us to disguise the fact that the principal motive which prompted the work was the sheer fun of the thing.
 >
 > Alan Turing
