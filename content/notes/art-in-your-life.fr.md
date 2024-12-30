@@ -2,7 +2,7 @@
 title: "Un Peu d'Art dans sa Vie"
 slug: "art-dans-la-vie"
 date: 2024-12-30
-draft: true
+draft: false
 toc: false
 images:
 tags:
