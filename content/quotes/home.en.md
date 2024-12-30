@@ -554,6 +554,11 @@ The quotes are categorized by theme on a best effort basis.
 > Michael (The Good Place s04e09)
 
 
+> La tendresse, la douceur, c'est aussi le privilège des forts. Dans un monde de violence, on ne peut pas se permettre d'être doux et de le rester si on a pas les armes pour se défendre.
+>
+> Yves Duteil
+
+
 > Elle ne vit pas dans mon ombre. Je vis dans sa lumière.
 >
 > Yves Duteil, à propos de son épouse
