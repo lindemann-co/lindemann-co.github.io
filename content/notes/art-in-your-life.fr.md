@@ -1,5 +1,5 @@
 ---
-title: "Un Peu d'Art dans sa Vie"
+title: "Un Peu d'Art dans la Vie"
 slug: "art-dans-la-vie"
 date: 2024-12-30
 draft: false
@@ -12,13 +12,13 @@ tags:
 
 Il y a un peu plus de quinze ans, France 5 diffusait une série de biographies d'artistes, dont Yves Duteil. 
 
-À un journaliste curieux de savoir comment son épouse vivait depuis tant d'années dans son ombre, Yves Duteil répondit simplement:
+À un journaliste curieux de savoir comment son épouse vivait depuis tant d'années dans son ombre, ce dernier répondit simplement:
 
 > Elle ne vit pas dans mon ombre; je vis dans sa lumière.
 > 
 > Yves Duteil
 
-J'ai souvent repensé à cette phrase, admiratif qu'une question aussi banale puisse produire autant de poésie avec autant de détachement. Or, je suis désormais convaincu que la poésie n'est ni le résultats d'immenses efforts, ni le privilège de quelques âmes bien nées. 
+J'ai souvent repensé à cette phrase, admiratif du détachement avec lequel une question aussi banale avait produit une réponse aussi poétique. Or, je suis désormais convaincu que la poésie n'est ni le résultat d'immenses efforts, ni le privilège de quelques âmes bien nées. 
 
 Au contraire, je crois qu'elle est le fruit d'une discipline et d'une habitude saines et simples, qu'il est possible de percevoir le monde tel qu'il est, de refuser le banal et de le défier, simplement en refusant la routine et les conventions[^1].
 
