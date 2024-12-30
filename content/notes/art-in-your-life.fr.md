@@ -12,7 +12,7 @@ tags:
 
 Il y a un peu plus de quinze ans, France 5 diffusait une série de biographies d'artistes, dont Yves Duteil. 
 
-À un journaliste curieux de savoir comment son épouse vivait depuis tant d'années dans son ombre, ce dernier répondit simplement:
+À un journaliste curieux de savoir comment son épouse s'accomodait d'une vie dans l'ombre, ce dernier répondit simplement:
 
 > Elle ne vit pas dans mon ombre; je vis dans sa lumière.
 > 
