@@ -18,9 +18,9 @@ Il y a un peu plus de quinze ans, France 5 diffusait une série de biographies d
 > 
 > Yves Duteil
 
-J'ai souvent repensé à cette phrase, admiratif qu'une question aussi banale puisse produire autant de poésie avec autant de détachement. Or, je suis désormais convaincu que la poésie n'est ni le fruit d'immenses efforts, ni le privilège de quelques âmes bien nées. 
+J'ai souvent repensé à cette phrase, admiratif qu'une question aussi banale puisse produire autant de poésie avec autant de détachement. Or, je suis désormais convaincu que la poésie n'est ni le résultats d'immenses efforts, ni le privilège de quelques âmes bien nées. 
 
-Au contraire, je crois que la poésie est une discipline, une habitude, qu'il est possible de percevoir le monde tel qu'il est, de refuser le banal et de le défier, simplement en refusant la routine et les conventions[^1].
+Au contraire, je crois qu'elle est le fruit d'une discipline et d'une habitude saines et simples, qu'il est possible de percevoir le monde tel qu'il est, de refuser le banal et de le défier, simplement en refusant la routine et les conventions[^1].
 
 Si elle est devenue une expression courante à laquelle on ne prête plus guère attention, _"vivre dans l'ombre de quelqu'un"_ est pourtant avant tout une image terriblement puissante. En comprenant ces mots pour ce qu'ils disent, au pied de la lettre, Yves Duteil a donc naturellement repris le champ lexical de la question: _"Elle ne vit pas dans mon ombre; je vis dans sa lumière."_
 
