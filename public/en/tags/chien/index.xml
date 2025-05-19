@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Chien on In English</title>
+    <link>http://localhost:1313/en/tags/chien/</link>
+    <description>Recent content in Chien on In English</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <copyright>Copyright © 2023–2025, Mathieu Lindemann; all rights reserved.</copyright>
+    <lastBuildDate>Wed, 03 Apr 2024 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/en/tags/chien/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Data Science Canine</title>
+      <link>http://localhost:1313/en/notes/data-science-canine/</link>
+      <pubDate>Wed, 03 Apr 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/en/notes/data-science-canine/</guid>
+      <description>J&amp;rsquo;ai longtemps cru que le diplôme d&amp;rsquo;ingénieur obtenu au sommet de ma gloire intellectuelle il y a presque vingt ans me confèrerait suffisamment d&amp;rsquo;humilité et de bon sens pour résister à toute vanité scientifique jusqu&amp;rsquo;à la fin de mes jours. La triste réalité est qu&amp;rsquo;un sac de croquettes a suffi à me faire dérailler.&#xA;Croquettes et régression linéaire Tout a commencé lorsque notre vétérinaire nous a annoncé que le toutou de ma fille ferait environ 35kg à l&amp;rsquo;âge adulte.</description>
+    </item>
+  </channel>
+</rss>

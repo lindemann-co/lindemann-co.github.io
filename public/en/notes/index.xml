@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Notes on Lindemann</title>
+    <link>http://localhost:1313/en/notes/</link>
+    <description>Recent content in Notes on Lindemann</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Sun, 22 Sep 2024 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/en/notes/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Recognition and Observation</title>
+      <link>http://localhost:1313/en/notes/recognition-and-observation/</link>
+      <pubDate>Sun, 22 Sep 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/en/notes/recognition-and-observation/</guid>
+      <description>Many years ago, in my little book of quotes, I connected two thoughts by Charles Péguy and Michel Foucault, both dedicated to observation:&#xA;You must always say what you see: but above all, and it is more difficult, you must always see what you see.&#xA;Charles Péguy (Radio France)&#xA;Curiosity is a vice that has been stigmatized by Christianity, philosophy, and even by a certain conception of science. Curiosity, frivolity. Yet, I like the word; it evokes care; it evokes the attention we give to what exists (&amp;hellip;) ; a certain determination to break free from our familiarities and to look at the same things differently (&amp;hellip;).</description>
+    </item>
+    <item>
+      <title>A Scary Judge of Talent</title>
+      <link>http://localhost:1313/en/notes/scary-judge-of-talent/</link>
+      <pubDate>Sun, 07 Apr 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/en/notes/scary-judge-of-talent/</guid>
+      <description>I previously mentioned the importance I attach to observation1.&#xA;Among the domains where this quality seems particularly important to me, even indispensable, I place recruitment. Indeed, I pay very close attention to the elements I wish to observe during the hiring process and during the first few months after a new employee joins.&#xA;Perhaps one day I will deserve the Al Pacinesque title of &amp;ldquo;scary judge of talent.&amp;rdquo;&#xA;Note on the importance of observation: here&amp;#160;&amp;#x21a9;&amp;#xfe0e;</description>
+    </item>
+    <item>
+      <title>Data Science for Dogs</title>
+      <link>http://localhost:1313/en/notes/data-science-for-dogs/</link>
+      <pubDate>Wed, 03 Apr 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/en/notes/data-science-for-dogs/</guid>
+      <description>After a youth marked by a dubious taste for useless exactitudes, I believed that the engineering degree obtained at the peak of my intellectual glory almost 20 years ago would grant me enough humility and common sense to resist any scientific vanity until the end of my days. The sad reality is that a bag of dog food was enough to derail me.&#xA;Dog Food and Linear Regression It all started when our veterinarian informed us that my daughter&amp;rsquo;s puppy would weigh around 35kg as an adult.</description>
+    </item>
+    <item>
+      <title>About Observation</title>
+      <link>http://localhost:1313/en/notes/observation/</link>
+      <pubDate>Sat, 30 Mar 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/en/notes/observation/</guid>
+      <description>The sense of observation is rarely mentioned as a factor of success in our personal or professional lives.&#xA;The video below corrects this injustice in less than 90 seconds.&#xA;Published on LinkedIn1, this video is accompanied by comments praising various qualities of coach BriAnna Garza: her humility when she apologizes for not acting sooner, her pedagogical sense when she remains silent after a missed shot, or her enthusiasm when she shouts to the player that he is a true shooter.</description>
+    </item>
+    <item>
+      <title>Google: theory vs practice</title>
+      <link>http://localhost:1313/en/notes/google-theory-practice/</link>
+      <pubDate>Sat, 30 Mar 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/en/notes/google-theory-practice/</guid>
+      <description>I sometimes meet founders unsure of their ability to scale their organization. One reason is that they compare their practices with what they think exists at Google or Facebook.&#xA;Since I started two companies myself1 and also managed teams at Google, I&amp;rsquo;d like to share my two cents here.&#xA;Don&amp;rsquo;t try to apply inapplicable processes First, scaling your organization doesn&amp;rsquo;t require adopting methods published by Google, Netflix, or Amazon. These companies are facing problems and have ressources (human, financial and technological) that are irrelevant to most companies.</description>
+    </item>
+    <item>
+      <title>Inspirations</title>
+      <link>http://localhost:1313/en/notes/inspirations/</link>
+      <pubDate>Tue, 10 Oct 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/en/notes/inspirations/</guid>
+      <description>Don&amp;rsquo;t expect this site to enlighten you with timeless and dazzling knowledge that its author, speaking of himself in the third person because it sounds nice, would have acquired over the course of their rich and remarkable life.&#xA;On the contrary, most of the guiding compasses used by the aforementioned author were originally expressed by others, either orally or in writing, and are so publicly available that they are listed below.</description>
+    </item>
+  </channel>
+</rss>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Art on In English</title>
+    <link>http://localhost:1313/en/tags/art/</link>
+    <description>Recent content in Art on In English</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <copyright>Copyright © 2023–2025, Mathieu Lindemann; all rights reserved.</copyright>
+    <lastBuildDate>Mon, 30 Dec 2024 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/en/tags/art/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Un Peu d&#39;Art dans sa Vie</title>
+      <link>http://localhost:1313/en/notes/art-dans-la-vie/</link>
+      <pubDate>Mon, 30 Dec 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/en/notes/art-dans-la-vie/</guid>
+      <description>Il y a un peu plus de quinze ans, France 5 diffusait une série de biographies d&amp;rsquo;artistes, dont Yves Duteil.&#xA;À un journaliste curieux de savoir comment son épouse vivait depuis tant d&amp;rsquo;années dans son ombre, Yves Duteil répondit simplement:&#xA;Elle ne vit pas dans mon ombre; je vis dans sa lumière.&#xA;Yves Duteil&#xA;J&amp;rsquo;ai souvent repensé à cette phrase, admiratif qu&amp;rsquo;une question aussi banale puisse produire autant de poésie avec autant de détachement.</description>
+    </item>
+  </channel>
+</rss>

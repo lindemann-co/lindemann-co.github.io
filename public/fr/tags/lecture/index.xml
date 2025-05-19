@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Lecture on Lindemann</title>
+    <link>http://localhost:1313/fr/tags/lecture/</link>
+    <description>Recent content in Lecture on Lindemann</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>fr</language>
+    <lastBuildDate>Tue, 10 Oct 2023 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/fr/tags/lecture/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Inspirations</title>
+      <link>http://localhost:1313/fr/notes/inspirations/</link>
+      <pubDate>Tue, 10 Oct 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/fr/notes/inspirations/</guid>
+      <description>Il y a peu de chance que ce site vous illumine de savoirs intemporels, éblouissants et universels que son auteur, parlant de lui à la troisième personne parce que ça sonne mieux, aurait acquis au cours d&amp;rsquo;une vie riche et remarquable.&#xA;Au contraire, l&amp;rsquo;essentiel des boussoles qui guident l&amp;rsquo;auteur sus-cité proviennent d&amp;rsquo;idées émises par d&amp;rsquo;autres, oralement ou écritement, et dont les sources sont tellement publiques qu&amp;rsquo;elles sont indiquées ci-dessous.&#xA;Notes:</description>
+    </item>
+  </channel>
+</rss>

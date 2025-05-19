@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Accueil on In English</title>
+    <link>http://localhost:1313/en/tags/accueil/</link>
+    <description>Recent content in Accueil on In English</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <copyright>Copyright © 2023–2025, Mathieu Lindemann; all rights reserved.</copyright>
+    <lastBuildDate>Wed, 27 Sep 2023 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/en/tags/accueil/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Guide</title>
+      <link>http://localhost:1313/en/guide/</link>
+      <pubDate>Wed, 27 Sep 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/en/guide/</guid>
+      <description>Cette page a pour but de vous aider à mieux me cerner pour faciliter d&amp;rsquo;éventuelles interactions au travail ou en dehors.&#xA;Qui Une page décrit sommairement mon parcours: ici.&#xA;Biais Action Je préfère l&amp;rsquo;action à l&amp;rsquo;inaction. Cela ne signifie pas que je fonce tête baissée, car réfléchir, anticiper, prévoir sont des actions à part entière. Mais j&amp;rsquo;ai parfois du mal à laisser le temps au temps et voir comment les choses évoluent.</description>
+    </item>
+    <item>
+      <title>À propos</title>
+      <link>http://localhost:1313/en/a-propos/</link>
+      <pubDate>Sun, 06 Aug 2023 21:59:54 +0200</pubDate>
+      <guid>http://localhost:1313/en/a-propos/</guid>
+      <description>Qui Je suis marié et père de deux enfants.&#xA;Je suis un ingénieur et un entrepreneur.&#xA;Je suis né en France au début des années 1980.&#xA;Où Je vis à Lausanne, en Suisse.&#xA;J&amp;rsquo;ai également vécu et travaillé en France, au Vietnam, en Malaisie et aux États-Unis.&#xA;Je travaille à distance ou avec des équipes réparties sur plusieurs créneaux horaires depuis plus de 15 ans.&#xA;Quoi Quand je n&amp;rsquo;enseigne pas à mes enfants à utiliser un pistolet à colle, j&amp;rsquo;essaye de rendre des organisations tech meilleures.</description>
+    </item>
+    <item>
+      <title>Bienvenue</title>
+      <link>http://localhost:1313/en/accueil/</link>
+      <pubDate>Wed, 15 Mar 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/en/accueil/</guid>
+      <description>Ce site vous permet de découvrir sommairement:&#xA;Qui je suis: ici Les sujets qui m&amp;rsquo;intéressent: là ML</description>
+    </item>
+  </channel>
+</rss>

@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Pro on Lindemann.co</title>
+    <link>http://localhost:1313/tags/pro/</link>
+    <description>Recent content in Pro on Lindemann.co</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 29 Jun 2024 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/pro/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Calendar</title>
+      <link>http://localhost:1313/cal/</link>
+      <pubDate>Sat, 29 Jun 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/cal/</guid>
+      <description>I use Calendly to give secure access to my calendar.&#xA;Open https://calendly.com/mathieu_lindemann/ to access it and book a call.</description>
+    </item>
+    <item>
+      <title>Calendrier</title>
+      <link>http://localhost:1313/cal/</link>
+      <pubDate>Sat, 29 Jun 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/cal/</guid>
+      <description>J&amp;rsquo;utilise Calendly pour partager l&amp;rsquo;accès sécurisé à mon calendrier.&#xA;Ouvrez https://calendly.com/mathieu_lindemann pour voir mes disponibilités et planifier un appel.</description>
+    </item>
+    <item>
+      <title>LinkedIn</title>
+      <link>http://localhost:1313/cv/</link>
+      <pubDate>Sun, 06 Aug 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/cv/</guid>
+      <description>Click here to go to my LinkedIn profile page.</description>
+    </item>
+    <item>
+      <title>LinkedIn</title>
+      <link>http://localhost:1313/cv/</link>
+      <pubDate>Sun, 06 Aug 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/cv/</guid>
+      <description>Pour accéder à mon profil LinkedIn, cliquez ici.</description>
+    </item>
+  </channel>
+</rss>

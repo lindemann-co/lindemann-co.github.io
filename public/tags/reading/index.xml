@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Reading on Lindemann.co</title>
+    <link>http://localhost:1313/tags/reading/</link>
+    <description>Recent content in Reading on Lindemann.co</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 10 Oct 2023 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/reading/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Inspirations</title>
+      <link>http://localhost:1313/notes/inspirations/</link>
+      <pubDate>Tue, 10 Oct 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/notes/inspirations/</guid>
+      <description>Don&amp;rsquo;t expect this site to enlighten you with timeless and dazzling knowledge that its author, speaking of himself in the third person because it sounds nice, would have acquired over the course of their rich and remarkable life.&#xA;On the contrary, most of the guiding compasses used by the aforementioned author were originally expressed by others, either orally or in writing, and are so publicly available that they are listed below.</description>
+    </item>
+  </channel>
+</rss>

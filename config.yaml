@@ -1,0 +1,99 @@
+baseURL: 'http://lindemann.co/'
+defaultContentLanguage: en
+defaultContentLanguageInSubdir: true
+title: Lindemann
+theme: hello-friend-ng
+paginate: 100
+
+enableRobotsTXT: true
+
+
+params:
+  author:
+    name: Mathieu Lindemann
+  dateform: 'Jan 2, 2006'
+  dateformShort: 'Jan 2'
+  dateformNum: '2006-01-02'
+  dateformNumTime: '2006-01-02 15:04'
+  enableThemeToggle: true
+  enableSharingButtons: true
+  homeSubtitle:  <a href="/en/home">English</a> &#x2022; <a href="/fr/accueil">Français</a>
+  footer:
+    trademark: true
+    copyright: false
+    author: true
+  logo:
+    logoMark: $
+    logoText: '~'
+    logoHomeLink: /
+    logoCursorDisabled: false
+    logoCursorColor: '#555'
+    logoCursorAnimate: 3s
+    logoCursorPathname: false
+
+taxonomies:
+  category: blog
+  tag: tags
+  series: series
+
+languages:
+  fr:
+    params:
+      subtitle: Bienvenue
+      keywords: ''
+      copyright: >-
+        <a href="https://creativecommons.org/licenses/by-nc/4.0/" target="_blank"
+        rel="noopener">CC BY-NC 4.0</a>
+      readOtherPosts: Voir les autres pages.
+      dateformShort: '2 January'
+      footer:
+        trademark: true
+        rss: false
+        copyright: false
+        author: true
+        bottomText:
+          - 'Thème inspiré de <a href="https://github.com/rhazdon">DA</a>'
+    menu:
+      main:
+        - name: À propos
+          url: /a-propos
+          weight: 20
+        - name: Notes
+          url: /notes
+          weight: 30
+        - name: Citations
+          url: /citations/accueil
+          weight: 40
+        - name: EN
+          url: ../en/home
+          weight: 1000
+  en:
+    params:
+      subtitle: Welcome
+      keywords: ''
+      copyright: >-
+        <a href="https://creativecommons.org/licenses/by-nc/4.0/" target="_blank"
+        rel="noopener">CC BY-NC 4.0</a>
+      readOtherPosts: Read other posts
+      dateformShort: 'Jan 2'
+      footer:
+        trademark: true
+        rss: false
+        copyright: false
+        author: true
+        bottomText:
+          - 'Theme inspired from <a href="https://github.com/rhazdon">DA</a>'
+    menu:
+      main:
+        - name: About
+          url: /about
+          weight: 20
+        - name: Notes
+          url: /notes
+          weight: 30
+        - name: Quotes
+          url: /quotes/all
+          weight: 40
+        - name: FR
+          url: ../fr/accueil
+          weight: 1000

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Google on Lindemann</title>
+    <link>http://localhost:1313/fr/tags/google/</link>
+    <description>Recent content in Google on Lindemann</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>fr</language>
+    <lastBuildDate>Thu, 19 Sep 2024 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/fr/tags/google/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Google et le télétravail</title>
+      <link>http://localhost:1313/fr/notes/google-teletravail/</link>
+      <pubDate>Thu, 19 Sep 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/fr/notes/google-teletravail/</guid>
+      <description>J&amp;rsquo;ai rejoint Google en 2020 en tant que manager où j&amp;rsquo;ai travaillé sur les produits AI de Google Cloud puis sur le moteur de recherche (Google Search). Est-ce que je comprends la décision de big G de revenir au présentiel 3 jours par semaine ? Oui, partiellement.&#xA;Pour être clair, j&amp;rsquo;ignore volontairement les motivations plus ou moins avouables comme mieux contrôler les heures de présence ou pousser à la démission une partie des effectifs recrutés par dizaines de milliers pendant le Covid1.</description>
+    </item>
+    <item>
+      <title>Google, entre théorie et pratique</title>
+      <link>http://localhost:1313/fr/notes/google-theorie-pratique/</link>
+      <pubDate>Sat, 30 Mar 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/fr/notes/google-theorie-pratique/</guid>
+      <description>Beaucoup de professionnel·les de la tech imaginent Google opérer à un niveau d&amp;rsquo;excellence technique et organisationnelle sans rapport avec ce que je constatais au quotidien lorsque j&amp;rsquo;y travaillais de 2020 à 2023.&#xA;J&amp;rsquo;explique cet écart par un facteur d&amp;rsquo;échelle: il suffit d&amp;rsquo;une dizaine de passionnés et de quelques semestres pour formuler une théorie, mener des expériences et publier les résultats sous forme d&amp;rsquo;un article ou d&amp;rsquo;un livre dont la crédibilité sera d&amp;rsquo;autant plus élevée que ces livres ou ces articles sont parfois validés et relayés par les services en charge de la communication de l&amp;rsquo;entreprise.</description>
+    </item>
+  </channel>
+</rss>

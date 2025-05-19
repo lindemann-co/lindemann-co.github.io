@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Teletravail on Lindemann.co</title>
+    <link>http://localhost:1313/tags/teletravail/</link>
+    <description>Recent content in Teletravail on Lindemann.co</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 19 Sep 2024 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/teletravail/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Google et le télétravail</title>
+      <link>http://localhost:1313/notes/google-teletravail/</link>
+      <pubDate>Thu, 19 Sep 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/notes/google-teletravail/</guid>
+      <description>J&amp;rsquo;ai rejoint Google en 2020 en tant que manager où j&amp;rsquo;ai travaillé sur les produits AI de Google Cloud puis sur le moteur de recherche (Google Search). Est-ce que je comprends la décision de big G de revenir au présentiel 3 jours par semaine ? Oui, partiellement.&#xA;Pour être clair, j&amp;rsquo;ignore volontairement les motivations plus ou moins avouables comme mieux contrôler les heures de présence ou pousser à la démission une partie des effectifs recrutés par dizaines de milliers pendant le Covid1.</description>
+    </item>
+  </channel>
+</rss>

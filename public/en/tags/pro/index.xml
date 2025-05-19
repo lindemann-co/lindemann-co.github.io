@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Pro on Lindemann</title>
+    <link>http://localhost:1313/en/tags/pro/</link>
+    <description>Recent content in Pro on Lindemann</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Sat, 29 Jun 2024 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/en/tags/pro/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Calendar</title>
+      <link>http://localhost:1313/en/cal/</link>
+      <pubDate>Sat, 29 Jun 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/en/cal/</guid>
+      <description>I use Calendly to give secure access to my calendar.&#xA;Open https://calendly.com/mathieu_lindemann/ to access it and book a call.</description>
+    </item>
+    <item>
+      <title>LinkedIn</title>
+      <link>http://localhost:1313/en/cv/</link>
+      <pubDate>Sun, 06 Aug 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/en/cv/</guid>
+      <description>Click here to go to my LinkedIn profile page.</description>
+    </item>
+  </channel>
+</rss>

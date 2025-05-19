@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Dog on Lindemann.co</title>
+    <link>http://localhost:1313/tags/dog/</link>
+    <description>Recent content in Dog on Lindemann.co</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 03 Apr 2024 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/dog/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Data Science for Dogs</title>
+      <link>http://localhost:1313/notes/data-science-for-dogs/</link>
+      <pubDate>Wed, 03 Apr 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/notes/data-science-for-dogs/</guid>
+      <description>After a youth marked by a dubious taste for useless exactitudes, I believed that the engineering degree obtained at the peak of my intellectual glory almost 20 years ago would grant me enough humility and common sense to resist any scientific vanity until the end of my days. The sad reality is that a bag of dog food was enough to derail me.&#xA;Dog Food and Linear Regression It all started when our veterinarian informed us that my daughter&amp;rsquo;s puppy would weigh around 35kg as an adult.</description>
+    </item>
+  </channel>
+</rss>

@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Home on Lindemann</title>
+    <link>http://localhost:1313/en/tags/home/</link>
+    <description>Recent content in Home on Lindemann</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Wed, 27 Sep 2023 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/en/tags/home/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Guide</title>
+      <link>http://localhost:1313/en/guide/</link>
+      <pubDate>Wed, 27 Sep 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/en/guide/</guid>
+      <description>This page tries to describe how I operate, to facilitate interactions at work or outside.&#xA;Bio My background is described here.&#xA;Biases Action: I prefer action over inaction. However, I also believe in thoughtful planning and anticipation as essential actions. If you find me rushing too quickly, please feel free to provide patient guidance. Communication Intensity: I value more communication over less. If you ever feel overwhelmed by my messages, don&amp;rsquo;t hesitate to let me know, and I&amp;rsquo;ll reciprocate the feedback if needed.</description>
+    </item>
+    <item>
+      <title>About</title>
+      <link>http://localhost:1313/en/about/</link>
+      <pubDate>Sun, 06 Aug 2023 21:59:54 +0200</pubDate>
+      <guid>http://localhost:1313/en/about/</guid>
+      <description>Who I am a husband and father of two.&#xA;I am an engineer, entrepreneur and computer scientist.&#xA;I was born in France in the early 1980’s.&#xA;Where I live in Lausanne, Switzerland.&#xA;I also lived and worked in France, in Vietnam, in Malaysia and in the U.S.&#xA;I have been working remotely or with distributed teams for 15+ years.&#xA;What When I am not busy teaching my kids how to use a glue gun, I manage tech organizations, mostly building or turning them around.</description>
+    </item>
+    <item>
+      <title>Welcome</title>
+      <link>http://localhost:1313/en/home/</link>
+      <pubDate>Wed, 15 Mar 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/en/home/</guid>
+      <description>This site lets you read short posts about:&#xA;Who I am: here Subjects that draw my attention: there ML</description>
+    </item>
+  </channel>
+</rss>

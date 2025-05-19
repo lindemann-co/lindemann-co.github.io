@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Citations on Lindemann</title>
+    <link>http://localhost:1313/fr/tags/citations/</link>
+    <description>Recent content in Citations on Lindemann</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>fr</language>
+    <lastBuildDate>Sat, 31 Dec 2022 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/fr/tags/citations/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Citations • Accueil</title>
+      <link>http://localhost:1313/fr/citations/accueil/</link>
+      <pubDate>Sat, 31 Dec 2022 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/fr/citations/accueil/</guid>
+      <description>La collecte de citations est l&amp;rsquo;un de mes plaisirs coupables.&#xA;Le seul critère pour qu&amp;rsquo;une phrase trouve sa place dans la liste ci-dessous est de me faire réfléchir au moment où elle me tombe dessus. Autant dire que la barre à passer est assez peu élevée.&#xA;Une fois dans la liste, une citation y reste même si je la trouve ensuite particulièrement niaise ou offensante.&#xA;En conséquence, les critères suivants n&amp;rsquo;ont pas été pris en compte :</description>
+    </item>
+  </channel>
+</rss>

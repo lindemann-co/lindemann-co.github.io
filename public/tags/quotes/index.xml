@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Quotes on Lindemann.co</title>
+    <link>http://localhost:1313/tags/quotes/</link>
+    <description>Recent content in Quotes on Lindemann.co</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 31 Dec 2022 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/quotes/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Quotes • Home</title>
+      <link>http://localhost:1313/quotes/all/</link>
+      <pubDate>Sat, 31 Dec 2022 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/quotes/all/</guid>
+      <description>Collecting quotes is one of my guilty pleasures.&#xA;The only criterion for a sentence to find its place in the list below is to make me think. The bar to pass is usually quite low.&#xA;Once in the list, a quote remains even if I later find it superficial, stupid or offending.&#xA;Consequently, the following criteria were not taken into account:&#xA;Whether or not I agree with what is said 1.</description>
+    </item>
+  </channel>
+</rss>

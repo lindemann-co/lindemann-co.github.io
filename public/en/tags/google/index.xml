@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Google on Lindemann</title>
+    <link>http://localhost:1313/en/tags/google/</link>
+    <description>Recent content in Google on Lindemann</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Sat, 30 Mar 2024 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/en/tags/google/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Google: theory vs practice</title>
+      <link>http://localhost:1313/en/notes/google-theory-practice/</link>
+      <pubDate>Sat, 30 Mar 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/en/notes/google-theory-practice/</guid>
+      <description>I sometimes meet founders unsure of their ability to scale their organization. One reason is that they compare their practices with what they think exists at Google or Facebook.&#xA;Since I started two companies myself1 and also managed teams at Google, I&amp;rsquo;d like to share my two cents here.&#xA;Don&amp;rsquo;t try to apply inapplicable processes First, scaling your organization doesn&amp;rsquo;t require adopting methods published by Google, Netflix, or Amazon. These companies are facing problems and have ressources (human, financial and technological) that are irrelevant to most companies.</description>
+    </item>
+  </channel>
+</rss>

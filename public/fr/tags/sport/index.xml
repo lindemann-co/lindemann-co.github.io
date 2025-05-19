@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Sport on Lindemann</title>
+    <link>http://localhost:1313/fr/tags/sport/</link>
+    <description>Recent content in Sport on Lindemann</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>fr</language>
+    <lastBuildDate>Sat, 30 Mar 2024 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/fr/tags/sport/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>De l&#39;Observation</title>
+      <link>http://localhost:1313/fr/notes/observation/</link>
+      <pubDate>Sat, 30 Mar 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/fr/notes/observation/</guid>
+      <description>Le sens de l&amp;rsquo;observation est rarement mentionné comme facteur de réussite dans nos vies personnelles ou professionnelles.&#xA;La vidéo ci-dessous répare cette injustice en moins de 90 secondes.&#xA;Publiée sur LinkedIn1, la vidéo y est accompagnée de commentaires louant diverses qualités de la coach BriAnna Garza: son humilité lorsqu&amp;rsquo;elle s&amp;rsquo;excuse de ne pas avoir agi plus tôt, son sens de la pédagogie lorsqu&amp;rsquo;elle garde le silence après le tir manqué ou encore son enthousiasme lorsqu&amp;rsquo;elle crie au joueur qu&amp;rsquo;il est un véritable shooter.</description>
+    </item>
+  </channel>
+</rss>

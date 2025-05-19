@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Management on Lindemann.co</title>
+    <link>http://localhost:1313/tags/management/</link>
+    <description>Recent content in Management on Lindemann.co</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 30 Mar 2024 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/management/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Google, entre théorie et pratique</title>
+      <link>http://localhost:1313/notes/google-theorie-pratique/</link>
+      <pubDate>Sat, 30 Mar 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/notes/google-theorie-pratique/</guid>
+      <description>Beaucoup de professionnel·les de la tech imaginent Google opérer à un niveau d&amp;rsquo;excellence technique et organisationnelle sans rapport avec ce que je constatais au quotidien lorsque j&amp;rsquo;y travaillais de 2020 à 2023.&#xA;J&amp;rsquo;explique cet écart par un facteur d&amp;rsquo;échelle: il suffit d&amp;rsquo;une dizaine de passionnés et de quelques semestres pour formuler une théorie, mener des expériences et publier les résultats sous forme d&amp;rsquo;un article ou d&amp;rsquo;un livre dont la crédibilité sera d&amp;rsquo;autant plus élevée que ces livres ou ces articles sont parfois validés et relayés par les services en charge de la communication de l&amp;rsquo;entreprise.</description>
+    </item>
+    <item>
+      <title>Google: theory vs practice</title>
+      <link>http://localhost:1313/notes/google-theory-practice/</link>
+      <pubDate>Sat, 30 Mar 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/notes/google-theory-practice/</guid>
+      <description>I sometimes meet founders unsure of their ability to scale their organization. One reason is that they compare their practices with what they think exists at Google or Facebook.&#xA;Since I started two companies myself1 and also managed teams at Google, I&amp;rsquo;d like to share my two cents here.&#xA;Don&amp;rsquo;t try to apply inapplicable processes First, scaling your organization doesn&amp;rsquo;t require adopting methods published by Google, Netflix, or Amazon. These companies are facing problems and have ressources (human, financial and technological) that are irrelevant to most companies.</description>
+    </item>
+  </channel>
+</rss>
